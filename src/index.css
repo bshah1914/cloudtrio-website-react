@@ -158,10 +158,15 @@ body {
 .light .text-zinc-500 { color: var(--text-muted) !important; }
 .light .text-zinc-600 { color: var(--text-muted) !important; }
 
-/* Keep white text inside dark containers */
-.light .bg-cta .text-white,
-.light .bg-cta .text-zinc-300,
-.light .bg-cta .text-zinc-400,
+/* Force white text inside ALL dark containers in light mode */
+.light .bg-cta,
+.light .bg-cta * { color: inherit; }
+.light .bg-cta { color: #e2e8f0; }
+.light .bg-cta h1, .light .bg-cta h2, .light .bg-cta h3 { color: #ffffff !important; -webkit-text-fill-color: #ffffff !important; }
+.light .bg-cta p { color: #cbd5e1 !important; }
+.light .bg-cta .btn-primary { color: #fff !important; }
+.light .bg-cta .btn-secondary { color: #e2e8f0 !important; border-color: rgba(255,255,255,0.2) !important; }
+
 .light [class*="bg-zinc-9"] .text-white,
 .light [class*="bg-zinc-9"] .text-zinc-300,
 .light [class*="bg-zinc-9"] .text-zinc-400,
