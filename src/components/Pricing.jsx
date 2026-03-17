@@ -240,9 +240,12 @@ export default function Pricing() {
 
                       <Link
                         to="/contact"
-                        className={`block w-full text-center py-2.5 rounded-xl font-semibold text-sm transition-all ${
-                          p.featured ? 'btn-primary !justify-center !w-full' : 'btn-secondary !justify-center !w-full'
+                        className={`relative z-10 flex items-center justify-center w-full py-3 rounded-xl font-semibold text-sm transition-all ${
+                          p.featured
+                            ? 'text-white bg-[var(--accent)] hover:brightness-110 shadow-lg shadow-purple-500/20'
+                            : 'border border-[rgba(255,255,255,0.1)] hover:border-[var(--accent)] hover:bg-[var(--accent-light)]'
                         }`}
+                        style={{ color: p.featured ? '#fff' : 'var(--text-secondary)' }}
                       >
                         {p.cta}
                       </Link>
