@@ -90,7 +90,7 @@ body {
 .light .bg-cta { background: linear-gradient(135deg, #312e81, #1e1b4b, #0f172a); }
 
 /* ===== CARDS ===== */
-.card-dark { background: var(--bg-card); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; backdrop-filter: blur(16px); transition: all 0.4s cubic-bezier(0.4,0,0.2,1); position: relative; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.3), 0 0 1px rgba(255,255,255,0.05); }
+.card-dark { background: var(--bg-card); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; backdrop-filter: blur(16px); transition: all 0.4s cubic-bezier(0.4,0,0.2,1); position: relative; box-shadow: 0 4px 16px rgba(0,0,0,0.3), 0 0 1px rgba(255,255,255,0.05); }
 .card-dark:hover { border-color: rgba(139,92,246,0.35); box-shadow: 0 12px 48px rgba(139,92,246,0.15), 0 4px 16px rgba(0,0,0,0.4); transform: translateY(-4px); }
 .light .card-dark { box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
 .light .card-dark:hover { box-shadow: 0 8px 30px rgba(99,102,241,0.08); }
@@ -122,8 +122,8 @@ body {
 .light .pill-orange { color: #ea580c; background: rgba(251,146,60,0.06); border-color: rgba(251,146,60,0.12); }
 
 /* ===== ICON BOX ===== */
-.ibox { width: 44px; height: 44px; border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-.ibox-lg { width: 56px; height: 56px; border-radius: 14px; }
+.ibox { width: 44px; height: 44px; border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; overflow: hidden; }
+.ibox-lg { width: 56px; height: 56px; border-radius: 14px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; overflow: hidden; }
 
 /* ===== NAV ===== */
 .nav-dark { backdrop-filter: saturate(180%) blur(20px); background: rgba(15,17,23,0.9); border-bottom: 1px solid rgba(255,255,255,0.06); }
