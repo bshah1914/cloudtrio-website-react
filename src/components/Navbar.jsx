@@ -224,14 +224,8 @@ export default function Navbar() {
           </div>
 
           {/* ---- Desktop CTA + Theme Toggle ---- */}
-          <div className="hidden lg:flex items-center gap-3">
+          <div className="hidden lg:flex items-center">
             <ThemeToggle />
-            <Link to="/contact" className="btn-primary btn-sm">
-              Get Started Free
-              <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-              </svg>
-            </Link>
           </div>
 
           {/* ---- Mobile Hamburger ---- */}
