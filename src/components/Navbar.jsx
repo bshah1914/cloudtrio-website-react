@@ -226,9 +226,6 @@ export default function Navbar() {
           {/* ---- Desktop CTA + Theme Toggle ---- */}
           <div className="hidden lg:flex items-center gap-3">
             <ThemeToggle />
-            <Link to="/contact" className="btn-secondary btn-sm">
-              Sign In
-            </Link>
             <Link to="/contact" className="btn-primary btn-sm">
               Get Started Free
               <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -396,9 +393,6 @@ export default function Navbar() {
 
                 {/* Mobile CTAs */}
                 <div className="flex flex-col gap-3">
-                  <Link to="/contact" onClick={() => setOpen(false)} className="btn-secondary w-full justify-center btn-sm">
-                    Sign In
-                  </Link>
                   <Link to="/contact" onClick={() => setOpen(false)} className="btn-primary w-full justify-center btn-sm">
                     Get Started Free
                   </Link>
