@@ -13,17 +13,17 @@ html { scroll-behavior: smooth; }
 /* ======================================================= */
 :root, .dark {
   --bg: #13131a;
-  --bg-card: #1a1a24;
-  --bg-surface: #17171f;
-  --bg-hover: #22222e;
-  --border: rgba(255,255,255,0.08);
-  --border-hover: rgba(124,58,237,0.25);
-  --text-primary: #f4f4f5;
-  --text-secondary: #a8a8b3;
-  --text-muted: #78788a;
-  --text-body: #cdcdd6;
-  --accent: #7c3aed;
-  --accent-light: rgba(124,58,237,0.12);
+  --bg-card: #1c1c28;
+  --bg-surface: #181822;
+  --bg-hover: #262635;
+  --border: rgba(255,255,255,0.12);
+  --border-hover: rgba(124,58,237,0.35);
+  --text-primary: #ffffff;
+  --text-secondary: #c0c0cc;
+  --text-muted: #9090a0;
+  --text-body: #d8d8e2;
+  --accent: #8b5cf6;
+  --accent-light: rgba(139,92,246,0.15);
   color-scheme: dark;
 }
 
@@ -90,15 +90,15 @@ body {
 .light .bg-cta { background: linear-gradient(135deg, #312e81, #1e1b4b, #0f172a); }
 
 /* ===== CARDS ===== */
-.card-dark { background: var(--bg-card); border: 1px solid var(--border); border-radius: 16px; backdrop-filter: blur(12px); transition: all 0.4s cubic-bezier(0.4,0,0.2,1); position: relative; overflow: hidden; }
-.card-dark:hover { border-color: var(--border-hover); box-shadow: 0 8px 40px rgba(124,58,237,0.08); transform: translateY(-4px); }
+.card-dark { background: var(--bg-card); border: 1px solid var(--border); border-radius: 16px; backdrop-filter: blur(12px); transition: all 0.4s cubic-bezier(0.4,0,0.2,1); position: relative; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+.card-dark:hover { border-color: var(--border-hover); box-shadow: 0 8px 40px rgba(139,92,246,0.12), 0 2px 12px rgba(0,0,0,0.3); transform: translateY(-4px); }
 .light .card-dark { box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
 .light .card-dark:hover { box-shadow: 0 8px 30px rgba(99,102,241,0.08); }
 
 .card-glass { background: rgba(255,255,255,0.03); border: 1px solid var(--border); border-radius: 16px; backdrop-filter: blur(20px); }
 .light .card-glass { background: rgba(255,255,255,0.8); }
 
-.card-glow { background: var(--bg-card); border: 1px solid rgba(124,58,237,0.15); border-radius: 20px; box-shadow: 0 0 60px rgba(124,58,237,0.06); }
+.card-glow { background: var(--bg-card); border: 1px solid rgba(139,92,246,0.25); border-radius: 20px; box-shadow: 0 0 60px rgba(139,92,246,0.1), 0 4px 16px rgba(0,0,0,0.2); }
 .light .card-glow { border-color: rgba(99,102,241,0.2); box-shadow: 0 4px 30px rgba(99,102,241,0.06); }
 
 /* ===== BUTTONS ===== */
