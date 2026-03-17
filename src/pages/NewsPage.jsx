@@ -26,9 +26,8 @@ const news = [
 ]
 
 export default function NewsPage() {
-  const [active, setActive] = useState('All')
   const [email, setEmail] = useState('')
-  const filtered = active === 'All' ? news : news.filter((n) => n.provider === active)
+  const filtered = news
 
   return (
     <div>
@@ -56,30 +55,8 @@ export default function NewsPage() {
         <div className="glow-line mt-16" />
       </section>
 
-      {/* Provider Tabs */}
-      <section className="max-w-7xl mx-auto px-6 lg:px-8 -mt-6 relative z-10 mb-10">
-        <AnimatedSection>
-          <div className="inline-flex rounded-2xl p-1.5 card-dark">
-            {providers.map((p) => (
-              <motion.button
-                key={p}
-                onClick={() => setActive(p)}
-                whileTap={{ scale: 0.95 }}
-                className="relative px-6 py-2.5 rounded-xl text-sm font-medium transition-all"
-                style={{ color: active === p ? '#fff' : 'var(--text-muted)' }}
-              >
-                {active === p && (
-                  <motion.div layoutId="news-tab" className="absolute inset-0 rounded-xl" style={{ background: 'var(--accent)' }} transition={{ type: 'spring', stiffness: 400, damping: 30 }} />
-                )}
-                <span className="relative z-10 flex items-center gap-2">
-                  {p !== 'All' && <span>{providerConfig[p].icon}</span>}
-                  {p}
-                </span>
-              </motion.button>
-            ))}
-          </div>
-        </AnimatedSection>
-      </section>
+      {/* spacer */}
+      <div className="h-6" />
 
       {/* News Grid */}
       <section className="max-w-7xl mx-auto px-6 lg:px-8 pb-16">
