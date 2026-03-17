@@ -58,7 +58,7 @@ export default function CloudSecurityPage() {
               <span className="text-zinc-300">Cloud Security</span>
             </nav>
             <div className="pill-cyan mb-6">ZERO TRUST</div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6 leading-tight">
               Cloud <span className="gt">Security</span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-2xl">
@@ -73,7 +73,7 @@ export default function CloudSecurityPage() {
       <section className="bg-base py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               Security <span className="gt">Operations</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -110,7 +110,7 @@ export default function CloudSecurityPage() {
       <section className="bg-section-alt py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               Compliance <span className="gt">Process</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-8">
@@ -143,7 +143,7 @@ export default function CloudSecurityPage() {
       <section className="bg-base py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               DevSecOps <span className="gt">Pipeline</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -170,7 +170,7 @@ export default function CloudSecurityPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
                 Security That <span className="gt">Performs</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-2xl mx-auto">
@@ -196,7 +196,7 @@ export default function CloudSecurityPage() {
       <section className="bg-base py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               Compliance <span className="gt">Frameworks</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -221,7 +221,7 @@ export default function CloudSecurityPage() {
       <section className="bg-cta py-24 lg:py-32">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Secure your cloud today</h2>
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Secure your cloud today</h2>
             <p className="text-zinc-300 text-lg mb-10 max-w-2xl mx-auto">
               Get a free security assessment and compliance gap analysis for your cloud environment. Identify risks before they become incidents.
             </p>

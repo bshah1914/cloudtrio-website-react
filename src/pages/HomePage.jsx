@@ -358,10 +358,10 @@ export default function HomePage() {
                 whileHover={{ scale: 1.06, borderColor: 'rgba(124, 58, 237, 0.3)' }}
                 className="card-glass px-7 py-4 rounded-2xl flex flex-col items-center gap-1.5 cursor-default min-w-[120px] group"
               >
-                <div className="text-base font-bold group-hover:text-white transition-colors duration-300" style={{ color: 'var(--text-muted)' }}>
+                <div className="text-base font-bold group-hover:text-indigo-500 transition-colors duration-300" style={{ color: 'var(--text-muted)' }}>
                   {p.short}
                 </div>
-                <div className="text-[10px] group-hover:text-zinc-400 transition-colors duration-300" style={{ color: 'var(--text-muted)' }}>
+                <div className="text-[10px] group-hover:text-indigo-400 transition-colors duration-300" style={{ color: 'var(--text-muted)' }}>
                   {p.name}
                 </div>
               </motion.div>

@@ -75,7 +75,7 @@ export default function AboutPage() {
               <span className="text-zinc-300">About CloudTrio</span>
             </nav>
             <div className="pill mb-6">OUR STORY</div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6 leading-tight">
               About <span className="gt">CloudTrio</span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-2xl">
@@ -93,7 +93,7 @@ export default function AboutPage() {
             <StaggerItem>
               <motion.div whileHover={{ y: -4 }} className="card-glow p-10 h-full">
                 <div className="pill-cyan text-xs mb-4">OUR MISSION</div>
-                <h3 className="text-2xl font-bold text-white mb-4">Make cloud infrastructure accessible, efficient, and secure for every team.</h3>
+                <h3 className="text-2xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">Make cloud infrastructure accessible, efficient, and secure for every team.</h3>
                 <p className="text-sm text-zinc-400 leading-relaxed">
                   We believe that world-class cloud operations shouldn&apos;t require a 50-person platform team.
                   CloudTrio levels the playing field with expert services and intelligent tooling that deliver
@@ -104,7 +104,7 @@ export default function AboutPage() {
             <StaggerItem>
               <motion.div whileHover={{ y: -4 }} className="card-glow p-10 h-full">
                 <div className="pill-green text-xs mb-4">OUR VISION</div>
-                <h3 className="text-2xl font-bold text-white mb-4">A world where every dollar spent on cloud delivers maximum business value.</h3>
+                <h3 className="text-2xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">A world where every dollar spent on cloud delivers maximum business value.</h3>
                 <p className="text-sm text-zinc-400 leading-relaxed">
                   We&apos;re building a future where cloud waste is eliminated through intelligent automation,
                   where security is built-in by default, and where engineering teams spend their time
@@ -121,7 +121,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto">
             <AnimatedSection>
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
+              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">
                 From Frustration to <span className="gt">Foundation</span>
               </h2>
               <div className="space-y-5 text-zinc-400 text-lg leading-relaxed">
@@ -152,7 +152,7 @@ export default function AboutPage() {
       <section className="bg-base py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               What Drives <span className="gt">Us</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -182,7 +182,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
                 By The <span className="gt">Numbers</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-2xl mx-auto">
@@ -209,7 +209,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
                 Certifications & <span className="gt">Partnerships</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-2xl mx-auto">
@@ -238,7 +238,7 @@ export default function AboutPage() {
       <section className="bg-cta py-24 lg:py-32">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Let&apos;s build something great</h2>
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Let&apos;s build something great</h2>
             <p className="text-zinc-300 text-lg mb-10 max-w-2xl mx-auto">
               Whether you need consulting, managed services, or intelligent tooling -- we&apos;re here to help you master the cloud.
             </p>

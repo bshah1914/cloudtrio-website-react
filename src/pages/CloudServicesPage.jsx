@@ -132,7 +132,7 @@ export default function CloudServicesPage() {
               <span className="text-zinc-300">Cloud Services</span>
             </nav>
             <div className="pill mb-6">ENTERPRISE CLOUD</div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6 leading-tight">
               Cloud <span className="gt">Services</span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-2xl">
@@ -147,7 +147,7 @@ export default function CloudServicesPage() {
       <section className="bg-base py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               What We <span className="gt">Deliver</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -174,7 +174,7 @@ export default function CloudServicesPage() {
       <section className="bg-section-alt py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               Multi-Cloud <span className="gt">Expertise</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -187,9 +187,9 @@ export default function CloudServicesPage() {
               <StaggerItem key={p.short}>
                 <motion.div whileHover={{ y: -6 }} transition={{ duration: 0.25 }} className="card-glow p-8 h-full">
                   <div className="ibox-lg mb-6">
-                    <span className="text-sm font-bold text-white">{p.short}</span>
+                    <span className="text-sm font-bold" style={{ color: 'var(--text-primary)' }} className="">{p.short}</span>
                   </div>
-                  <h3 className="text-xl font-bold text-white mb-3">{p.name}</h3>
+                  <h3 className="text-xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-3">{p.name}</h3>
                   <p className="text-sm text-zinc-400 leading-relaxed mb-6">{p.description}</p>
                   <div className="space-y-2">
                     {p.features.map((f) => (
@@ -213,7 +213,7 @@ export default function CloudServicesPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <AnimatedSection>
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
+              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">
                 Why Choose <span className="gt">CloudTrio</span>
               </h2>
               <p className="text-zinc-400 text-lg mb-10">
@@ -251,7 +251,7 @@ export default function CloudServicesPage() {
       <section className="bg-section-alt py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               Our <span className="gt">Approach</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -288,7 +288,7 @@ export default function CloudServicesPage() {
       <section className="bg-base py-24 lg:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
               Industries We <span className="gt">Serve</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -313,7 +313,7 @@ export default function CloudServicesPage() {
       <section className="bg-cta py-24 lg:py-32">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Ready to modernize your cloud?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Ready to modernize your cloud?</h2>
             <p className="text-zinc-300 text-lg mb-10 max-w-2xl mx-auto">
               Talk to our architects and get a free assessment of your current infrastructure. No strings attached.
             </p>

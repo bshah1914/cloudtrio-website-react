@@ -150,3 +150,35 @@ body {
 .tl-line { width: 2px; background: linear-gradient(180deg, #7c3aed, #06b6d4, #34d399, #f472b6); }
 .light .tl-line { background: linear-gradient(180deg, #6366f1, #0ea5e9, #10b981, #ec4899); }
 .tl-dot { width: 14px; height: 14px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px var(--bg), 0 0 0 6px var(--accent-light); }
+
+/* ===== LIGHT MODE TEXT OVERRIDES ===== */
+.light .text-white { color: var(--text-primary) !important; }
+.light .text-zinc-300 { color: var(--text-body) !important; }
+.light .text-zinc-400 { color: var(--text-secondary) !important; }
+.light .text-zinc-500 { color: var(--text-muted) !important; }
+.light .text-zinc-600 { color: var(--text-muted) !important; }
+
+/* Keep white text inside dark containers */
+.light .bg-cta .text-white,
+.light .bg-cta .text-zinc-300,
+.light .bg-cta .text-zinc-400,
+.light [class*="bg-zinc-9"] .text-white,
+.light [class*="bg-zinc-9"] .text-zinc-300,
+.light [class*="bg-zinc-9"] .text-zinc-400,
+.light [class*="bg-zinc-9"] .text-zinc-500,
+.light .code-block .text-white,
+.light .code-block .text-zinc-400,
+.light .code-block .text-zinc-500,
+.light .bg-slate-900 .text-white,
+.light footer .text-white,
+.light footer .text-zinc-400 { color: inherit !important; }
+
+/* Light mode bg-white/5 borders visible */
+.light [class*="bg-white/"] { background: rgba(0,0,0,0.03) !important; }
+.light [class*="border-white/"] { border-color: var(--border) !important; }
+
+/* Keep gradient bg icon boxes white text */
+.light .ibox-lg .text-white,
+.light .ibox .text-white,
+.light [class*="bg-gradient"] .text-white { color: #fff !important; }
+.light .btn-primary { color: #fff !important; }

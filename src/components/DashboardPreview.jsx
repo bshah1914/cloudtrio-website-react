@@ -28,10 +28,10 @@ export default function DashboardPreview() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <AnimatedSection className="text-center max-w-3xl mx-auto mb-16">
           <span className="pill pill-green mb-5 inline-flex">Product Preview</span>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-5">
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-5" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)' }}>
             Your cloud <span className="gt">control center</span>
           </h2>
-          <p className="text-zinc-400 text-lg leading-relaxed">
+          <p className="text-lg leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
             Real-time dashboards that give your team complete visibility into cloud costs, performance, and compliance.
           </p>
         </AnimatedSection>

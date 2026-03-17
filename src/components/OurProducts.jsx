@@ -20,7 +20,7 @@ export default function OurProducts() {
               <span className="w-1.5 h-1.5 rounded-full bg-violet-400 animate-pulse" />
               Our Products
             </motion.span>
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">
               Products built for <span className="gt-warm">cloud excellence</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-3xl mx-auto mb-8 leading-relaxed">

@@ -39,7 +39,7 @@ export default function Integrations() {
                 className="card-dark p-6 flex flex-col items-center justify-center gap-3 text-center"
               >
                 <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${item.gradient} flex items-center justify-center`}>
-                  <span className="text-sm font-bold text-white">{item.abbr}</span>
+                  <span className="text-sm font-bold" style={{ color: 'var(--text-primary)' }}>{item.abbr}</span>
                 </div>
                 <span className="text-xs font-medium" style={{ color: 'var(--text-secondary)' }}>{item.name}</span>
               </motion.div>
