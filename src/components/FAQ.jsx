@@ -98,7 +98,7 @@ export default function FAQ() {
   const [openIndex, setOpenIndex] = useState(0)
 
   return (
-    <section id="faq" className="bg-base py-24 lg:py-32 relative overflow-hidden">
+    <section id="faq" className="bg-base py-16 lg:py-20 relative overflow-hidden">
       <div className="orb w-[400px] h-[400px] bg-cyan-500 -top-40 -right-40" />
 
       <div className="max-w-3xl mx-auto px-6 lg:px-8 relative z-10">

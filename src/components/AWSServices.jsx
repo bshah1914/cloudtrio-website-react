@@ -36,7 +36,7 @@ const services = [
 
 export default function AWSServices() {
   return (
-    <section id="aws-services" className="bg-section-alt py-24 lg:py-32 relative overflow-hidden">
+    <section id="aws-services" className="bg-section-alt py-16 lg:py-20 relative overflow-hidden">
       <div className="grid-overlay absolute inset-0 pointer-events-none opacity-30" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

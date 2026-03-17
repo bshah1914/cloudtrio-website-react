@@ -408,7 +408,7 @@ export default function CloudSentinelPage() {
       {/* ================================================================ */}
       {/* SECTION 1 — What It Does (Bento Grid) */}
       {/* ================================================================ */}
-      <section className="bg-alt py-28 lg:py-36 relative overflow-hidden">
+      <section className="bg-alt py-16 lg:py-20 relative overflow-hidden">
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-20">
@@ -457,7 +457,7 @@ export default function CloudSentinelPage() {
       {/* ================================================================ */}
       {/* SECTION 2 — Key Features (4x3 Grid) */}
       {/* ================================================================ */}
-      <section className="py-28 lg:py-36 relative overflow-hidden">
+      <section className="py-16 lg:py-20 relative overflow-hidden">
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
@@ -489,7 +489,7 @@ export default function CloudSentinelPage() {
       {/* ================================================================ */}
       {/* SECTION 3 — Numbers That Matter */}
       {/* ================================================================ */}
-      <section className="bg-alt py-28 lg:py-36 relative overflow-hidden">
+      <section className="bg-alt py-16 lg:py-20 relative overflow-hidden">
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
@@ -522,7 +522,7 @@ export default function CloudSentinelPage() {
       {/* ================================================================ */}
       {/* SECTION 4 — Tech Stack */}
       {/* ================================================================ */}
-      <section className="py-28 lg:py-36 relative overflow-hidden">
+      <section className="py-16 lg:py-20 relative overflow-hidden">
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
@@ -559,7 +559,7 @@ export default function CloudSentinelPage() {
       {/* ================================================================ */}
       {/* SECTION 5 — Compliance Frameworks */}
       {/* ================================================================ */}
-      <section className="bg-alt py-28 lg:py-36 relative overflow-hidden">
+      <section className="bg-alt py-16 lg:py-20 relative overflow-hidden">
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
@@ -600,7 +600,7 @@ export default function CloudSentinelPage() {
       {/* ================================================================ */}
       {/* CTA */}
       {/* ================================================================ */}
-      <section className="bg-cta py-24 lg:py-32">
+      <section className="bg-cta py-16 lg:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
             <h2

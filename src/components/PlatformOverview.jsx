@@ -67,7 +67,7 @@ const features = [
 
 export default function PlatformOverview() {
   return (
-    <section id="platform" className="bg-base py-24 lg:py-32 relative overflow-hidden">
+    <section id="platform" className="bg-base py-16 lg:py-20 relative overflow-hidden">
       {/* Background orbs */}
       <div className="orb w-[600px] h-[600px] bg-purple-600 -top-60 -right-40" />
       <div className="orb w-[400px] h-[400px] bg-cyan-500 bottom-20 -left-32" />

@@ -143,7 +143,7 @@ export default function HomePage() {
       {/* ================================================================ */}
       {/* ====== BENTO SERVICES GRID ====== */}
       {/* ================================================================ */}
-      <section className="bg-alt py-28 lg:py-36 relative overflow-hidden">
+      <section className="bg-alt py-16 lg:py-20 relative overflow-hidden">
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-20">
@@ -224,7 +224,7 @@ export default function HomePage() {
       {/* ================================================================ */}
       {/* ====== CLOUDLUNAR TEASER ====== */}
       {/* ================================================================ */}
-      <section className="bg-alt py-28 lg:py-36 relative overflow-hidden">
+      <section className="bg-alt py-16 lg:py-20 relative overflow-hidden">
         <div className="orb w-[400px] h-[400px] bg-emerald-600 bottom-0 -left-40" style={{ animationDelay: '3s' }} />
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">

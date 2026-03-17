@@ -144,7 +144,7 @@ export default function CloudServicesPage() {
       </section>
 
       {/* Offerings Grid */}
-      <section className="bg-base py-24 lg:py-32">
+      <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
@@ -171,7 +171,7 @@ export default function CloudServicesPage() {
       </section>
 
       {/* Cloud Platforms */}
-      <section className="bg-section-alt py-24 lg:py-32">
+      <section className="bg-section-alt py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
@@ -209,7 +209,7 @@ export default function CloudServicesPage() {
       </section>
 
       {/* Why Choose Us */}
-      <section className="bg-base py-24 lg:py-32">
+      <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <AnimatedSection>
@@ -248,7 +248,7 @@ export default function CloudServicesPage() {
       </section>
 
       {/* Our Approach */}
-      <section className="bg-section-alt py-24 lg:py-32">
+      <section className="bg-section-alt py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
@@ -285,7 +285,7 @@ export default function CloudServicesPage() {
       </section>
 
       {/* Industries */}
-      <section className="bg-base py-24 lg:py-32">
+      <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
@@ -310,7 +310,7 @@ export default function CloudServicesPage() {
       </section>
 
       {/* CTA */}
-      <section className="bg-cta py-24 lg:py-32">
+      <section className="bg-cta py-16 lg:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
             <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Ready to modernize your cloud?</h2>

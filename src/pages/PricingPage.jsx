@@ -109,7 +109,7 @@ export default function PricingPage() {
       <Pricing />
 
       {/* CloudLunar Comparison */}
-      <section className="py-24 lg:py-32" style={{ background: 'var(--bg)' }}>
+      <section className="py-16 lg:py-20" style={{ background: 'var(--bg)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection className="text-center mb-14">
             <span className="pill-green mb-4 inline-flex">CloudLunar Plans</span>
@@ -124,7 +124,7 @@ export default function PricingPage() {
       </section>
 
       {/* CloudSentinel Comparison */}
-      <section className="py-24 lg:py-32" style={{ background: 'var(--bg-surface)' }}>
+      <section className="py-16 lg:py-20" style={{ background: 'var(--bg-surface)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection className="text-center mb-14">
             <span className="pill-pink mb-4 inline-flex">CloudSentinel Plans</span>
@@ -139,7 +139,7 @@ export default function PricingPage() {
       </section>
 
       {/* Enterprise Benefits */}
-      <section className="py-24 lg:py-32" style={{ background: 'var(--bg)' }}>
+      <section className="py-16 lg:py-20" style={{ background: 'var(--bg)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection className="text-center mb-14">
             <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)' }}>
@@ -168,7 +168,7 @@ export default function PricingPage() {
       <FAQ />
 
       {/* CTA */}
-      <section className="bg-cta py-24 lg:py-32 relative">
+      <section className="bg-cta py-16 lg:py-20 relative">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <AnimatedSection>
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-6" style={{ fontFamily: 'var(--font-display)' }}>Start your free trial today</h2>

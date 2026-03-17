@@ -24,7 +24,7 @@ const recommendations = [
 
 export default function DashboardPreview() {
   return (
-    <section id="product" className="bg-section-alt py-24 lg:py-32">
+    <section id="product" className="bg-section-alt py-16 lg:py-20">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <AnimatedSection className="text-center max-w-3xl mx-auto mb-16">
           <span className="pill pill-green mb-5 inline-flex">Product Preview</span>

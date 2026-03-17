@@ -3,7 +3,7 @@ import AnimatedSection, { StaggerContainer, StaggerItem } from './AnimatedSectio
 
 export default function About() {
   return (
-    <section id="about" className="py-24 lg:py-32 bg-white relative overflow-hidden">
+    <section id="about" className="py-16 lg:py-20 bg-white relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <AnimatedSection className="text-center max-w-3xl mx-auto mb-16">
           <span className="inline-block px-4 py-1.5 rounded-full text-sm font-medium bg-indigo-50 text-indigo-600 border border-indigo-100 mb-6">

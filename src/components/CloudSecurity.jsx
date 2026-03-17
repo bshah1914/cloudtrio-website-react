@@ -57,7 +57,7 @@ const devSecOpsPoints = [
 
 export default function CloudSecurity() {
   return (
-    <section id="security" className="py-24 lg:py-32 relative bg-soft">
+    <section id="security" className="py-16 lg:py-20 relative bg-soft">
       <div className="sep" />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}

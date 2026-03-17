@@ -60,7 +60,7 @@ const testimonials = [
 
 export default function Testimonials() {
   return (
-    <section className="bg-base py-24 lg:py-32 relative overflow-hidden">
+    <section className="bg-base py-16 lg:py-20 relative overflow-hidden">
       <div className="orb w-[500px] h-[500px] bg-purple-600 -top-40 right-0" />
       <div className="orb w-[400px] h-[400px] bg-cyan-500 bottom-0 -left-40" />
 

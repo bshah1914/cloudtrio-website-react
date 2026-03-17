@@ -54,7 +54,7 @@ const stats = [
 
 export default function Stats() {
   return (
-    <section className="bg-section-alt py-24 lg:py-32">
+    <section className="bg-section-alt py-16 lg:py-20">
       <div className="max-w-6xl mx-auto px-6 lg:px-8">
         <AnimatedSection className="text-center mb-14">
           <span className="pill pill-cyan mb-4 inline-flex">

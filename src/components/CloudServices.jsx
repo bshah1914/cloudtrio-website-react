@@ -111,7 +111,7 @@ const platforms = [
 
 export default function CloudServices() {
   return (
-    <section id="cloud-services" className="py-24 lg:py-32 relative bg-white">
+    <section id="cloud-services" className="py-16 lg:py-20 relative bg-white">
       <div className="sep" />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}

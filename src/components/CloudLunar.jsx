@@ -87,7 +87,7 @@ const capabilities = [
 
 export default function CloudLunar() {
   return (
-    <section id="cloudlunar" className="bg-base py-24 lg:py-32 relative overflow-hidden">
+    <section id="cloudlunar" className="bg-base py-16 lg:py-20 relative overflow-hidden">
       {/* Background effects */}
       <div className="orb w-[600px] h-[600px] bg-purple-600 -top-40 -right-40" />
       <div className="orb w-[400px] h-[400px] bg-cyan-500 bottom-20 -left-32" />

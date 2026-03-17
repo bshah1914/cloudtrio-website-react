@@ -115,7 +115,7 @@ export default function Pricing() {
   const product = products[activeProduct]
 
   return (
-    <section id="pricing" className="py-24 lg:py-32 relative overflow-hidden" style={{ background: 'var(--bg-surface)' }}>
+    <section id="pricing" className="py-16 lg:py-20 relative overflow-hidden" style={{ background: 'var(--bg-surface)' }}>
       <div className="orb w-[500px] h-[500px] bg-purple-600 -top-60 left-1/2" />
 
       <div className="max-w-7xl mx-auto px-6 lg:px-8 relative z-10">

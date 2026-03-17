@@ -49,7 +49,7 @@ export default function HowItWorks() {
   const lineHeight = useTransform(scrollYProgress, [0, 1], ['0%', '100%'])
 
   return (
-    <section id="how-it-works" className="bg-section-alt py-24 lg:py-32 relative overflow-hidden">
+    <section id="how-it-works" className="bg-section-alt py-16 lg:py-20 relative overflow-hidden">
       <div className="grid-overlay absolute inset-0 pointer-events-none opacity-30" />
 
       <div className="max-w-7xl mx-auto px-6 lg:px-8 relative z-10">

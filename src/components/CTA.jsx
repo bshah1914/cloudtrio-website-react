@@ -4,7 +4,7 @@ import AnimatedSection from './AnimatedSection'
 
 export default function CTA() {
   return (
-    <section className="bg-cta py-24 lg:py-32">
+    <section className="bg-cta py-16 lg:py-20">
       <div className="max-w-3xl mx-auto px-6 lg:px-8 relative z-10">
         <AnimatedSection>
           <div className="text-center">
