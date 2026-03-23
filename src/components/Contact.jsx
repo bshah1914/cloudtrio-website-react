@@ -17,7 +17,7 @@ const contactInfo = [
   },
   {
     title: 'Phone',
-    content: '+91 953 782 0820',
+    content: '+91 953 713 6284',
     iconColor: 'text-emerald-600',
     bgColor: 'bg-emerald-50 border-emerald-100',
     icon: (
