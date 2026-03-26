@@ -103,8 +103,8 @@ export default function DevOpsPage() {
               <span className="text-zinc-600">&rarr;</span>
               <span className="text-zinc-300">DevOps Solutions</span>
             </nav>
-            <div className="pill-cyan mb-6">DEVOPS</div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6 leading-tight">
+            <div className="pill pill-cyan mb-6">DEVOPS</div>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight" style={{ color: 'var(--text-primary)' }}>
               DevOps <span className="gt">Solutions</span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-2xl">
@@ -120,7 +120,7 @@ export default function DevOpsPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-16 items-start">
             <AnimatedSection>
-              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">
+              <h2 className="text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>
                 Full-Spectrum <span className="gt">DevOps</span>
               </h2>
               <p className="text-zinc-400 text-lg leading-relaxed mb-6">
@@ -150,7 +150,7 @@ export default function DevOpsPage() {
       <section className="bg-section-alt py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               Measurable <span className="gt">Impact</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -163,7 +163,7 @@ export default function DevOpsPage() {
               <StaggerItem key={b.title}>
                 <motion.div whileHover={{ y: -6 }} transition={{ duration: 0.25 }} className="card-dark p-8 h-full text-center">
                   <div className="stat-num mb-3">{b.metric}</div>
-                  <div className="pill-cyan text-xs mb-4">{b.title}</div>
+                  <div className="pill pill-cyan text-xs mb-4">{b.title}</div>
                   <p className="text-sm text-zinc-400 leading-relaxed">{b.description}</p>
                 </motion.div>
               </StaggerItem>
@@ -176,7 +176,7 @@ export default function DevOpsPage() {
       <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               What Sets Us <span className="gt">Apart</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -202,7 +202,7 @@ export default function DevOpsPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
                 Our <span className="gt">Toolchain</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-2xl mx-auto">
@@ -228,7 +228,7 @@ export default function DevOpsPage() {
       <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               Engagement <span className="gt">Models</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -240,7 +240,7 @@ export default function DevOpsPage() {
             {engagementModels.map((model) => (
               <StaggerItem key={model.title}>
                 <motion.div whileHover={{ y: -6 }} transition={{ duration: 0.25 }} className="card-glow p-8 h-full flex flex-col">
-                  <h3 className="text-xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-3">{model.title}</h3>
+                  <h3 className="text-xl font-bold mb-3" style={{ color: 'var(--text-primary)' }}>{model.title}</h3>
                   <p className="text-sm text-zinc-400 leading-relaxed mb-6 flex-1">{model.desc}</p>
                   <div className="sep mb-4" />
                   <span className="text-xl font-bold gt">{model.price}</span>
@@ -255,7 +255,7 @@ export default function DevOpsPage() {
       <section className="bg-cta py-16 lg:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Accelerate your DevOps journey</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>Accelerate your DevOps journey</h2>
             <p className="text-zinc-300 text-lg mb-10 max-w-2xl mx-auto">
               Talk to our DevOps engineers and get a free pipeline maturity assessment for your organization.
             </p>

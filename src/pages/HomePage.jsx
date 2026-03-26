@@ -147,7 +147,7 @@ export default function HomePage() {
         <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-20">
-              <span className="pill-cyan mb-5 inline-flex">
+              <span className="pill pill-cyan mb-5 inline-flex">
                 <span className="w-1.5 h-1.5 rounded-full bg-cyan-400" />
                 What We Do
               </span>

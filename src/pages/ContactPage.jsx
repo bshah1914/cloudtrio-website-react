@@ -7,8 +7,8 @@ import HowItWorks from '../components/HowItWorks'
 const contactInfo = [
   {
     title: 'Email Us',
-    value: 'hello@cloudtrio.in',
-    href: 'mailto:hello@cloudtrio.in',
+    value: 'info@cloudtrio.in',
+    href: 'mailto:info@cloudtrio.in',
     icon: (
       <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
@@ -17,8 +17,8 @@ const contactInfo = [
   },
   {
     title: 'Call Us',
-    value: '+1 (555) 123-4567',
-    href: 'tel:+15551234567',
+    value: '+91 953 713 6284',
+    href: 'tel:+919537136284',
     icon: (
       <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
@@ -69,8 +69,8 @@ export default function ContactPage() {
               <span className="text-zinc-600">&rarr;</span>
               <span className="text-zinc-300">Contact Us</span>
             </nav>
-            <div className="pill-cyan mb-6">GET IN TOUCH</div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6 leading-tight">
+            <div className="pill pill-cyan mb-6">GET IN TOUCH</div>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight" style={{ color: 'var(--text-primary)' }}>
               Contact <span className="gt">Us</span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-2xl">
@@ -93,7 +93,7 @@ export default function ContactPage() {
                     <label htmlFor="name" className="block text-sm font-medium text-zinc-300 mb-2">Full Name</label>
                     <input
                       type="text" id="name" name="name" value={formData.name} onChange={handleChange} required
-                      className="w-full px-4 py-3.5 rounded-lg border border-zinc-800 bg-zinc-900/80 text-white text-sm placeholder-zinc-600 focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
+                      className="w-full px-4 py-3.5 rounded-lg t-input border text-sm focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
                       placeholder="John Doe"
                     />
                   </div>
@@ -101,7 +101,7 @@ export default function ContactPage() {
                     <label htmlFor="email" className="block text-sm font-medium text-zinc-300 mb-2">Work Email</label>
                     <input
                       type="email" id="email" name="email" value={formData.email} onChange={handleChange} required
-                      className="w-full px-4 py-3.5 rounded-lg border border-zinc-800 bg-zinc-900/80 text-white text-sm placeholder-zinc-600 focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
+                      className="w-full px-4 py-3.5 rounded-lg t-input border text-sm focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
                       placeholder="john@company.com"
                     />
                   </div>
@@ -111,7 +111,7 @@ export default function ContactPage() {
                     <label htmlFor="company" className="block text-sm font-medium text-zinc-300 mb-2">Company</label>
                     <input
                       type="text" id="company" name="company" value={formData.company} onChange={handleChange}
-                      className="w-full px-4 py-3.5 rounded-lg border border-zinc-800 bg-zinc-900/80 text-white text-sm placeholder-zinc-600 focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
+                      className="w-full px-4 py-3.5 rounded-lg t-input border text-sm focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
                       placeholder="Acme Inc"
                     />
                   </div>
@@ -119,7 +119,7 @@ export default function ContactPage() {
                     <label htmlFor="service" className="block text-sm font-medium text-zinc-300 mb-2">Service Interest</label>
                     <select
                       id="service" name="service" value={formData.service} onChange={handleChange}
-                      className="w-full px-4 py-3.5 rounded-lg border border-zinc-800 bg-zinc-900/80 text-white text-sm focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
+                      className="w-full px-4 py-3.5 rounded-lg t-input border text-sm focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors"
                     >
                       <option value="">Select a service</option>
                       <option value="cloud-services">Cloud Services</option>
@@ -136,7 +136,7 @@ export default function ContactPage() {
                   <label htmlFor="message" className="block text-sm font-medium text-zinc-300 mb-2">Message</label>
                   <textarea
                     id="message" name="message" value={formData.message} onChange={handleChange} rows={6} required
-                    className="w-full px-4 py-3.5 rounded-lg border border-zinc-800 bg-zinc-900/80 text-white text-sm placeholder-zinc-600 focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors resize-none"
+                    className="w-full px-4 py-3.5 rounded-lg t-input border text-sm focus:outline-none focus:ring-2 focus:ring-violet-500/30 focus:border-violet-500 transition-colors resize-none"
                     placeholder="Tell us about your project, timeline, and any specific requirements..."
                   />
                 </div>
@@ -160,7 +160,7 @@ export default function ContactPage() {
                     href={info.href}
                     className="card-dark p-5 flex items-center gap-4 group block hover:border-violet-500/30 transition-colors"
                   >
-                    <div className="ibox flex-shrink-0">{info.icon}</div>
+                    <div className="ibox flex-shrink-0 bg-violet-500/10 text-violet-400">{info.icon}</div>
                     <div>
                       <div className="text-sm font-medium text-white">{info.title}</div>
                       <div className="text-sm text-zinc-500 group-hover:text-zinc-300 transition-colors">{info.value}</div>
@@ -171,16 +171,15 @@ export default function ContactPage() {
 
               {/* Office */}
               <div className="card-dark p-6 mt-6">
-                <div className="pill-cyan text-xs mb-3">OFFICE</div>
+                <div className="pill pill-cyan text-xs mb-3">OFFICE</div>
                 <p className="text-sm text-white font-semibold mb-2">CloudTrio HQ</p>
                 <p className="text-sm text-zinc-500 leading-relaxed">
-                  123 Cloud Avenue, Suite 400<br />
-                  San Francisco, CA 94105<br />
-                  United States
+                  Ahmedabad, Gujarat,<br />
+                  India - 380009
                 </p>
                 <div className="sep my-4" />
                 <p className="text-sm text-zinc-500 leading-relaxed">
-                  <span className="text-zinc-400 font-medium">Hours:</span> Mon - Fri, 9:00 AM - 6:00 PM PST<br />
+                  <span className="text-zinc-400 font-medium">Hours:</span> Mon - Fri, 9:00 AM - 6:00 PM IST<br />
                   <span className="text-zinc-400 font-medium">Support:</span> 24/7 for enterprise clients
                 </p>
               </div>
@@ -193,7 +192,7 @@ export default function ContactPage() {
       <section className="bg-section-alt py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               Not Sure Where to <span className="gt">Start</span>?
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -226,7 +225,7 @@ export default function ContactPage() {
       <section className="bg-cta py-16 lg:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Ready to optimize your cloud?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>Ready to optimize your cloud?</h2>
             <p className="text-zinc-300 text-lg mb-10 max-w-2xl mx-auto">
               Start with a free assessment. We&apos;ll analyze your infrastructure and show you exactly where to save and how to improve.
             </p>

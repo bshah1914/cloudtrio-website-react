@@ -130,8 +130,8 @@ export default function AIMLPage() {
               <span className="text-zinc-600">&rarr;</span>
               <span className="text-zinc-300">AI & Machine Learning</span>
             </nav>
-            <div className="pill-orange mb-6">AI/ML SOLUTIONS</div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6 leading-tight">
+            <div className="pill pill-orange mb-6">AI/ML SOLUTIONS</div>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight" style={{ color: 'var(--text-primary)' }}>
               AI-Powered <span className="gt-orange">Intelligence</span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-2xl">
@@ -146,7 +146,7 @@ export default function AIMLPage() {
       <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               Our AI/ML <span className="gt-orange">Services</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -173,7 +173,7 @@ export default function AIMLPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <AnimatedSection>
-              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">
+              <h2 className="text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>
                 AI for Cloud <span className="gt-orange">Optimization</span>
               </h2>
               <p className="text-zinc-400 text-lg leading-relaxed mb-8">
@@ -200,7 +200,7 @@ export default function AIMLPage() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-2">CloudLunar AI Engine</h3>
+                  <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>CloudLunar AI Engine</h3>
                   <p className="text-sm text-zinc-500">Powered by machine learning</p>
                 </div>
                 <div className="space-y-3">
@@ -229,7 +229,7 @@ export default function AIMLPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
                 AI/ML Technology <span className="gt-orange">Stack</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-2xl mx-auto">
@@ -258,7 +258,7 @@ export default function AIMLPage() {
       <section className="bg-section-alt py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               Real-World <span className="gt-orange">Use Cases</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -271,7 +271,7 @@ export default function AIMLPage() {
               <StaggerItem key={uc.industry}>
                 <motion.div whileHover={{ y: -6 }} transition={{ duration: 0.25 }} className="card-dark p-8 h-full">
                   <span className={`${uc.pill} text-xs mb-4 inline-block`}>{uc.industry}</span>
-                  <h3 className="text-xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-3">{uc.title}</h3>
+                  <h3 className="text-xl font-bold mb-3" style={{ color: 'var(--text-primary)' }}>{uc.title}</h3>
                   <p className="text-sm text-zinc-400 leading-relaxed">{uc.description}</p>
                 </motion.div>
               </StaggerItem>
@@ -284,7 +284,7 @@ export default function AIMLPage() {
       <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               Our AI <span className="gt-orange">Process</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -318,7 +318,7 @@ export default function AIMLPage() {
       <section className="bg-cta py-16 lg:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Ready to leverage AI?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>Ready to leverage AI?</h2>
             <p className="text-zinc-300 text-lg mb-10 max-w-2xl mx-auto">
               Let&apos;s explore how AI and machine learning can transform your business. Start with a free consultation to identify high-impact opportunities.
             </p>

@@ -100,7 +100,7 @@ export default function CloudLunar() {
             <span className="w-2 h-2 rounded-full bg-violet-400 animate-pulse" />
             CloudLunar Engine v4.0
           </span>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>
             Intelligent AWS <span className="gt">Cost Optimization</span>
           </h2>
           <p className="text-zinc-400 text-lg leading-relaxed">
@@ -114,7 +114,7 @@ export default function CloudLunar() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             {/* Left text */}
             <div>
-              <h3 className="text-2xl lg:text-3xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-5">
+              <h3 className="text-2xl lg:text-3xl font-bold mb-5" style={{ color: 'var(--text-primary)' }}>
                 Find savings in <span className="gt-warm">minutes</span>, not weeks
               </h3>
               <p className="text-zinc-400 mb-8 leading-relaxed">
@@ -181,7 +181,7 @@ export default function CloudLunar() {
 
         {/* Capabilities grid */}
         <AnimatedSection className="text-center mb-14">
-          <h3 className="text-2xl sm:text-3xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+          <h3 className="text-2xl sm:text-3xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
             <span className="gt">7</span> Core Capabilities
           </h3>
           <p className="text-zinc-400 max-w-2xl mx-auto">

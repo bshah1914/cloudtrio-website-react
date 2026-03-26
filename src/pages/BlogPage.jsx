@@ -37,7 +37,7 @@ export default function BlogPage() {
               <span>→</span>
               <span style={{ color: 'var(--text-secondary)' }}>Blog</span>
             </nav>
-            <div className="pill-cyan mb-5">Insights & Tutorials</div>
+            <div className="pill pill-cyan mb-5">Insights & Tutorials</div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)' }}>
               Cloud Engineering <span className="gt">Blog</span>
             </h1>

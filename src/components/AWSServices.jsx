@@ -43,7 +43,7 @@ export default function AWSServices() {
         {/* Section header */}
         <AnimatedSection className="text-center max-w-3xl mx-auto mb-16">
           <span className="pill pill-cyan mb-5 inline-flex">Full AWS Coverage</span>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>
             <span className="gt">18+ AWS Services</span> Covered
           </h2>
           <p className="text-zinc-400 text-lg leading-relaxed">

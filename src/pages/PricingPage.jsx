@@ -5,15 +5,15 @@ import Pricing from '../components/Pricing'
 import FAQ from '../components/FAQ'
 
 const lunarFeatures = [
-  { feature: 'AWS Accounts', free: '1', starter: '5', pro: '20', enterprise: 'Unlimited' },
-  { feature: 'Resources', free: '50', starter: '500', pro: 'Unlimited', enterprise: 'Unlimited' },
-  { feature: 'Optimization Rules', free: '—', starter: '25+', pro: 'All 25+ (P95)', enterprise: 'Custom' },
-  { feature: 'Cost Alerts', free: false, starter: true, pro: true, enterprise: true },
-  { feature: 'Compliance', free: false, starter: false, pro: 'CIS + SOC 2', enterprise: 'Custom' },
-  { feature: 'K8s Monitoring', free: false, starter: false, pro: true, enterprise: true },
-  { feature: 'AI Assistant', free: false, starter: false, pro: false, enterprise: true },
-  { feature: 'Data Retention', free: '7 days', starter: '30 days', pro: '90 days', enterprise: '1 year+' },
-  { feature: 'Support', free: 'Community', starter: 'Email', pro: 'Priority', enterprise: '24/7 Dedicated' },
+  { feature: 'AWS Accounts', free: '1', starter: '5', professional: '20', enterprise: 'Unlimited' },
+  { feature: 'Resources', free: '50', starter: '500', professional: 'Unlimited', enterprise: 'Unlimited' },
+  { feature: 'Optimization Rules', free: '—', starter: '25+', professional: 'All 25+ (P95)', enterprise: 'Custom' },
+  { feature: 'Cost Alerts', free: false, starter: true, professional: true, enterprise: true },
+  { feature: 'Compliance', free: false, starter: false, professional: 'CIS + SOC 2', enterprise: 'Custom' },
+  { feature: 'K8s Monitoring', free: false, starter: false, professional: true, enterprise: true },
+  { feature: 'AI Assistant', free: false, starter: false, professional: false, enterprise: true },
+  { feature: 'Data Retention', free: '7 days', starter: '30 days', professional: '90 days', enterprise: '1 year+' },
+  { feature: 'Support', free: 'Community', starter: 'Email', professional: 'Priority', enterprise: '24/7 Dedicated' },
 ]
 
 const sentinelFeatures = [
@@ -43,7 +43,7 @@ function RenderCell({ value }) {
   return <span style={{ color: 'var(--text-secondary)' }}>{value}</span>
 }
 
-function ComparisonTable({ features, columns, highlightCol }) {
+function ComparisonTable({ features, columns, columnKeys, highlightCol }) {
   return (
     <div className="card-dark overflow-hidden !p-0 !rounded-2xl">
       <div className="overflow-x-auto">
@@ -51,8 +51,8 @@ function ComparisonTable({ features, columns, highlightCol }) {
           <thead>
             <tr style={{ borderBottom: '1px solid var(--border)' }}>
               <th className="text-left py-4 px-5 text-sm font-semibold min-w-[160px]" style={{ color: 'var(--text-secondary)', background: 'rgba(255,255,255,0.02)' }}>Feature</th>
-              {columns.map((col) => (
-                <th key={col} className="text-center py-4 px-4 text-sm font-semibold min-w-[100px]" style={{ color: col === highlightCol ? '#a78bfa' : 'var(--text-muted)', background: col === highlightCol ? 'rgba(139,92,246,0.06)' : 'rgba(255,255,255,0.02)' }}>
+              {columns.map((col, i) => (
+                <th key={col} className="text-center py-4 px-4 text-sm font-semibold min-w-[100px]" style={{ color: col === highlightCol ? 'var(--accent)' : 'var(--text-muted)', background: col === highlightCol ? 'var(--accent-light)' : 'rgba(255,255,255,0.02)' }}>
                   {col}
                 </th>
               ))}
@@ -62,14 +62,11 @@ function ComparisonTable({ features, columns, highlightCol }) {
             {features.map((row, i) => (
               <tr key={row.feature} style={{ borderBottom: i < features.length - 1 ? '1px solid rgba(255,255,255,0.04)' : 'none' }}>
                 <td className="py-3 px-5 text-sm font-medium" style={{ color: 'var(--text-body)' }}>{row.feature}</td>
-                {columns.map((col) => {
-                  const key = col.toLowerCase().replace(/\s/g, '')
-                  return (
-                    <td key={col} className="py-3 px-4 text-center text-sm" style={{ background: col === highlightCol ? 'rgba(139,92,246,0.03)' : 'transparent' }}>
-                      <RenderCell value={row[key]} />
-                    </td>
-                  )
-                })}
+                {columnKeys.map((key, ki) => (
+                  <td key={key} className="py-3 px-4 text-center text-sm" style={{ background: columns[ki] === highlightCol ? 'rgba(99,102,241,0.03)' : 'transparent' }}>
+                    <RenderCell value={row[key]} />
+                  </td>
+                ))}
               </tr>
             ))}
           </tbody>
@@ -84,12 +81,12 @@ export default function PricingPage() {
     <div>
       {/* Hero */}
       <section className="pt-32 pb-20 bg-hero relative overflow-hidden">
-        <div className="orb w-80 h-80 bg-violet-600 -top-40 -right-40" />
+        <div className="orb w-80 h-80 bg-indigo-600 -top-40 -right-40" />
         <div className="orb w-64 h-64 bg-cyan-500 bottom-0 -left-32" style={{ animationDelay: '5s' }} />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <AnimatedSection>
             <nav className="flex items-center gap-2 text-sm mb-8">
-              <Link to="/" className="hover:text-violet-400 transition-colors" style={{ color: 'var(--text-muted)' }}>Home</Link>
+              <Link to="/" className="hover:text-indigo-400 transition-colors" style={{ color: 'var(--text-muted)' }}>Home</Link>
               <span style={{ color: 'var(--text-muted)' }}>→</span>
               <span style={{ color: 'var(--text-secondary)' }}>Pricing</span>
             </nav>
@@ -105,20 +102,25 @@ export default function PricingPage() {
         <div className="glow-line mt-20" />
       </section>
 
-      {/* Pricing Cards with Product Switcher */}
+      {/* Pricing Cards */}
       <Pricing />
 
       {/* CloudLunar Comparison */}
       <section className="py-16 lg:py-20" style={{ background: 'var(--bg)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection className="text-center mb-14">
-            <span className="pill-green mb-4 inline-flex">CloudLunar Plans</span>
+            <span className="pill pill-green mb-4 inline-flex">CloudLunar Plans</span>
             <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)' }}>
               Compare <span className="gt-green">CloudLunar</span> features
             </h2>
           </AnimatedSection>
           <AnimatedSection delay={0.1}>
-            <ComparisonTable features={lunarFeatures} columns={['Free', 'Starter', 'Professional', 'Enterprise']} highlightCol="Professional" />
+            <ComparisonTable
+              features={lunarFeatures}
+              columns={['Free', 'Starter', 'Professional', 'Enterprise']}
+              columnKeys={['free', 'starter', 'professional', 'enterprise']}
+              highlightCol="Professional"
+            />
           </AnimatedSection>
         </div>
       </section>
@@ -127,13 +129,18 @@ export default function PricingPage() {
       <section className="py-16 lg:py-20" style={{ background: 'var(--bg-surface)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection className="text-center mb-14">
-            <span className="pill-pink mb-4 inline-flex">CloudSentinel Plans</span>
+            <span className="pill pill-pink mb-4 inline-flex">CloudSentinel Plans</span>
             <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)' }}>
               Compare <span className="gt-warm">CloudSentinel</span> features
             </h2>
           </AnimatedSection>
           <AnimatedSection delay={0.1}>
-            <ComparisonTable features={sentinelFeatures} columns={['Free', 'Pro', 'Business', 'Enterprise']} highlightCol="Business" />
+            <ComparisonTable
+              features={sentinelFeatures}
+              columns={['Free', 'Pro', 'Business', 'Enterprise']}
+              columnKeys={['free', 'pro', 'business', 'enterprise']}
+              highlightCol="Business"
+            />
           </AnimatedSection>
         </div>
       </section>
@@ -152,8 +159,8 @@ export default function PricingPage() {
             {enterpriseBenefits.map((b) => (
               <StaggerItem key={b.title}>
                 <motion.div whileHover={{ y: -4 }} className="card-dark p-6 h-full">
-                  <div className="ibox bg-violet-500/10 mb-4">
-                    <svg className="w-5 h-5 text-violet-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d={b.icon} /></svg>
+                  <div className="ibox bg-indigo-500/10 mb-4">
+                    <svg className="w-5 h-5 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d={b.icon} /></svg>
                   </div>
                   <h3 className="text-sm font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{b.title}</h3>
                   <p className="text-xs leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{b.desc}</p>
@@ -164,7 +171,6 @@ export default function PricingPage() {
         </div>
       </section>
 
-      {/* FAQ */}
       <FAQ />
 
       {/* CTA */}

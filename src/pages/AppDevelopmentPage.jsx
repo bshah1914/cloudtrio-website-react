@@ -119,8 +119,8 @@ export default function AppDevelopmentPage() {
               <span className="text-zinc-600">&rarr;</span>
               <span className="text-zinc-300">App Development</span>
             </nav>
-            <div className="pill-pink mb-6">CUSTOM APPS</div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6 leading-tight">
+            <div className="pill pill-pink mb-6">CUSTOM APPS</div>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight" style={{ color: 'var(--text-primary)' }}>
               Build Apps That <span className="gt-warm">Scale</span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-2xl">
@@ -135,7 +135,7 @@ export default function AppDevelopmentPage() {
       <section className="bg-base py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               What We <span className="gt-warm">Build</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -152,7 +152,7 @@ export default function AppDevelopmentPage() {
                   <p className="text-sm text-zinc-400 leading-relaxed mb-4">{item.description}</p>
                   <div className="flex flex-wrap gap-2">
                     {item.tech.map((t) => (
-                      <span key={t} className="pill-pink text-xs">{t}</span>
+                      <span key={t} className="pill pill-pink text-xs">{t}</span>
                     ))}
                   </div>
                 </motion.div>
@@ -166,7 +166,7 @@ export default function AppDevelopmentPage() {
       <section className="bg-section-alt py-16 lg:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
               Our Development <span className="gt-warm">Process</span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-2xl mb-16">
@@ -202,7 +202,7 @@ export default function AppDevelopmentPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
                 Technologies We <span className="gt-warm">Use</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-2xl mx-auto">
@@ -232,7 +232,7 @@ export default function AppDevelopmentPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
                 Why Choose Our <span className="gt-warm">Dev Team</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-2xl mx-auto">
@@ -259,8 +259,8 @@ export default function AppDevelopmentPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <motion.div whileHover={{ y: -4 }} className="card-glow p-10 lg:p-14">
-              <div className="pill-pink mb-6">CASE STUDY</div>
-              <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-4">
+              <div className="pill pill-pink mb-6">CASE STUDY</div>
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
                 E-commerce Platform <span className="gt-warm">Transformation</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-3xl mb-10 leading-relaxed">
@@ -284,7 +284,7 @@ export default function AppDevelopmentPage() {
       <section className="bg-cta py-16 lg:py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <AnimatedSection>
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ color: 'var(--text-primary)' }} className=" mb-6">Ready to build your next app?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>Ready to build your next app?</h2>
             <p className="text-zinc-300 text-lg mb-10 max-w-2xl mx-auto">
               From idea to launch, we bring your vision to life with modern technology and proven engineering practices.
             </p>

@@ -43,7 +43,7 @@ export default function NewsPage() {
               <span>→</span>
               <span style={{ color: 'var(--text-secondary)' }}>News</span>
             </nav>
-            <div className="pill-orange mb-5">Cloud Provider Updates</div>
+            <div className="pill pill-orange mb-5">Cloud Provider Updates</div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)' }}>
               Cloud <span className="gt-orange">News</span>
             </h1>

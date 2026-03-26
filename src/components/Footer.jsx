@@ -43,7 +43,7 @@ function FooterLink({ item }) {
 
 export default function Footer() {
   return (
-    <footer className="bg-base border-t pt-16 pb-8" style={{ borderColor: 'var(--border-primary)' }}>
+    <footer className="bg-base border-t pt-16 pb-8" style={{ borderColor: 'var(--border)' }}>
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <AnimatedSection>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-8 mb-12">
@@ -97,7 +97,7 @@ export default function Footer() {
           </div>
 
           {/* Contact row */}
-          <div className="border-t pt-8 mb-8" style={{ borderColor: 'var(--border-primary)' }}>
+          <div className="border-t pt-8 mb-8" style={{ borderColor: 'var(--border)' }}>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               <div className="flex items-center gap-3">
                 <svg className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--text-muted)' }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -124,7 +124,7 @@ export default function Footer() {
           </div>
 
           {/* Copyright */}
-          <div className="border-t pt-8 flex flex-col md:flex-row items-center justify-between gap-4" style={{ borderColor: 'var(--border-primary)' }}>
+          <div className="border-t pt-8 flex flex-col md:flex-row items-center justify-between gap-4" style={{ borderColor: 'var(--border)' }}>
             <p className="text-sm" style={{ color: 'var(--text-muted)' }}>&copy; 2026 CloudTrio Technologies. All rights reserved.</p>
             <div className="flex items-center gap-6 text-xs" style={{ color: 'var(--text-muted)' }}>
               <a href="#" className="hover:opacity-80 transition-colors">Privacy</a>
