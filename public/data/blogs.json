@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "2026-03-05T00:00:00.000Z",
+  "articles": [
+    {
+      "id": 1,
+      "title": "How We Reduced AWS Costs by 47%",
+      "category": "Cost Optimization",
+      "author": "CloudTrio Team",
+      "date": "Mar 5, 2026",
+      "readTime": "8 min",
+      "excerpt": "Strategies and architectural changes that slashed nearly half of a client's monthly AWS bill.",
+      "avatar": "CT",
+      "avatarColor": "from-green-500 to-emerald-600",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Achieving SOC 2 Compliance on AWS",
+      "category": "Security",
+      "author": "Priya Sharma",
+      "date": "Feb 28, 2026",
+      "readTime": "6 min",
+      "excerpt": "Step-by-step guide to pass your SOC 2 Type II audit on AWS infrastructure.",
+      "avatar": "PS",
+      "avatarColor": "from-pink-500 to-rose-600"
+    },
+    {
+      "id": 3,
+      "title": "Zero-Downtime CI/CD with GitHub Actions",
+      "category": "DevOps",
+      "author": "Alex Chen",
+      "date": "Feb 20, 2026",
+      "readTime": "10 min",
+      "excerpt": "Blue-green deployments on ECS Fargate with automated rollbacks.",
+      "avatar": "AC",
+      "avatarColor": "from-cyan-500 to-blue-600"
+    },
+    {
+      "id": 4,
+      "title": "Terraform Modules for Multi-Account AWS",
+      "category": "Tutorials",
+      "author": "Jordan Lee",
+      "date": "Feb 14, 2026",
+      "readTime": "12 min",
+      "excerpt": "Reusable Terraform modules for consistent multi-account infrastructure.",
+      "avatar": "JL",
+      "avatarColor": "from-orange-500 to-amber-600"
+    },
+    {
+      "id": 5,
+      "title": "Reserved Instances vs Savings Plans",
+      "category": "Cost Optimization",
+      "author": "CloudTrio Team",
+      "date": "Jan 30, 2026",
+      "readTime": "5 min",
+      "excerpt": "Choose the right commitment model for your workload patterns.",
+      "avatar": "CT",
+      "avatarColor": "from-green-500 to-emerald-600"
+    },
+    {
+      "id": 6,
+      "title": "Least-Privilege IAM Policies at Scale",
+      "category": "Security",
+      "author": "Priya Sharma",
+      "date": "Jan 22, 2026",
+      "readTime": "7 min",
+      "excerpt": "Audit and enforce least-privilege across thousands of identities.",
+      "avatar": "PS",
+      "avatarColor": "from-pink-500 to-rose-600"
+    },
+    {
+      "id": 7,
+      "title": "Observability-Driven Development",
+      "category": "DevOps",
+      "author": "Alex Chen",
+      "date": "Jan 15, 2026",
+      "readTime": "9 min",
+      "excerpt": "Design metrics, traces, and logs into your architecture from day one.",
+      "avatar": "AC",
+      "avatarColor": "from-cyan-500 to-blue-600"
+    },
+    {
+      "id": 8,
+      "title": "Automating Cost Reports with Lambda",
+      "category": "Tutorials",
+      "author": "Jordan Lee",
+      "date": "Jan 8, 2026",
+      "readTime": "11 min",
+      "excerpt": "Serverless cost reporting pipeline with Lambda and Cost Explorer API.",
+      "avatar": "JL",
+      "avatarColor": "from-orange-500 to-amber-600"
+    }
+  ]
+}

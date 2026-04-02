@@ -1,33 +1,36 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import AnimatedSection from '../components/AnimatedSection'
 
-const providers = ['All', 'AWS', 'Azure', 'GCP']
 const providerConfig = {
   AWS: { pill: 'pill-orange', gradient: 'from-orange-500 to-amber-500', icon: '☁️' },
   Azure: { pill: 'pill-cyan', gradient: 'from-cyan-500 to-blue-500', icon: '🔷' },
   GCP: { pill: 'pill-green', gradient: 'from-green-500 to-emerald-500', icon: '🟢' },
 }
 
-const news = [
-  { id: 1, provider: 'AWS', title: 'Graviton5 Instances Now Available', desc: '2x performance over Graviton3, 60% better energy efficiency. Available in 12 regions.', date: 'Mar 12, 2026', tag: 'Compute' },
-  { id: 2, provider: 'AWS', title: 'S3 Intelligent Cold Storage Tier', desc: 'New storage class for rarely accessed data with up to 70% cost savings.', date: 'Mar 8, 2026', tag: 'Storage' },
-  { id: 3, provider: 'AWS', title: 'Security Hub Automated Remediation', desc: '60% reduction in MTTR with automated playbooks for common findings.', date: 'Mar 1, 2026', tag: 'Security' },
-  { id: 4, provider: 'AWS', title: 'Lambda 10K Concurrency + SnapStart', desc: 'Concurrency limits raised to 10,000. SnapStart now available for Python runtimes.', date: 'Feb 22, 2026', tag: 'Serverless' },
-  { id: 5, provider: 'Azure', title: 'AI-Driven Cost Management', desc: '25% average savings with new AI-powered cost recommendations engine.', date: 'Mar 10, 2026', tag: 'FinOps' },
-  { id: 6, provider: 'Azure', title: 'AKS Native Multi-Cluster Mesh', desc: 'Built-in service mesh for multi-cluster Kubernetes deployments.', date: 'Mar 3, 2026', tag: 'Kubernetes' },
-  { id: 7, provider: 'Azure', title: 'Deployment Environments GA', desc: 'Self-service infrastructure provisioning for platform engineering teams.', date: 'Feb 25, 2026', tag: 'Platform' },
-  { id: 8, provider: 'Azure', title: 'OpenAI Service in 12 New Regions', desc: 'Azure OpenAI now available in 12 additional regions for reduced latency.', date: 'Feb 18, 2026', tag: 'AI' },
-  { id: 9, provider: 'GCP', title: 'Confidential Computing for All VMs', desc: 'Hardware-based encryption now available on all VM types at no extra cost.', date: 'Mar 11, 2026', tag: 'Security' },
-  { id: 10, provider: 'GCP', title: 'BigQuery Sub-Second Latency', desc: 'New BI Engine improvements deliver sub-second query latency for streaming data.', date: 'Mar 4, 2026', tag: 'Analytics' },
-  { id: 11, provider: 'GCP', title: 'Carbon-Aware Workload Scheduling', desc: '30% carbon footprint reduction by scheduling workloads to green regions.', date: 'Feb 20, 2026', tag: 'Sustainability' },
-  { id: 12, provider: 'GCP', title: 'Unified Observability with AI Insights', desc: 'Single platform for metrics, logs, and traces with AI-powered root cause analysis.', date: 'Feb 14, 2026', tag: 'Observability' },
-]
-
 export default function NewsPage() {
   const [email, setEmail] = useState('')
-  const filtered = news
+  const [news, setNews] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
+
+  useEffect(() => {
+    fetch('/data/news.json')
+      .then((res) => {
+        if (!res.ok) throw new Error('Failed to load news')
+        return res.json()
+      })
+      .then((data) => {
+        setNews(data.news || [])
+        setLoading(false)
+      })
+      .catch((err) => {
+        console.error('Error loading news:', err)
+        setError('Unable to load news. Please try again later.')
+        setLoading(false)
+      })
+  }, [])
 
   return (
     <div>
@@ -60,57 +63,74 @@ export default function NewsPage() {
 
       {/* News Grid */}
       <section className="max-w-7xl mx-auto px-6 lg:px-8 pb-16">
-        <AnimatePresence mode="popLayout">
-          <motion.div layout className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
-            {filtered.map((item, i) => {
-              const config = providerConfig[item.provider]
-              return (
-                <motion.div
-                  key={item.id}
-                  layout
-                  initial={{ opacity: 0, y: 30, scale: 0.95 }}
-                  animate={{ opacity: 1, y: 0, scale: 1 }}
-                  exit={{ opacity: 0, scale: 0.9 }}
-                  transition={{ duration: 0.4, delay: i * 0.05 }}
-                >
+        {loading && (
+          <div className="text-center py-20">
+            <div className="inline-block w-8 h-8 border-2 border-violet-500 border-t-transparent rounded-full animate-spin mb-4" />
+            <p style={{ color: 'var(--text-muted)' }}>Loading latest cloud news...</p>
+          </div>
+        )}
+
+        {error && (
+          <div className="text-center py-20">
+            <p style={{ color: 'var(--text-muted)' }}>{error}</p>
+          </div>
+        )}
+
+        {!loading && !error && (
+          <AnimatePresence mode="popLayout">
+            <motion.div layout className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+              {news.map((item, i) => {
+                const config = providerConfig[item.provider] || providerConfig.AWS
+                return (
                   <motion.div
-                    whileHover={{ y: -6, scale: 1.02 }}
-                    transition={{ type: 'spring', stiffness: 300, damping: 20 }}
-                    className="card-dark p-6 h-full flex flex-col group cursor-pointer"
+                    key={item.id}
+                    layout
+                    initial={{ opacity: 0, y: 30, scale: 0.95 }}
+                    animate={{ opacity: 1, y: 0, scale: 1 }}
+                    exit={{ opacity: 0, scale: 0.9 }}
+                    transition={{ duration: 0.4, delay: i * 0.05 }}
                   >
-                    <div className="flex items-center justify-between mb-4">
-                      <div className="flex items-center gap-2">
-                        <div className={`w-7 h-7 rounded-lg bg-gradient-to-br ${config.gradient} flex items-center justify-center text-white text-xs font-bold`}>
-                          {item.provider[0]}
-                        </div>
-                        <span className={`${config.pill}`}>{item.provider}</span>
-                      </div>
-                      <span className="text-[10px] px-2 py-1 rounded-md" style={{ background: 'var(--accent-light)', color: 'var(--accent)' }}>{item.tag}</span>
-                    </div>
-
-                    <h3 className="text-lg font-semibold mb-3 group-hover:text-violet-400 transition-colors" style={{ color: 'var(--text-primary)' }}>
-                      {item.title}
-                    </h3>
-                    <p className="text-sm leading-relaxed mb-5 flex-1" style={{ color: 'var(--text-secondary)' }}>
-                      {item.desc}
-                    </p>
-
-                    <div className="flex items-center justify-between pt-4" style={{ borderTop: '1px solid var(--border)' }}>
-                      <span className="text-xs" style={{ color: 'var(--text-muted)' }}>{item.date}</span>
-                      <motion.span
-                        className="text-xs font-medium flex items-center gap-1 group-hover:gap-2 transition-all"
-                        style={{ color: 'var(--accent)' }}
+                    <a href={item.link || '#'} target={item.link ? '_blank' : undefined} rel="noopener noreferrer">
+                      <motion.div
+                        whileHover={{ y: -6, scale: 1.02 }}
+                        transition={{ type: 'spring', stiffness: 300, damping: 20 }}
+                        className="card-dark p-6 h-full flex flex-col group cursor-pointer"
                       >
-                        Read more
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
-                      </motion.span>
-                    </div>
+                        <div className="flex items-center justify-between mb-4">
+                          <div className="flex items-center gap-2">
+                            <div className={`w-7 h-7 rounded-lg bg-gradient-to-br ${config.gradient} flex items-center justify-center text-white text-xs font-bold`}>
+                              {item.provider[0]}
+                            </div>
+                            <span className={`${config.pill}`}>{item.provider}</span>
+                          </div>
+                          <span className="text-[10px] px-2 py-1 rounded-md" style={{ background: 'var(--accent-light)', color: 'var(--accent)' }}>{item.tag}</span>
+                        </div>
+
+                        <h3 className="text-lg font-semibold mb-3 group-hover:text-violet-400 transition-colors" style={{ color: 'var(--text-primary)' }}>
+                          {item.title}
+                        </h3>
+                        <p className="text-sm leading-relaxed mb-5 flex-1" style={{ color: 'var(--text-secondary)' }}>
+                          {item.desc}
+                        </p>
+
+                        <div className="flex items-center justify-between pt-4" style={{ borderTop: '1px solid var(--border)' }}>
+                          <span className="text-xs" style={{ color: 'var(--text-muted)' }}>{item.date}</span>
+                          <motion.span
+                            className="text-xs font-medium flex items-center gap-1 group-hover:gap-2 transition-all"
+                            style={{ color: 'var(--accent)' }}
+                          >
+                            Read more
+                            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+                          </motion.span>
+                        </div>
+                      </motion.div>
+                    </a>
                   </motion.div>
-                </motion.div>
-              )
-            })}
-          </motion.div>
-        </AnimatePresence>
+                )
+              })}
+            </motion.div>
+          </AnimatePresence>
+        )}
       </section>
 
       {/* Newsletter */}
