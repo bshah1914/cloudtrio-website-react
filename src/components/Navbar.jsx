@@ -187,9 +187,9 @@ export default function Navbar() {
                         <span className="w-6 h-6 rounded-md bg-emerald-500/10 flex items-center justify-center"><svg className="w-3.5 h-3.5 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" /></svg></span>
                         <span><span style={{ color: 'var(--text-primary)' }} className="font-medium text-xs">CloudLunar</span><br /><span className="text-[10px]" style={{ color: 'var(--text-muted)' }}>AWS Cost Optimization</span></span>
                       </Link>
-                      <Link to="/products/cloudsentinel" onClick={() => setServicesOpen(false)} className="flex items-center gap-3 px-2 py-2 rounded-lg text-sm hover:bg-white/[0.04] transition-colors" style={{ color: 'var(--text-secondary)' }}>
+                      <Link to="/products/cloudsentrix" onClick={() => setServicesOpen(false)} className="flex items-center gap-3 px-2 py-2 rounded-lg text-sm hover:bg-white/[0.04] transition-colors" style={{ color: 'var(--text-secondary)' }}>
                         <span className="w-6 h-6 rounded-md bg-pink-500/10 flex items-center justify-center"><svg className="w-3.5 h-3.5 text-pink-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" /></svg></span>
-                        <span><span style={{ color: 'var(--text-primary)' }} className="font-medium text-xs">CloudSentinel</span><br /><span className="text-[10px]" style={{ color: 'var(--text-muted)' }}>Multi-Cloud Security</span></span>
+                        <span><span style={{ color: 'var(--text-primary)' }} className="font-medium text-xs">CloudSentrix</span><br /><span className="text-[10px]" style={{ color: 'var(--text-muted)' }}>Multi-Cloud Security</span></span>
                       </Link>
                     </div>
                     <div className="sep my-1" />

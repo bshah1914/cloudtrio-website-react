@@ -68,21 +68,21 @@ const termLines = [
 
 /* ====== Comparison Table ====== */
 const comparisonRows = [
-  { feature: 'Focus', lunar: 'Cost Optimization', sentinel: 'Security & Compliance' },
-  { feature: 'AWS Support', lunar: true, sentinel: true },
-  { feature: 'Azure Support', lunar: 'Coming Soon', sentinel: true },
-  { feature: 'GCP Support', lunar: 'Coming Soon', sentinel: true },
-  { feature: 'AI Assistant', lunar: true, sentinel: true },
-  { feature: 'Real-time Alerts', lunar: true, sentinel: true },
-  { feature: 'Compliance', lunar: 'Basic (CIS, SOC2)', sentinel: '10 Frameworks' },
-  { feature: 'Threat Detection', lunar: false, sentinel: '\u2713 (MITRE ATT&CK)' },
-  { feature: 'Cost Analysis', lunar: '\u2713 (25+ rules)', sentinel: false },
+  { feature: 'Focus', lunar: 'Cost Optimization', sentrix: 'Security & Compliance' },
+  { feature: 'AWS Support', lunar: true, sentrix: true },
+  { feature: 'Azure Support', lunar: 'Coming Soon', sentrix: true },
+  { feature: 'GCP Support', lunar: 'Coming Soon', sentrix: true },
+  { feature: 'AI Assistant', lunar: true, sentrix: true },
+  { feature: 'Real-time Alerts', lunar: true, sentrix: true },
+  { feature: 'Compliance', lunar: 'Basic (CIS, SOC2)', sentrix: '10 Frameworks' },
+  { feature: 'Threat Detection', lunar: false, sentrix: '\u2713 (MITRE ATT&CK)' },
+  { feature: 'Cost Analysis', lunar: '\u2713 (25+ rules)', sentrix: false },
 ]
 
 /* ====== Roadmap ====== */
 const roadmap = [
   { quarter: 'Q1 2026', title: 'CloudLunar Multi-Cloud', desc: 'Extend cost optimization to Azure and GCP with unified multi-cloud management.', status: 'current' },
-  { quarter: 'Q2 2026', title: 'CloudSentinel v2.0', desc: 'Next-gen threat detection with AI-powered remediation and expanded compliance.', status: 'upcoming' },
+  { quarter: 'Q2 2026', title: 'CloudSentrix v2.0', desc: 'Next-gen threat detection with AI-powered remediation and expanded compliance.', status: 'upcoming' },
   { quarter: 'Q3 2026', title: 'Unified Dashboard', desc: 'Single pane of glass for cost, security, and compliance across all products.', status: 'upcoming' },
   { quarter: 'Q4 2026', title: 'AI Copilot', desc: 'Natural language interface to manage infrastructure, costs, and security posture.', status: 'upcoming' },
 ]
@@ -123,7 +123,7 @@ export default function ProductsPage() {
               <span className="gt">One Platform.</span>
             </h1>
             <p className="text-xl max-w-2xl" style={{ color: 'var(--text-secondary)' }}>
-              CloudTrio&apos;s product ecosystem — optimize costs with CloudLunar, secure everything with CloudSentinel.
+              CloudTrio&apos;s product ecosystem — optimize costs with CloudLunar, secure everything with CloudSentrix.
             </p>
           </AnimatedSection>
         </div>
@@ -233,7 +233,7 @@ export default function ProductsPage() {
               </motion.div>
             </AnimatedSection>
 
-            {/* CloudSentinel Card */}
+            {/* CloudSentrix Card */}
             <AnimatedSection delay={0.15}>
               <motion.div
                 whileHover={{ y: -6 }}
@@ -252,7 +252,7 @@ export default function ProductsPage() {
                     className="text-3xl md:text-4xl font-extrabold mb-4"
                     style={{ fontFamily: 'var(--font-display)' }}
                   >
-                    <span className="gt-warm">CloudSentinel</span>
+                    <span className="gt-warm">CloudSentrix</span>
                   </h3>
 
                   <ul className="space-y-2 mb-6">
@@ -310,8 +310,8 @@ export default function ProductsPage() {
                     </div>
                   </div>
 
-                  <Link to="/products/cloudsentinel" className="btn-primary">
-                    Explore CloudSentinel
+                  <Link to="/products/cloudsentrix" className="btn-primary">
+                    Explore CloudSentrix
                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
                   </Link>
                 </div>
@@ -351,7 +351,7 @@ export default function ProductsPage() {
                         <span className="text-sm font-bold gt-green">CloudLunar</span>
                       </th>
                       <th className="text-center px-6 py-4">
-                        <span className="text-sm font-bold gt-warm">CloudSentinel</span>
+                        <span className="text-sm font-bold gt-warm">CloudSentrix</span>
                       </th>
                     </tr>
                   </thead>
@@ -360,7 +360,7 @@ export default function ProductsPage() {
                       <tr key={row.feature} className={`border-b border-white/[0.03] ${i % 2 === 0 ? 'bg-white/[0.01]' : ''}`}>
                         <td className="px-6 py-4 text-sm font-medium" style={{ color: 'var(--text-primary)' }}>{row.feature}</td>
                         <td className="px-6 py-4 text-center"><CellValue value={row.lunar} /></td>
-                        <td className="px-6 py-4 text-center"><CellValue value={row.sentinel} /></td>
+                        <td className="px-6 py-4 text-center"><CellValue value={row.sentrix} /></td>
                       </tr>
                     ))}
                   </tbody>

@@ -16,7 +16,7 @@ const lunarFeatures = [
   { feature: 'Support', free: 'Community', starter: 'Email', professional: 'Priority', enterprise: '24/7 Dedicated' },
 ]
 
-const sentinelFeatures = [
+const sentrixFeatures = [
   { feature: 'Cloud Accounts', free: '1', pro: '3', business: '10', enterprise: 'Unlimited' },
   { feature: 'Resources', free: '50', pro: '500', business: 'Unlimited', enterprise: 'Unlimited' },
   { feature: 'Compliance Checks', free: '5', pro: '183', business: '183', enterprise: '183 + Custom' },
@@ -33,7 +33,7 @@ const enterpriseBenefits = [
   { title: 'Custom SLA Guarantees', desc: 'Tailored uptime, response times, and escalation paths.', icon: 'M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z' },
   { title: 'On-Premise Deployment', desc: 'Deploy within your infrastructure for data sovereignty.', icon: 'M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2' },
   { title: 'Training & Onboarding', desc: 'Hands-on workshops and guided setup for your team.', icon: 'M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253' },
-  { title: 'Bundle Discount', desc: 'Save 20% when you subscribe to both CloudLunar + CloudSentinel.', icon: 'M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z' },
+  { title: 'Bundle Discount', desc: 'Save 20% when you subscribe to both CloudLunar + CloudSentrix.', icon: 'M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z' },
   { title: 'Custom Integrations', desc: 'Connect with your existing SIEM, ticketing, and ITSM tools.', icon: 'M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1' },
 ]
 
@@ -95,7 +95,7 @@ export default function PricingPage() {
               Two products. <span className="gt">One price page.</span>
             </h1>
             <p className="text-xl max-w-2xl" style={{ color: 'var(--text-secondary)' }}>
-              Choose CloudLunar for cost optimization or CloudSentinel for security — or bundle both and save 20%.
+              Choose CloudLunar for cost optimization or CloudSentrix for security — or bundle both and save 20%.
             </p>
           </AnimatedSection>
         </div>
@@ -125,18 +125,18 @@ export default function PricingPage() {
         </div>
       </section>
 
-      {/* CloudSentinel Comparison */}
+      {/* CloudSentrix Comparison */}
       <section className="py-16 lg:py-20" style={{ background: 'var(--bg-surface)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection className="text-center mb-14">
-            <span className="pill pill-pink mb-4 inline-flex">CloudSentinel Plans</span>
+            <span className="pill pill-pink mb-4 inline-flex">CloudSentrix Plans</span>
             <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)' }}>
-              Compare <span className="gt-warm">CloudSentinel</span> features
+              Compare <span className="gt-warm">CloudSentrix</span> features
             </h2>
           </AnimatedSection>
           <AnimatedSection delay={0.1}>
             <ComparisonTable
-              features={sentinelFeatures}
+              features={sentrixFeatures}
               columns={['Free', 'Pro', 'Business', 'Enterprise']}
               columnKeys={['free', 'pro', 'business', 'enterprise']}
               highlightCol="Business"

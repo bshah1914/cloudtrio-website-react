@@ -204,7 +204,7 @@ const frameworks = [
   { name: 'Custom', checks: '2 checks' },
 ]
 
-export default function CloudSentinelPage() {
+export default function CloudSentrixPage() {
   const securityScore = useCounter(87, 2200, 800)
 
   return (

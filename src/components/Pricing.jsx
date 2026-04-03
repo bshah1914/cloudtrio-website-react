@@ -61,8 +61,8 @@ const products = {
       },
     ],
   },
-  cloudsentinel: {
-    name: 'CloudSentinel',
+  cloudsentrix: {
+    name: 'CloudSentrix',
     tagline: 'Multi-Cloud Security',
     pill: 'pill-pink',
     accent: 'text-pink-400',

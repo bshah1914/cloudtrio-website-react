@@ -7,7 +7,7 @@ import DevOpsPage from './pages/DevOpsPage'
 import AppDevelopmentPage from './pages/AppDevelopmentPage'
 import AIMLPage from './pages/AIMLPage'
 import ProductsPage from './pages/ProductsPage'
-import CloudSentinelPage from './pages/CloudSentinelPage'
+import CloudSentrixPage from './pages/CloudSentrixPage'
 import PricingPage from './pages/PricingPage'
 import AboutPage from './pages/AboutPage'
 import ContactPage from './pages/ContactPage'
@@ -25,7 +25,7 @@ export default function App() {
         <Route path="app-development" element={<AppDevelopmentPage />} />
         <Route path="ai-ml" element={<AIMLPage />} />
         <Route path="products" element={<ProductsPage />} />
-        <Route path="products/cloudsentinel" element={<CloudSentinelPage />} />
+        <Route path="products/cloudsentrix" element={<CloudSentrixPage />} />
         <Route path="pricing" element={<PricingPage />} />
         <Route path="about" element={<AboutPage />} />
         <Route path="contact" element={<ContactPage />} />
