@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T19:01:32.780Z",
+  "lastUpdated": "2026-04-03T02:38:18.909Z",
   "count": 30,
   "news": [
     {
@@ -8,7 +8,7 @@
       "title": "April 02, 2026",
       "desc": "AlloyDB for PostgreSQL Change You can now enable Advanced Query Insights on primary clusters which have secondary clusters configured. Advanced Query Insights...",
       "date": "Apr 2, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_02_2026"
     },
     {
