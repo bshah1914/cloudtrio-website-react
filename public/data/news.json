@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-04T07:05:05.298Z",
+  "lastUpdated": "2026-04-04T13:02:07.574Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "April 04, 2026",
+      "desc": "Google SecOps Feature Playbook Condition and Multi-Choice Question Flows The maximum number of branches supported in Playbook Conditions and Multiple Choice...",
+      "date": "Apr 4, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#April_04_2026"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management",
       "desc": "Organizational safeguards are now generally available in Amazon Bedrock Guardrails, enabling centralized enforcement and management of safety controls across...",
@@ -12,7 +21,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "April 03, 2026",
       "desc": "AlloyDB for PostgreSQL Feature The gcloud beta alloydb connect command is now available in Preview. This command provides a simplified way to connect securely...",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_03_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "April 02, 2026",
       "desc": "AlloyDB for PostgreSQL Change You can now enable Advanced Query Insights on primary clusters which have secondary clusters configured. Advanced Query Insights...",
@@ -30,22 +39,13 @@
       "link": "https://docs.cloud.google.com/release-notes#April_02_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "AWS",
       "title": "Announcing managed daemon support for Amazon ECS Managed Instances",
       "desc": "Amazon ECS Managed Daemons gives platform engineers independent control over monitoring, logging, and tracing agents without application team coordination,...",
       "date": "Apr 1, 2026",
       "tag": "Compute",
       "link": "https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/"
-    },
-    {
-      "id": 5,
-      "provider": "Azure",
-      "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
-      "desc": "Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient. The post Azure IaaS: Keep critical...",
-      "date": "Apr 1, 2026",
-      "tag": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/"
     },
     {
       "id": 6,
