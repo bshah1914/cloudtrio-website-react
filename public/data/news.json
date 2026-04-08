@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T07:25:49.140Z",
+  "lastUpdated": "2026-04-08T13:25:39.200Z",
   "count": 30,
   "news": [
     {
@@ -105,7 +105,7 @@
       "id": 12,
       "provider": "GCP",
       "title": "April 01, 2026",
-      "desc": "Container Optimized OS Change cos-beta-129-19506-0-115 Kernel Docker Containerd GPU Drivers COS-6.12.67 v27.5.1 v2.2.2 See List Change cos-dev-133-19672-0-0...",
+      "desc": "Cloud Composer Change New images are available in Cloud Composer 2: composer-2.16.10-airflow-2.11.1 composer-2.16.10-airflow-2.10.5 (default)...",
       "date": "Apr 1, 2026",
       "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#April_01_2026"
