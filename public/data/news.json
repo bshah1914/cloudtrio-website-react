@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T07:28:00.226Z",
+  "lastUpdated": "2026-04-09T13:48:15.681Z",
   "count": 30,
   "news": [
     {
@@ -42,7 +42,7 @@
       "id": 5,
       "provider": "GCP",
       "title": "April 06, 2026",
-      "desc": "AlloyDB for PostgreSQL Feature Context sets (previously known as data agents) enable you to interact with the data in your database using conversational...",
+      "desc": "AlloyDB for PostgreSQL Feature The QueryData tool lets you to query with the data in your database using conversational language and build data agents. For...",
       "date": "Apr 6, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_06_2026"
