@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T19:12:20.257Z",
+  "lastUpdated": "2026-04-10T02:48:31.911Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "April 09, 2026",
-      "desc": "Bigtable Feature You can use Gemini in Bigtable Studio to help you write GoogleSQL queries. This feature is available in Preview. For more information, see...",
+      "desc": "Apigee X Change Relaxed limitation on header name for Client IP resolution The client IP can now be resolved from any header, not just the X-Forwarded-For...",
       "date": "Apr 9, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_09_2026"
