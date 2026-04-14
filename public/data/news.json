@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T19:17:59.199Z",
+  "lastUpdated": "2026-04-14T02:49:36.665Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "April 13, 2026",
-      "desc": "BigQuery Feature To reduce LLM token consumption and query latency when processing large datasets, enable optimized mode using the following managed AI...",
+      "desc": "BigQuery Feature Support for the AI.AGG function preview has been temporarily disabled. We are working to restore this feature as soon as possible. Feature To...",
       "date": "Apr 13, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_13_2026"
