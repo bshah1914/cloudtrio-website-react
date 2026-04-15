@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-15T13:44:20.488Z",
+  "lastUpdated": "2026-04-15T19:22:13.831Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "April 15, 2026",
-      "desc": "Compute Engine Announcement You can view the physical location of your Compute Engine instances in a zone to understand your cluster topology. This information...",
+      "desc": "BigQuery Feature You can now use EXPORT DATA statements to reverse ETL BigQuery data to AlloyDB. This feature is in Preview. Cloud Composer Feature Cloud...",
       "date": "Apr 15, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_15_2026"
@@ -159,7 +159,7 @@
       "id": 18,
       "provider": "GCP",
       "title": "April 06, 2026",
-      "desc": "AlloyDB for PostgreSQL Feature The QueryData tool lets you to query the data in your database using conversational language and build data agents. For more...",
+      "desc": "Access Approval Feature API keys are available in Preview. Feature Service Usage is available in Preview. Access Transparency Feature API keys are available in...",
       "date": "Apr 6, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_06_2026"
@@ -258,7 +258,7 @@
       "id": 29,
       "provider": "GCP",
       "title": "March 31, 2026",
-      "desc": "AlloyDB for PostgreSQL Feature Hot standby enhances the AlloyDB high availability (HA) architecture to improve failover times and to ensure consistent...",
+      "desc": "Access Approval Feature Service Management is generally available (GA). Access Transparency Feature Service Management is generally available (GA). AlloyDB for...",
       "date": "Mar 31, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#March_31_2026"
