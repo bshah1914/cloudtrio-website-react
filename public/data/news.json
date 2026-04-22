@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-21T19:17:29.298Z",
+  "lastUpdated": "2026-04-22T02:49:58.065Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "April 21, 2026",
-      "desc": "Spanner Feature Spanner full-text search supports custom dictionaries to create custom synonym mappings. You can use custom dictionaries with the SEARCH,...",
+      "desc": "AlloyDB for PostgreSQL Feature The integration between AlloyDB for PostgreSQL and Knowledge Catalog (in Preview) is now enabled by default for all new AlloyDB...",
       "date": "Apr 21, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_21_2026"
