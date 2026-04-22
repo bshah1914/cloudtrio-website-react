@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-22T13:48:34.498Z",
+  "lastUpdated": "2026-04-22T19:18:29.326Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "April 22, 2026",
-      "desc": "Eventarc Feature Eventarc support for creating triggers for direct events from Gemini Cloud Assist is available in Preview. Security Command Center Feature...",
+      "desc": "Agent Registry Issue The following known issues affect Agent Registry: Search location filtering: When calling the SearchAgents or SearchMcpServers APIs for...",
       "date": "Apr 22, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_22_2026"
     },
     {
