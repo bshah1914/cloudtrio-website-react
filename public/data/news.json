@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-23T19:15:47.585Z",
+  "lastUpdated": "2026-04-24T02:53:37.457Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "April 23, 2026",
+      "desc": "BigQuery Change An updated version of the Simba JDBC driver for BigQuery is now available. Bigtable Feature You can use window functions with GoogleSQL in...",
+      "date": "Apr 23, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#April_23_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "April 22, 2026",
       "desc": "Agent Registry Issue The following known issues affect Agent Registry: Search location filtering: When calling the SearchAgents or SearchMcpServers APIs for...",
@@ -12,7 +21,16 @@
       "link": "https://docs.cloud.google.com/release-notes#April_22_2026"
     },
     {
-      "id": 2,
+      "id": 3,
+      "provider": "Azure",
+      "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
+      "desc": "Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities. The post Introducing Azure Accelerate for...",
+      "date": "Apr 22, 2026",
+      "tag": "AI",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/"
+    },
+    {
+      "id": 4,
       "provider": "GCP",
       "title": "April 21, 2026",
       "desc": "AlloyDB for PostgreSQL Feature The integration between AlloyDB for PostgreSQL and Knowledge Catalog (in Preview) is now enabled by default for all new AlloyDB...",
@@ -21,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_21_2026"
     },
     {
-      "id": 3,
+      "id": 5,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
       "desc": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with...",
@@ -30,7 +48,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/"
     },
     {
-      "id": 4,
+      "id": 6,
       "provider": "GCP",
       "title": "April 20, 2026",
       "desc": "AlloyDB for PostgreSQL Feature You can now use the Database Insights remote MCP server to analyze AlloyDB's performance and system metrics. This feature is in...",
@@ -39,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_20_2026"
     },
     {
-      "id": 5,
+      "id": 7,
       "provider": "GCP",
       "title": "April 19, 2026",
       "desc": "Google SecOps SIEM Announcement New parser documentation now available New parser documentation is available to help you ingest and normalize logs from the...",
@@ -48,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_19_2026"
     },
     {
-      "id": 6,
+      "id": 8,
       "provider": "GCP",
       "title": "April 18, 2026",
       "desc": "Cloud SQL for MySQL Feature Newly created Cloud SQL instances are integrating with Knowledge Catalog (formerly Dataplex Universal Catalog) for data discovery....",
@@ -57,7 +75,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_18_2026"
     },
     {
-      "id": 7,
+      "id": 9,
       "provider": "GCP",
       "title": "April 17, 2026",
       "desc": "AlloyDB for PostgreSQL Issue When querying your Elasticsearch data using standard SQL queries and specifying an OFFSET, if the OFFSET gets pushed down, it gets...",
@@ -66,7 +84,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_17_2026"
     },
     {
-      "id": 8,
+      "id": 10,
       "provider": "AWS",
       "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
       "desc": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and...",
@@ -75,7 +93,7 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/"
     },
     {
-      "id": 9,
+      "id": 11,
       "provider": "GCP",
       "title": "April 16, 2026",
       "desc": "AI Hypercomputer Feature Generally available: The AI Hypercomputer documentation includes support for the A3 Mega and A3 High machine types. The addition of A3...",
@@ -84,7 +102,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_16_2026"
     },
     {
-      "id": 10,
+      "id": 12,
       "provider": "Azure",
       "title": "Cloud Cost Optimization: Principles that still matter",
       "desc": "Discover how cloud cost optimization adapts in the age of AI, with best practices for managing spend, improving efficiency, and maximizing value. The post...",
@@ -93,7 +111,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/"
     },
     {
-      "id": 11,
+      "id": 13,
       "provider": "GCP",
       "title": "April 15, 2026",
       "desc": "AlloyDB for PostgreSQL Feature The AlloyDB for PostgreSQL index advisor is enabled by default. It provides vector search index recommendations for Scalable...",
@@ -102,7 +120,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_15_2026"
     },
     {
-      "id": 12,
+      "id": 14,
       "provider": "AWS",
       "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity",
       "desc": "Today, we’re announcing the general availability of AWS Interconnect – multicloud, a managed private connectivity service that connects your Amazon Virtual...",
@@ -111,7 +129,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/"
     },
     {
-      "id": 13,
+      "id": 15,
       "provider": "Azure",
       "title": "Optimize object storage costs automatically with smart tier—now generally available",
       "desc": "By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage. The post Optimize object storage costs...",
@@ -120,7 +138,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/"
     },
     {
-      "id": 14,
+      "id": 16,
       "provider": "GCP",
       "title": "April 14, 2026",
       "desc": "AlloyDB for PostgreSQL Breaking As of April 10, 2026, you can create, run, and edit Gemini Cloud Assist investigations only if you have a Premium Support...",
@@ -129,7 +147,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_14_2026"
     },
     {
-      "id": 15,
+      "id": 17,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
       "desc": "In my last Week in Review post, I mentioned how much time I’ve been spending on AI-Driven Development Lifecycle (AI-DLC) workshops with customers this year. A...",
@@ -138,7 +156,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/"
     },
     {
-      "id": 16,
+      "id": 18,
       "provider": "GCP",
       "title": "April 13, 2026",
       "desc": "BigQuery Feature Support for the AI.AGG function preview has been temporarily disabled. We are working to restore this feature as soon as possible. Feature To...",
@@ -147,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_13_2026"
     },
     {
-      "id": 17,
+      "id": 19,
       "provider": "GCP",
       "title": "April 12, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.83 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
@@ -156,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_12_2026"
     },
     {
-      "id": 18,
+      "id": 20,
       "provider": "GCP",
       "title": "April 11, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.82 is now available for all regions. ]]>",
@@ -165,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_11_2026"
     },
     {
-      "id": 19,
+      "id": 21,
       "provider": "GCP",
       "title": "April 10, 2026",
       "desc": "BigQuery Feature SQL cells in BigQuery notebooks are now generally available (GA). Cloud Composer Fixed Fixed a problem with missing DAG description and...",
@@ -174,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_10_2026"
     },
     {
-      "id": 20,
+      "id": 22,
       "provider": "Azure",
       "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
       "desc": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty...",
@@ -183,7 +201,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/"
     },
     {
-      "id": 21,
+      "id": 23,
       "provider": "Azure",
       "title": "How Drasi used GitHub Copilot to find documentation bugs",
       "desc": "How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working. The post How Drasi used GitHub Copilot to find documentation...",
@@ -192,7 +210,7 @@
       "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/"
     },
     {
-      "id": 22,
+      "id": 24,
       "provider": "GCP",
       "title": "April 09, 2026",
       "desc": "Apigee X Change Relaxed limitation on header name for Client IP resolution The client IP can now be resolved from any header, not just the X-Forwarded-For...",
@@ -201,7 +219,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_09_2026"
     },
     {
-      "id": 23,
+      "id": 25,
       "provider": "Azure",
       "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
       "desc": "Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency. The post Cloud Cost...",
@@ -210,7 +228,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/"
     },
     {
-      "id": 24,
+      "id": 26,
       "provider": "GCP",
       "title": "April 08, 2026",
       "desc": "BigQuery Feature The BigQuery Data Transfer Service now supports incremental data transfers when transferring data from Microsoft SQL Server to BigQuery. This...",
@@ -219,7 +237,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_08_2026"
     },
     {
-      "id": 25,
+      "id": 27,
       "provider": "AWS",
       "title": "Launching S3 Files, making S3 buckets accessible as file systems",
       "desc": "Amazon S3 Files makes S3 buckets accessible as high-performance file systems on AWS compute resources, eliminating the tradeoff between object storage benefits...",
@@ -228,7 +246,7 @@
       "link": "https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/"
     },
     {
-      "id": 26,
+      "id": 28,
       "provider": "GCP",
       "title": "April 07, 2026",
       "desc": "BigQuery Feature The BigQuery Data Transfer Service now supports incremental data transfers for the following data source connectors: MySQL Oracle PostgreSQL...",
@@ -237,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_07_2026"
     },
     {
-      "id": 27,
+      "id": 29,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
       "desc": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently...",
@@ -246,31 +264,13 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/"
     },
     {
-      "id": 28,
+      "id": 30,
       "provider": "GCP",
       "title": "April 06, 2026",
       "desc": "Access Approval Feature API keys are available in Preview. Feature Service Usage is available in Preview. Access Transparency Feature API keys are available in...",
       "date": "Apr 6, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_06_2026"
-    },
-    {
-      "id": 29,
-      "provider": "GCP",
-      "title": "April 05, 2026",
-      "desc": "Cloud Load Balancing Feature Certificate Manager certificates are available in Google Cloud console while provisioning a load balancer. You can select a...",
-      "date": "Apr 5, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#April_05_2026"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "April 04, 2026",
-      "desc": "Google SecOps Feature Playbook Condition and Multi-Choice Question Flows The maximum number of branches supported in Playbook Conditions and Multiple Choice...",
-      "date": "Apr 4, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#April_04_2026"
     }
   ]
 }
