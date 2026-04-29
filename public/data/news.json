@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-29T14:04:46.166Z",
+  "lastUpdated": "2026-04-29T19:41:02.223Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "April 29, 2026",
+      "desc": "BigQuery Breaking Strict act-as mode is enforced globally for all Dataform repositories, requiring the use of a custom service account or user credentials for...",
+      "date": "Apr 29, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#April_29_2026"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "Top announcements of the What’s Next with AWS, 2026",
       "desc": "At the \"What's Next with AWS\" 2026 event, AWS launched Amazon Quick—an AI assistant for work with a desktop app and expanded integrations—and expanded Amazon...",
@@ -12,7 +21,7 @@
       "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "April 28, 2026",
       "desc": "AlloyDB for PostgreSQL Change When the initial user or password is unspecified during cluster creation, a locked postgres role with null password is created....",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_28_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
       "desc": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an...",
@@ -30,7 +39,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "April 27, 2026",
       "desc": "API Gateway Change New validations on paths in API configurations API Gateway now enforces stricter syntax validations on templated paths when you create new...",
@@ -39,22 +48,13 @@
       "link": "https://docs.cloud.google.com/release-notes#April_27_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "April 24, 2026",
       "desc": "Database Center Feature The Database Center REST and RPC APIs are available in Preview. The Database Center API provides access to an organization-wide,...",
       "date": "Apr 24, 2026",
       "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#April_24_2026"
-    },
-    {
-      "id": 6,
-      "provider": "Azure",
-      "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
-      "desc": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents...",
-      "date": "Apr 23, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/"
     },
     {
       "id": 7,
