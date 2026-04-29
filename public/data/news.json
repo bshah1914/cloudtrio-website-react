@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T19:45:05.218Z",
+  "lastUpdated": "2026-04-29T03:29:02.366Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "April 28, 2026",
-      "desc": "Cloud Asset Inventory Feature The following resource types are publicly available through the ExportAssets, ListAssets, BatchGetAssetsHistory, QueryAssets,...",
+      "desc": "AlloyDB for PostgreSQL Change When the initial user or password is unspecified during cluster creation, a locked postgres role with null password is created....",
       "date": "Apr 28, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_28_2026"
@@ -159,7 +159,7 @@
       "id": 18,
       "provider": "GCP",
       "title": "April 16, 2026",
-      "desc": "AlloyDB for PostgreSQL Announcement The following vector search improvements are now available in Preview: AlloyDB now supports Vector assist. Vector assist is...",
+      "desc": "AI Hypercomputer Feature Generally available: The AI Hypercomputer documentation includes support for the A3 Mega and A3 High machine types. The addition of A3...",
       "date": "Apr 16, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_16_2026"
