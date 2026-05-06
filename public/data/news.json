@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T19:25:49.757Z",
+  "lastUpdated": "2026-05-06T03:27:38.812Z",
   "count": 30,
   "news": [
     {
@@ -13,21 +13,21 @@
     },
     {
       "id": 2,
+      "provider": "GCP",
+      "title": "May 05, 2026",
+      "desc": "Gemini Enterprise Feature Gemini Enterprise: New data store connectors (Public Preview) The following data store are available in Gemini Enterprise: Clinical...",
+      "date": "May 5, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#May_05_2026"
+    },
+    {
+      "id": 3,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
       "desc": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have...",
       "date": "May 4, 2026",
       "tag": "AI",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/"
-    },
-    {
-      "id": 3,
-      "provider": "Azure",
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "desc": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains,...",
-      "date": "May 4, 2026",
-      "tag": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/"
     },
     {
       "id": 4,
@@ -141,7 +141,7 @@
       "id": 16,
       "provider": "GCP",
       "title": "April 27, 2026",
-      "desc": "Apigee hybrid Announcement v1.14.4 On April 27, 2026 we released an updated version of the Apigee hybrid software, v1.14.4. For information on upgrading, see...",
+      "desc": "API Gateway Change New validations on paths in API configurations API Gateway now enforces stricter syntax validations on templated paths when you create new...",
       "date": "Apr 27, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_27_2026"
