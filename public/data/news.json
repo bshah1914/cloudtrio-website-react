@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-06T03:27:38.812Z",
+  "lastUpdated": "2026-05-06T14:21:29.815Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "May 06, 2026",
+      "desc": "Oracle Database@Google Cloud Feature For Exadata Database Service on Exascale infrastructure and Base Database Service, Oracle Database@Google Cloud supports...",
+      "date": "May 6, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#May_06_2026"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
       "desc": "Amazon WorkSpaces now lets AI agents securely operate legacy desktop applications—without APIs or modernization—using IAM authentication, MCP support, and...",
@@ -12,7 +21,7 @@
       "link": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "May 05, 2026",
       "desc": "Gemini Enterprise Feature Gemini Enterprise: New data store connectors (Public Preview) The following data store are available in Gemini Enterprise: Clinical...",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_05_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
       "desc": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have...",
@@ -30,7 +39,16 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/"
     },
     {
-      "id": 4,
+      "id": 5,
+      "provider": "Azure",
+      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
+      "desc": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains,...",
+      "date": "May 4, 2026",
+      "tag": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/"
+    },
+    {
+      "id": 6,
       "provider": "GCP",
       "title": "May 04, 2026",
       "desc": "Cloud NGFW Feature You can now create and configure the following organization-level Cloud NGFW resources within a Google Cloud project: Security profiles...",
@@ -39,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_04_2026"
     },
     {
-      "id": 5,
+      "id": 7,
       "provider": "GCP",
       "title": "May 03, 2026",
       "desc": "Google SecOps Feature Enhanced \"Time to respond\" options for multi-choice questions Google SecOps now provides more granular control over playbook execution...",
@@ -48,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_03_2026"
     },
     {
-      "id": 6,
+      "id": 8,
       "provider": "GCP",
       "title": "May 02, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.83 is now available for all regions. ]]>",
@@ -57,7 +75,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_02_2026"
     },
     {
-      "id": 7,
+      "id": 9,
       "provider": "GCP",
       "title": "May 01, 2026",
       "desc": "Cloud Trace Feature Google Cloud Observability has expanded the supported locations for observability buckets, which store your trace data, to include the...",
@@ -66,7 +84,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_01_2026"
     },
     {
-      "id": 8,
+      "id": 10,
       "provider": "Azure",
       "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
       "desc": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure...",
@@ -75,7 +93,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/"
     },
     {
-      "id": 9,
+      "id": 11,
       "provider": "GCP",
       "title": "April 30, 2026",
       "desc": "BigQuery Breaking Starting May 7, 2026, new transfer configurations that transfer data from Google Ads using the BigQuery Data Transfer Service will require...",
@@ -84,7 +102,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_30_2026"
     },
     {
-      "id": 10,
+      "id": 12,
       "provider": "GCP",
       "title": "April 29, 2026",
       "desc": "Apigee X Announcement On April 29th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows. If you set a preferred window...",
@@ -93,7 +111,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_29_2026"
     },
     {
-      "id": 11,
+      "id": 13,
       "provider": "AWS",
       "title": "Top announcements of the What’s Next with AWS, 2026",
       "desc": "At the \"What's Next with AWS\" 2026 event, AWS launched Amazon Quick—an AI assistant for work with a desktop app and expanded integrations—and expanded Amazon...",
@@ -102,7 +120,7 @@
       "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/"
     },
     {
-      "id": 12,
+      "id": 14,
       "provider": "Azure",
       "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
       "desc": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft...",
@@ -111,7 +129,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/"
     },
     {
-      "id": 13,
+      "id": 15,
       "provider": "GCP",
       "title": "April 28, 2026",
       "desc": "AlloyDB for PostgreSQL Change When the initial user or password is unspecified during cluster creation, a locked postgres role with null password is created....",
@@ -120,7 +138,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_28_2026"
     },
     {
-      "id": 14,
+      "id": 16,
       "provider": "Azure",
       "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
       "desc": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post...",
@@ -129,7 +147,7 @@
       "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/"
     },
     {
-      "id": 15,
+      "id": 17,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
       "desc": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an...",
@@ -138,7 +156,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/"
     },
     {
-      "id": 16,
+      "id": 18,
       "provider": "GCP",
       "title": "April 27, 2026",
       "desc": "API Gateway Change New validations on paths in API configurations API Gateway now enforces stricter syntax validations on templated paths when you create new...",
@@ -147,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_27_2026"
     },
     {
-      "id": 17,
+      "id": 19,
       "provider": "GCP",
       "title": "April 24, 2026",
       "desc": "Database Center Feature The Database Center REST and RPC APIs are available in Preview. The Database Center API provides access to an organization-wide,...",
@@ -156,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_24_2026"
     },
     {
-      "id": 18,
+      "id": 20,
       "provider": "Azure",
       "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
       "desc": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents...",
@@ -165,7 +183,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/"
     },
     {
-      "id": 19,
+      "id": 21,
       "provider": "GCP",
       "title": "April 23, 2026",
       "desc": "Anti Money Laundering AI Fixed Fixed a validation error for engine versions aml-commercial.default.v004.009.202603-000 and...",
@@ -174,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_23_2026"
     },
     {
-      "id": 20,
+      "id": 22,
       "provider": "Azure",
       "title": "Microsoft Discovery: Advancing agentic R&#038;D at scale",
       "desc": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft...",
@@ -183,7 +201,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/"
     },
     {
-      "id": 21,
+      "id": 23,
       "provider": "GCP",
       "title": "April 22, 2026",
       "desc": "Agent Registry Issue The following known issues affect Agent Registry: Search location filtering: When calling the SearchAgents or SearchMcpServers APIs for...",
@@ -192,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_22_2026"
     },
     {
-      "id": 22,
+      "id": 24,
       "provider": "Azure",
       "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
       "desc": "Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities. The post Introducing Azure Accelerate for...",
@@ -201,7 +219,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/"
     },
     {
-      "id": 23,
+      "id": 25,
       "provider": "GCP",
       "title": "April 21, 2026",
       "desc": "AlloyDB for PostgreSQL Feature The integration between AlloyDB for PostgreSQL and Knowledge Catalog (in Preview) is now enabled by default for all new AlloyDB...",
@@ -210,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_21_2026"
     },
     {
-      "id": 24,
+      "id": 26,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
       "desc": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with...",
@@ -219,7 +237,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/"
     },
     {
-      "id": 25,
+      "id": 27,
       "provider": "GCP",
       "title": "April 20, 2026",
       "desc": "AlloyDB for PostgreSQL Feature You can now use the Database Insights remote MCP server to analyze AlloyDB's performance and system metrics. This feature is in...",
@@ -228,7 +246,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_20_2026"
     },
     {
-      "id": 26,
+      "id": 28,
       "provider": "GCP",
       "title": "April 19, 2026",
       "desc": "Google SecOps SIEM Announcement New parser documentation now available New parser documentation is available to help you ingest and normalize logs from the...",
@@ -237,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#April_19_2026"
     },
     {
-      "id": 27,
+      "id": 29,
       "provider": "GCP",
       "title": "April 18, 2026",
       "desc": "Cloud SQL for MySQL Feature Newly created Cloud SQL instances are integrating with Knowledge Catalog (formerly Dataplex Universal Catalog) for data discovery....",
@@ -246,31 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#April_18_2026"
     },
     {
-      "id": 28,
+      "id": 30,
       "provider": "GCP",
       "title": "April 17, 2026",
       "desc": "AlloyDB for PostgreSQL Issue When querying your Elasticsearch data using standard SQL queries and specifying an OFFSET, if the OFFSET gets pushed down, it gets...",
       "date": "Apr 17, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_17_2026"
-    },
-    {
-      "id": 29,
-      "provider": "AWS",
-      "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
-      "desc": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and...",
-      "date": "Apr 16, 2026",
-      "tag": "AI",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "April 16, 2026",
-      "desc": "AI Hypercomputer Feature Generally available: The AI Hypercomputer documentation includes support for the A3 Mega and A3 High machine types. The addition of A3...",
-      "date": "Apr 16, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#April_16_2026"
     }
   ]
 }
