@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T07:45:50.294Z",
+  "lastUpdated": "2026-05-08T13:56:21.915Z",
   "count": 30,
   "news": [
     {
@@ -51,7 +51,7 @@
       "id": 6,
       "provider": "GCP",
       "title": "May 05, 2026",
-      "desc": "Gemini Enterprise Feature Gemini Enterprise: New data store connectors (Public Preview) The following data store are available in Gemini Enterprise: Clinical...",
+      "desc": "Gemini Enterprise Feature Gemini Enterprise: New data stores (Public Preview) The following data store are available in Gemini Enterprise: Clinical Trials...",
       "date": "May 5, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_05_2026"
