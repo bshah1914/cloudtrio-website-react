@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T19:45:25.283Z",
+  "lastUpdated": "2026-05-08T03:24:55.560Z",
   "count": 30,
   "news": [
     {
@@ -8,7 +8,7 @@
       "title": "May 07, 2026",
       "desc": "Apigee API hub Feature Unified MCP Proxy Configuration in API hub (Preview) API hub allows you to create and deploy Model Context Protocol (MCP) discovery...",
       "date": "May 7, 2026",
-      "tag": "DevOps",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_07_2026"
     },
     {
