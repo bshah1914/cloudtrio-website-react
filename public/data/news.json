@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-08T19:22:51.049Z",
+  "lastUpdated": "2026-05-09T03:23:15.925Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "May 08, 2026",
-      "desc": "Gemini Other Bug fixes in VS Code Various bug fixes and minor product enhancements. ]]>",
+      "desc": "BigQuery Announcement Starting August 11, 2026, the billing label for the BigQuery Data Transfer Service SKU will be updated from goog-bq-feature-type:...",
       "date": "May 8, 2026",
-      "tag": "General",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_08_2026"
     },
     {
@@ -60,7 +60,7 @@
       "id": 7,
       "provider": "GCP",
       "title": "May 05, 2026",
-      "desc": "Gemini Enterprise Feature Gemini Enterprise: New data stores (Public Preview) The following data store are available in Gemini Enterprise: Clinical Trials...",
+      "desc": "Config Connector Announcement Config Connector version 1.149.1 is now available. Feature New Alpha Resources (Direct Reconciler):...",
       "date": "May 5, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_05_2026"
