@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T19:51:48.052Z",
+  "lastUpdated": "2026-05-12T03:32:54.247Z",
   "count": 30,
   "news": [
     {
@@ -17,7 +17,7 @@
       "title": "May 11, 2026",
       "desc": "AlloyDB for PostgreSQL Announcement AlloyDB now offers extended support for clusters running major PostgreSQL versions that have reached their end-of-life...",
       "date": "May 11, 2026",
-      "tag": "Storage",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_11_2026"
     },
     {
