@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T03:40:32.386Z",
+  "lastUpdated": "2026-05-13T08:47:52.701Z",
   "count": 30,
   "news": [
     {
@@ -33,7 +33,7 @@
       "id": 4,
       "provider": "GCP",
       "title": "May 11, 2026",
-      "desc": "AlloyDB for PostgreSQL Announcement AlloyDB now offers extended support for clusters running major PostgreSQL versions that have reached their end-of-life...",
+      "desc": "Cloud SQL for MySQL Feature Cloud SQL for MySQL now supports regional endpoints for the Cloud SQL Admin API. This feature lets you direct your API calls to a...",
       "date": "May 11, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_11_2026"
@@ -213,7 +213,7 @@
       "id": 24,
       "provider": "GCP",
       "title": "April 28, 2026",
-      "desc": "AlloyDB for PostgreSQL Change When the initial user or password is unspecified during cluster creation, a locked postgres role with null password is created....",
+      "desc": "BigQuery Feature You can now create materialized views over active change data capture (CDC) enabled tables. This feature is generally available (GA). Cloud...",
       "date": "Apr 28, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#April_28_2026"
