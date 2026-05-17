@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-17T13:26:26.614Z",
+  "lastUpdated": "2026-05-17T19:13:17.606Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "May 17, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.85 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "desc": "Google SecOps Announcement New parser documentation now available New parser documentation is available to help you ingest and normalize logs from the...",
       "date": "May 17, 2026",
-      "tag": "AI",
+      "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#May_17_2026"
     },
     {
