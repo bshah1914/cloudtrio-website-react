@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T03:51:11.840Z",
+  "lastUpdated": "2026-05-19T09:50:54.799Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "May 18, 2026",
-      "desc": "BigQuery Feature You can now use a custom organization policy to allow or deny specific operations on workload management resources including reservations,...",
+      "desc": "BigQuery Feature You can group reservations together to prioritize idle slot sharing within the group. Reservations within a reservation group share idle slots...",
       "date": "May 18, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_18_2026"
