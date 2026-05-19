@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T19:47:29.310Z",
+  "lastUpdated": "2026-05-19T03:51:11.840Z",
   "count": 30,
   "news": [
     {
@@ -15,16 +15,16 @@
       "id": 2,
       "provider": "GCP",
       "title": "May 18, 2026",
-      "desc": "BigQuery Feature You can manage and version control SQL scripts and notebooks with BigQuery Studio Git repositories, which provide a streamlined, folder-based...",
+      "desc": "BigQuery Feature You can now use a custom organization policy to allow or deny specific operations on workload management resources including reservations,...",
       "date": "May 18, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_18_2026"
     },
     {
       "id": 3,
       "provider": "GCP",
       "title": "May 17, 2026",
-      "desc": "Google SecOps Announcement New parser documentation now available New parser documentation is available to help you ingest and normalize logs from the...",
+      "desc": "Gemini Enterprise Feature Gemini Enterprise: Agent Designer defaults to Gemini 3.1 Pro for US and Global regions New agents created in Agent Designer use...",
       "date": "May 17, 2026",
       "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#May_17_2026"
