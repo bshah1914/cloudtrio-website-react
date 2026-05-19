@@ -1,9 +1,45 @@
 {
-  "lastUpdated": "2026-05-19T15:30:32.490Z",
+  "lastUpdated": "2026-05-19T19:55:11.821Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "The agentic era: Architecting the blueprint for mission impact across the public sector",
+      "desc": "<div class=\"block-paragraph\"><p data-block-key=\"y6ko6\">This is a new era — the agentic era – and the question is no longer, “what’s possible?” but rather,...",
+      "date": "May 19, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/topics/public-sector/the-agentic-era-architecting-the-blueprint-for-mission-impact-across-the-public-sector/"
+    },
+    {
+      "id": 2,
+      "provider": "GCP",
+      "title": "The future of agentic development: Redefining the data practitioner lifecycle with Data Agent Kit",
+      "desc": "<div class=\"block-paragraph_advanced\"><p style=\"text-align: justify;\"><span style=\"vertical-align: baseline;\">The modern software development landscape isn’t...",
+      "date": "May 19, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/products/data-analytics/data-agent-kit-brings-data-skills-and-tools-to-your-ide-or-cli/"
+    },
+    {
+      "id": 3,
+      "provider": "GCP",
+      "title": "What Google I/O '26 means for developing agents on Google Cloud",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">At Google I/O, we introduced a unified development toolkit featuring...",
+      "date": "May 19, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/io26-news-for-agent-developers-on-google-cloud/"
+    },
+    {
+      "id": 4,
+      "provider": "GCP",
+      "title": "Everything Google Cloud customers need to know coming out of Google I/O",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">At Google Cloud Next ‘26, we </span><a...",
+      "date": "May 19, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud/"
+    },
+    {
+      "id": 5,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
       "desc": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise...",
@@ -12,43 +48,52 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/"
     },
     {
-      "id": 2,
+      "id": 6,
       "provider": "GCP",
-      "title": "May 18, 2026",
-      "desc": "BigQuery Feature You can group reservations together to prioritize idle slot sharing within the group. Reservations within a reservation group share idle slots...",
+      "title": "Beyond the Query: 5 Scenarios Laying the Foundation for the Agentic Era",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Accessing enterprise data is shifting from static reports to dynamic use by...",
       "date": "May 18, 2026",
       "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_18_2026"
+      "link": "https://cloud.google.com/blog/products/data-analytics/building-an-agentic-data-layer-on-google-cloud-5-key-scenarios/"
     },
     {
-      "id": 3,
+      "id": 7,
       "provider": "GCP",
-      "title": "May 17, 2026",
-      "desc": "Gemini Enterprise Feature Gemini Enterprise: Agent Designer defaults to Gemini 3.1 Pro for US and Global regions New agents created in Agent Designer use...",
-      "date": "May 17, 2026",
-      "tag": "Security",
-      "link": "https://docs.cloud.google.com/release-notes#May_17_2026"
+      "title": "How Google Does It: Fleet-wide, large-scale A/B experimentation",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">When most people think of A/B experimentation, they think of button colors,...",
+      "date": "May 18, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/topics/systems/how-google-does-it-fleet-wide-large-scale-ab-experimentation/"
     },
     {
-      "id": 4,
+      "id": 8,
       "provider": "GCP",
-      "title": "May 16, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.84 is now available for all regions. ]]>",
-      "date": "May 16, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#May_16_2026"
+      "title": "What we announced in streaming AI at Next ‘26",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Every device, user, and microservice generates data. Ingesting this data,...",
+      "date": "May 18, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/products/data-analytics/streaming-ai-news-from-next26/"
     },
     {
-      "id": 5,
+      "id": 9,
       "provider": "GCP",
-      "title": "May 15, 2026",
-      "desc": "Backup and DR Feature Backup and DR Service now supports customer-managed encryption keys (CMEK) for Cloud SQL enhanced backups. This allows you to protect...",
+      "title": "Gemini Live Agent Challenge: Announcing the winners and highlights",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">The Gemini Live Agent Challenge is officially in the books! We challenged...",
       "date": "May 15, 2026",
       "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_15_2026"
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/winners-and-highlights-of-the-gemini-live-agent-challenge/"
     },
     {
-      "id": 6,
+      "id": 10,
+      "provider": "GCP",
+      "title": "Welcome to BlackFile: Inside a Vishing Extortion Operation",
+      "desc": "<div class=\"block-paragraph_advanced\"><p>Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo</p> <hr/></div> <div...",
+      "date": "May 15, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/"
+    },
+    {
+      "id": 11,
       "provider": "AWS",
       "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
       "desc": "Amazon Bedrock Advanced Prompt Optimization enables customers to optimize their prompts for their current model or migrate prompts to new models faster than...",
@@ -57,16 +102,34 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/"
     },
     {
-      "id": 7,
+      "id": 12,
       "provider": "GCP",
-      "title": "May 14, 2026",
-      "desc": "BigQuery Issue Support for the AI.KEY_DRIVERS function preview has been temporarily disabled. We are working to restore this feature as soon as possible. Cloud...",
+      "title": "Cloud CISO Perspectives: How Google + Wiz changes multicloud strategy for CISOs",
+      "desc": "<div class=\"block-paragraph\"><p data-block-key=\"eucpw\">Welcome to the first Cloud CISO Perspectives for May 2026. Today, Vinod D’Souza, director, Office of the...",
       "date": "May 14, 2026",
       "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_14_2026"
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-wiz-changes-multicloud-strategy-for-cisos/"
     },
     {
-      "id": 8,
+      "id": 13,
+      "provider": "GCP",
+      "title": "What’s new with Google Data Cloud",
+      "desc": "<div class=\"block-paragraph_advanced\"><h3><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\">May 11 - May 15</span></span></h3>...",
+      "date": "May 14, 2026",
+      "tag": "Storage",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/"
+    },
+    {
+      "id": 14,
+      "provider": "GCP",
+      "title": "Google Named a Leader in the Gartner® Magic Quadrant™ for AI Application Development Platforms: Mid-cycle update",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"font-style: italic; vertical-align: baseline;\">May 2026 update: We’ve refreshed this post to reflect our...",
+      "date": "May 13, 2026",
+      "tag": "Storage",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-gartner-magic-quadrant/"
+    },
+    {
+      "id": 15,
       "provider": "Azure",
       "title": "From commit to cloud: Powering what’s next for PostgreSQL",
       "desc": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding...",
@@ -75,16 +138,52 @@
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/"
     },
     {
-      "id": 9,
+      "id": 16,
       "provider": "GCP",
-      "title": "May 13, 2026",
-      "desc": "Apigee hybrid Announcement v1.16.2 On May 13, 2026 we released an updated version of the Apigee hybrid software, v1.16.2. For information on upgrading, see...",
+      "title": "The power of LLMs on your data, more than two orders of magnitude faster and cheaper",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Databases have introduced new AI-powered SQL functions which take natural...",
       "date": "May 13, 2026",
       "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_13_2026"
+      "link": "https://cloud.google.com/blog/products/data-analytics/more-than-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models/"
     },
     {
-      "id": 10,
+      "id": 17,
+      "provider": "GCP",
+      "title": "The new era of SaMD: Why cloud infrastructure is the foundation for digital health in 2026",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">In the healthcare and life sciences industries, speed saves lives, but meeting...",
+      "date": "May 13, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/products/identity-security/why-cloud-infrastructure-is-the-foundation-for-digital-health-in-2026/"
+    },
+    {
+      "id": 18,
+      "provider": "GCP",
+      "title": "Smart moves: Building resilient transportation systems with Google AI",
+      "desc": "<div class=\"block-paragraph\"><p data-block-key=\"k6wvo\">What does transportation mean to you? For some, it’s making sure the train is on schedule so they can...",
+      "date": "May 13, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/topics/public-sector/smart-moves-building-resilient-transportation-systems-with-google-ai/"
+    },
+    {
+      "id": 19,
+      "provider": "GCP",
+      "title": "Our continued commitment to Chromebooks, and looking ahead",
+      "desc": "<div class=\"block-paragraph\"><p data-block-key=\"6trfo\">At the Android Show yesterday, we introduced Googlebooks: a new category of premium laptops built with...",
+      "date": "May 13, 2026",
+      "tag": "Security",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/our-continued-commitment-to-chromebooks-and-looking-ahead/"
+    },
+    {
+      "id": 20,
+      "provider": "GCP",
+      "title": "SAP SAPPHIRE 2026: Google Cloud unveils unified agentic vision and massive compute scaling",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">In today's hyper-connected market, an enterprise's most valuable asset —...",
+      "date": "May 12, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/products/sap-google-cloud/sap-sapphire-2026-the-future-of-google-cloud-ai-agents/"
+    },
+    {
+      "id": 21,
       "provider": "Azure",
       "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
       "desc": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI:...",
@@ -93,7 +192,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/"
     },
     {
-      "id": 11,
+      "id": 22,
       "provider": "AWS",
       "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
       "desc": "Amazon Redshift RG instances, powered by AWS Graviton, run data warehouse and data lake workloads up to 2.4x as fast as RA3 instances at 30% lower price per...",
@@ -102,16 +201,25 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/"
     },
     {
-      "id": 12,
+      "id": 23,
       "provider": "GCP",
-      "title": "May 12, 2026",
-      "desc": "Apigee API hub Feature MCP tools support for Agentic AI workflows (Preview) API hub now exposes read-only APIs as Model Context Protocol (MCP) tools. Agentic...",
+      "title": "Beyond source code: The files AI coding agents trust — and attackers exploit",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">As AI coding agents become deeply embedded in developer workflows, defenders...",
       "date": "May 12, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_12_2026"
+      "tag": "Storage",
+      "link": "https://cloud.google.com/blog/products/identity-security/beyond-source-code-the-files-ai-coding-agents-trust-and-attackers-exploit/"
     },
     {
-      "id": 13,
+      "id": 24,
+      "provider": "GCP",
+      "title": "How Imgix processes 8 billion images daily with G4 VMs powered by NVIDIA Blackwell",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">The modern web is extremely visual. People are busy and easily-distracted, and...",
+      "date": "May 12, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/products/infrastructure/how-imgix-processes-8-billion-images-daily-with-g4-vms-powered-by-nvidia-blackwell/"
+    },
+    {
+      "id": 25,
       "provider": "Azure",
       "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
       "desc": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat...",
@@ -120,7 +228,16 @@
       "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/"
     },
     {
-      "id": 14,
+      "id": 26,
+      "provider": "GCP",
+      "title": "Meet the latest Database Center, now with Gemini-powered fleet intelligence",
+      "desc": "<div class=\"block-paragraph_advanced\"><p><span style=\"vertical-align: baseline;\">Managing a modern database fleet is both a scale and cognitive problem. As...",
+      "date": "May 11, 2026",
+      "tag": "Compute",
+      "link": "https://cloud.google.com/blog/products/databases/database-center-improvements-from-next26/"
+    },
+    {
+      "id": 27,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
       "desc": "My most exciting news of last week: Amazon Bedrock AgentCore previewed the first managed payment capabilities enabling AI agents to autonomously access and pay...",
@@ -129,7 +246,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/"
     },
     {
-      "id": 15,
+      "id": 28,
       "provider": "Azure",
       "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
       "desc": "AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure...",
@@ -138,43 +255,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/"
     },
     {
-      "id": 16,
-      "provider": "GCP",
-      "title": "May 11, 2026",
-      "desc": "AlloyDB for PostgreSQL Announcement AlloyDB now offers extended support for clusters running major PostgreSQL versions that have reached their end-of-life...",
-      "date": "May 11, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_11_2026"
-    },
-    {
-      "id": 17,
-      "provider": "GCP",
-      "title": "May 09, 2026",
-      "desc": "Container Optimized OS Change cos-beta-129-19506-120-64 Kernel Docker Containerd GPU Drivers COS-6.12.77 v27.5.1 v2.2.3 See List Security Fixed CVE-2026-43284...",
-      "date": "May 9, 2026",
-      "tag": "Security",
-      "link": "https://docs.cloud.google.com/release-notes#May_09_2026"
-    },
-    {
-      "id": 18,
-      "provider": "GCP",
-      "title": "May 08, 2026",
-      "desc": "BigQuery Announcement Starting August 11, 2026, the billing label for the BigQuery Data Transfer Service SKU will be updated from goog-bq-feature-type:...",
-      "date": "May 8, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_08_2026"
-    },
-    {
-      "id": 19,
-      "provider": "GCP",
-      "title": "May 07, 2026",
-      "desc": "Apigee API hub Feature Unified MCP Proxy Configuration in API hub (Preview) API hub allows you to create and deploy Model Context Protocol (MCP) discovery...",
-      "date": "May 7, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_07_2026"
-    },
-    {
-      "id": 20,
+      "id": 29,
       "provider": "AWS",
       "title": "The AWS MCP Server is now generally available",
       "desc": "AWS announces the general availability of the AWS MCP Server, a managed remote Model Context Protocol (MCP) server that gives AI agents and coding assistants...",
@@ -183,94 +264,13 @@
       "link": "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/"
     },
     {
-      "id": 21,
+      "id": 30,
       "provider": "Azure",
       "title": "Scaling cloud and AI: Microsoft Azure&#8217;s commitment to Europe&#8217;s digital future",
       "desc": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation,...",
       "date": "May 6, 2026",
       "tag": "Security",
       "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/"
-    },
-    {
-      "id": 22,
-      "provider": "GCP",
-      "title": "May 06, 2026",
-      "desc": "BigQuery Feature You can configure BigQuery sharing listings for multiple regions, which allows you to share datasets and linked replicas across global...",
-      "date": "May 6, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_06_2026"
-    },
-    {
-      "id": 23,
-      "provider": "AWS",
-      "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
-      "desc": "Amazon WorkSpaces now lets AI agents securely operate legacy desktop applications—without APIs or modernization—using IAM authentication, MCP support, and...",
-      "date": "May 5, 2026",
-      "tag": "Compute",
-      "link": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/"
-    },
-    {
-      "id": 24,
-      "provider": "GCP",
-      "title": "May 05, 2026",
-      "desc": "Config Connector Announcement Config Connector version 1.149.1 is now available. Feature New Alpha Resources (Direct Reconciler):...",
-      "date": "May 5, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_05_2026"
-    },
-    {
-      "id": 25,
-      "provider": "AWS",
-      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
-      "desc": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have...",
-      "date": "May 4, 2026",
-      "tag": "AI",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/"
-    },
-    {
-      "id": 26,
-      "provider": "Azure",
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "desc": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains,...",
-      "date": "May 4, 2026",
-      "tag": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/"
-    },
-    {
-      "id": 27,
-      "provider": "GCP",
-      "title": "May 04, 2026",
-      "desc": "Apigee hybrid Announcement v1.15.3 On May 4, 2026 we released an updated version of the Apigee hybrid software, v1.15.3. For information on upgrading, see...",
-      "date": "May 4, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_04_2026"
-    },
-    {
-      "id": 28,
-      "provider": "GCP",
-      "title": "May 03, 2026",
-      "desc": "Google SecOps Feature Enhanced \"Time to respond\" options for multi-choice questions Google SecOps now provides more granular control over playbook execution...",
-      "date": "May 3, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#May_03_2026"
-    },
-    {
-      "id": 29,
-      "provider": "GCP",
-      "title": "May 02, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.83 is now available for all regions. ]]>",
-      "date": "May 2, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#May_02_2026"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "May 01, 2026",
-      "desc": "Cloud Trace Feature Google Cloud Observability has expanded the supported locations for observability buckets, which store your trace data, to include the...",
-      "date": "May 1, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_01_2026"
     }
   ]
 }
