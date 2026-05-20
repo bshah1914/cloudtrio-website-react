@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-20T15:28:13.800Z",
+  "lastUpdated": "2026-05-20T20:21:08.363Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "May 20, 2026",
-      "desc": "Oracle Database@Google Cloud Feature Oracle Database@Google Cloud supports Oracle Cloud Infrastructure Goldengate. You can create Goldengate deployments and...",
+      "desc": "Apigee X Security On May 20, 2026, we published a security bulletin for Apigee. A vulnerability was found in Apigee (CVE-2026-2264) where the IntegrationRegion...",
       "date": "May 20, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_20_2026"
     },
     {
@@ -231,7 +231,7 @@
       "id": 26,
       "provider": "GCP",
       "title": "May 05, 2026",
-      "desc": "Google Cloud VMware Engine Announcement The VMware Engine ve2 node type is now available in the following additional region: Eemshaven, Netherlands...",
+      "desc": "Config Connector Announcement Config Connector version 1.149.1 is now available. Feature New Alpha Resources (Direct Reconciler):...",
       "date": "May 5, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_05_2026"
