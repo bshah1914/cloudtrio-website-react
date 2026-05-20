@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-05-20T09:39:08.412Z",
+  "lastUpdated": "2026-05-20T15:28:13.800Z",
   "count": 30,
   "news": [
     {
       "id": 1,
-      "provider": "Azure",
-      "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
-      "desc": "We are excited to announce the general availability (GA) of Entra-Only identities for Azure Files SMB. With native Microsoft Entra ID authentication,...",
-      "date": "May 19, 2026",
-      "tag": "Storage",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/"
+      "provider": "GCP",
+      "title": "May 20, 2026",
+      "desc": "Oracle Database@Google Cloud Feature Oracle Database@Google Cloud supports Oracle Cloud Infrastructure Goldengate. You can create Goldengate deployments and...",
+      "date": "May 20, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#May_20_2026"
     },
     {
       "id": 2,
       "provider": "GCP",
       "title": "May 19, 2026",
-      "desc": "BigQuery Feature You can use the AI.PARSE_DOCUMENT function to parse documents such as PDFs. This function uses the Document AI layout parser to extract...",
+      "desc": "Apigee hybrid Announcement v1.16.3 On May 19, 2026 we released an updated version of the Apigee hybrid software, v1.16.3. For information on upgrading, see...",
       "date": "May 19, 2026",
-      "tag": "Storage",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_19_2026"
     },
     {
@@ -231,7 +231,7 @@
       "id": 26,
       "provider": "GCP",
       "title": "May 05, 2026",
-      "desc": "Config Connector Announcement Config Connector version 1.149.1 is now available. Feature New Alpha Resources (Direct Reconciler):...",
+      "desc": "Google Cloud VMware Engine Announcement The VMware Engine ve2 node type is now available in the following additional region: Eemshaven, Netherlands...",
       "date": "May 5, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_05_2026"
