@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-05-21T19:56:42.207Z",
+  "lastUpdated": "2026-05-22T03:55:50.323Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "May 21, 2026",
-      "desc": "App Engine standard environment Go Feature The App Engine Migration hub lets you migrate services in the App Engine standard environment to Cloud Run, and also...",
+      "desc": "Apigee X Announcement On May 21st, 2026, we released an updated version of Apigee (1-17-0-apigee-8). Note: Rollouts of this release began today and may take...",
       "date": "May 21, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_21_2026"
@@ -78,7 +78,7 @@
       "id": 9,
       "provider": "GCP",
       "title": "May 15, 2026",
-      "desc": "Backup and DR Feature Backup and DR Service now supports customer-managed encryption keys (CMEK) for Cloud SQL enhanced backups. This allows you to protect...",
+      "desc": "Assured Workloads Feature The Indonesia Data Boundary supports the following products: Cloud Scheduler Secure Web Proxy Workflows Workload Identity Federation...",
       "date": "May 15, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_15_2026"
