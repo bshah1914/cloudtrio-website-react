@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T20:21:41.343Z",
+  "lastUpdated": "2026-05-28T03:53:24.047Z",
   "count": 30,
   "news": [
     {
@@ -17,7 +17,7 @@
       "title": "May 27, 2026",
       "desc": "App Engine standard environment Go Feature Enable only needed legacy bundled services using the app_engine_bundled_services field for improved security and...",
       "date": "May 27, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_27_2026"
     },
     {
