@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T09:57:40.640Z",
+  "lastUpdated": "2026-05-29T15:42:22.272Z",
   "count": 30,
   "news": [
     {
@@ -114,7 +114,7 @@
       "id": 13,
       "provider": "GCP",
       "title": "May 22, 2026",
-      "desc": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.0 On May 22, 2026, we released Apigee Emulator version 2.0.0. Starting with this release, the Apigee...",
+      "desc": "Access Approval Feature DNS Armor is generally available (GA). Access Transparency Feature DNS Armor is generally available (GA). Apigee X Announcement Apigee...",
       "date": "May 22, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_22_2026"
