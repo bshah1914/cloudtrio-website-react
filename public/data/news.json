@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-05-31T08:49:43.167Z",
+  "lastUpdated": "2026-05-31T13:49:33.648Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "May 31, 2026",
+      "desc": "Google SecOps SOAR Announcement Release 6.3.87 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "date": "May 31, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#May_31_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "May 30, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.86 is now available for all regions. ]]>",
       "date": "May 30, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#May_30_2026"
-    },
-    {
-      "id": 2,
-      "provider": "Azure",
-      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
-      "desc": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic...",
-      "date": "May 29, 2026",
-      "tag": "AI",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367"
     },
     {
       "id": 3,
