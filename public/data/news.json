@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-06-01T04:20:44.609Z",
+  "lastUpdated": "2026-06-01T11:40:51.527Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "May 31, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.87 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "desc": "Google SecOps Change Google SecOps has updated the list of supported default parsers. Parsers are updated gradually, so it might take one to four days before...",
       "date": "May 31, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_31_2026"
     },
     {
@@ -22,6 +22,15 @@
     },
     {
       "id": 3,
+      "provider": "Azure",
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "desc": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic...",
+      "date": "May 29, 2026",
+      "tag": "AI",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367"
+    },
+    {
+      "id": 4,
       "provider": "GCP",
       "title": "May 29, 2026",
       "desc": "Apigee X Announcement On May 29, 2026, we released an updated version of the Apigee UI. Feature Manage Spaces in the Apigee UI You can now create, view,...",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_29_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "AWS",
       "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
       "desc": "AWS launches the next generation of AWS Resilience Hub with a significantly expanded experience that brings together a new application model, dependency...",
@@ -39,7 +48,7 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "AWS",
       "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
       "desc": "AWS rebuilt Amazon OpenSearch Serverless from the ground up for agentic AI and dynamic workloads. Get instant autoscaling and up to 60% cost savings.",
@@ -48,7 +57,7 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "GCP",
       "title": "May 28, 2026",
       "desc": "Backup and DR Feature You can now view the Google Cloud Backup and DR Service protection summary at the organization and folder levels. To learn more about...",
@@ -57,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_28_2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "AWS",
       "title": "Meet Our Newest AWS Heroes – May 2026",
       "desc": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge...",
@@ -66,7 +75,7 @@
       "link": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "GCP",
       "title": "May 27, 2026",
       "desc": "App Engine standard environment Go Feature Enable only needed legacy bundled services using the app_engine_bundled_services field for improved security and...",
@@ -75,7 +84,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_27_2026"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "GCP",
       "title": "May 26, 2026",
       "desc": "BigQuery Feature The Data Science Agent (DSA) for Colab Enterprise and BigQuery is now generally available (GA). Cloud CDN Feature For global external...",
@@ -84,7 +93,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_26_2026"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
       "desc": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a...",
@@ -93,7 +102,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "GCP",
       "title": "May 25, 2026",
       "desc": "Google Kubernetes Engine Feature To monitor the efficiency of the GKE training JobSet, the following two GKE system metrics are available in Preview:...",
@@ -102,7 +111,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_25_2026"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "GCP",
       "title": "May 24, 2026",
       "desc": "Google SecOps Feature [Spotlight Feature] Create and manage calculated fields The Calculated Fields feature is now available in Preview. With Calculated...",
@@ -111,7 +120,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_24_2026"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "GCP",
       "title": "May 23, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.85 is now available for all regions. ]]>",
@@ -120,7 +129,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_23_2026"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "Azure",
       "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
       "desc": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering...",
@@ -129,7 +138,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "Azure",
       "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
       "desc": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low...",
@@ -138,7 +147,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "GCP",
       "title": "May 22, 2026",
       "desc": "Access Approval Feature DNS Armor is generally available (GA). Access Transparency Feature DNS Armor is generally available (GA). Apigee X Announcement Apigee...",
@@ -147,7 +156,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_22_2026"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "GCP",
       "title": "May 21, 2026",
       "desc": "AlloyDB for PostgreSQL Fixed ChatGPT users are now able to list and use the AlloyDB toolset provided by the AlloyDB remote MCP server. Apigee X Announcement On...",
@@ -156,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_21_2026"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "Azure",
       "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
       "desc": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a...",
@@ -165,7 +174,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "May 20, 2026",
       "desc": "Apigee X Security On May 20, 2026, we published a security bulletin for Apigee. A vulnerability was found in Apigee (CVE-2026-2264) where the IntegrationRegion...",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_20_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "Azure",
       "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
       "desc": "We are excited to announce the general availability (GA) of Entra-Only identities for Azure Files SMB. With native Microsoft Entra ID authentication,...",
@@ -183,7 +192,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "GCP",
       "title": "May 19, 2026",
       "desc": "Apigee hybrid Announcement v1.16.3 On May 19, 2026 we released an updated version of the Apigee hybrid software, v1.16.3. For information on upgrading, see...",
@@ -192,7 +201,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_19_2026"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
       "desc": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise...",
@@ -201,7 +210,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "GCP",
       "title": "May 18, 2026",
       "desc": "BigQuery Feature You can group reservations together to prioritize idle slot sharing within the group. Reservations within a reservation group share idle slots...",
@@ -210,7 +219,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_18_2026"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "GCP",
       "title": "May 17, 2026",
       "desc": "Gemini Enterprise Feature Gemini Enterprise: Agent Designer defaults to Gemini 3.1 Pro for US and Global regions New agents created in Agent Designer use...",
@@ -219,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_17_2026"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "GCP",
       "title": "May 16, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.84 is now available for all regions. ]]>",
@@ -228,7 +237,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_16_2026"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "GCP",
       "title": "May 15, 2026",
       "desc": "Assured Workloads Feature The Indonesia Data Boundary supports the following products: Cloud Scheduler Secure Web Proxy Workflows Workload Identity Federation...",
@@ -237,7 +246,7 @@
       "link": "https://docs.cloud.google.com/release-notes#May_15_2026"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "AWS",
       "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
       "desc": "Amazon Bedrock Advanced Prompt Optimization enables customers to optimize their prompts for their current model or migrate prompts to new models faster than...",
@@ -246,7 +255,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "GCP",
       "title": "May 14, 2026",
       "desc": "Backup and DR Feature These features are now available: Replication Optimization: Introduced a deletion replication optimization for AGM-BA to reduce...",
@@ -255,22 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#May_14_2026"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "Azure",
       "title": "From commit to cloud: Powering what’s next for PostgreSQL",
       "desc": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding...",
       "date": "May 13, 2026",
       "tag": "Database",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "May 13, 2026",
-      "desc": "Apigee hybrid Announcement v1.16.2 On May 13, 2026 we released an updated version of the Apigee hybrid software, v1.16.2. For information on upgrading, see...",
-      "date": "May 13, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_13_2026"
     }
   ]
 }
