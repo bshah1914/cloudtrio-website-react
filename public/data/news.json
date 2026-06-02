@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-02T16:38:03.080Z",
+  "lastUpdated": "2026-06-02T20:52:35.034Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "June 02, 2026",
-      "desc": "Cloud Composer Feature (Managed Airflow Gen 3) You can now access Cloud Run endpoints restricted to internal ingress traffic through your environment's network...",
+      "desc": "AlloyDB for PostgreSQL Feature You can now configure a cooldown period to determine when autoscaling occurs for your read pool instances. For more information,...",
       "date": "Jun 2, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_02_2026"
