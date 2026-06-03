@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-03T16:54:36.571Z",
+  "lastUpdated": "2026-06-03T20:58:18.833Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "June 03, 2026",
-      "desc": "Compute Engine Feature Generally available: You can gradually create Flex-start VMs in a managed instance group (MIG) as capacity becomes available. Unlike...",
+      "desc": "App Engine standard environment Node.js Feature App Engine supports Direct VPC egress in Preview. Direct VPC egress lets your workloads access VPC network...",
       "date": "Jun 3, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_03_2026"
