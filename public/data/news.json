@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T20:52:35.034Z",
+  "lastUpdated": "2026-06-03T04:23:56.623Z",
   "count": 30,
   "news": [
     {
@@ -33,7 +33,7 @@
       "id": 4,
       "provider": "GCP",
       "title": "June 01, 2026",
-      "desc": "BigQuery Change The Facebook Ads connector for the BigQuery Data Transfer Service now supports data transfers from the following Facebook Ads reports:...",
+      "desc": "Agent Assist Feature Agent Assist offers summarization with custom sections 6.0 in GA. The 6.0 version is powered by gemini-3.5-flash and available in all...",
       "date": "Jun 1, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_01_2026"
