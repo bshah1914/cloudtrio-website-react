@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T03:44:50.504Z",
+  "lastUpdated": "2026-06-06T08:36:50.945Z",
   "count": 30,
   "news": [
     {
@@ -168,7 +168,7 @@
       "id": 19,
       "provider": "GCP",
       "title": "May 29, 2026",
-      "desc": "Apigee X Announcement On May 29, 2026, we released an updated version of the Apigee UI. Feature Manage Spaces in the Apigee UI You can now create, view,...",
+      "desc": "Apigee X Announcement On May 29, 2026, we released an updated version of the Apigee UI. Feature Apigee EventFlow now supports the DataCapture policy You can...",
       "date": "May 29, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#May_29_2026"
