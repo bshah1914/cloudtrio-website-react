@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-07T04:12:12.760Z",
+  "lastUpdated": "2026-06-07T09:17:03.928Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "June 06, 2026",
-      "desc": "Cloud Location Finder Announcement Cloud Location Finder is generally available (GA). ]]>",
+      "desc": "Cloud Location Finder Announcement Cloud Location Finder is generally available (GA). Google SecOps SOAR Announcement Release 6.3.87 is now available for all...",
       "date": "Jun 6, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#June_06_2026"
