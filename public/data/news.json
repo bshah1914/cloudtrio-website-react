@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-06-08T15:57:31.550Z",
+  "lastUpdated": "2026-06-08T20:21:42.141Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "June 08, 2026",
-      "desc": "Sensitive Data Protection Feature The OBJECT_TYPE/PERSON/SIGNATURE infoType detector is available in global and the asia, europe, and us multi-regions. For...",
+      "desc": "App Hub Feature App Hub support for resources from Memorystore is now generally available (GA). BigQuery Feature You can use custom constraints with...",
       "date": "Jun 8, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_08_2026"
     },
     {
