@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-10T10:06:07.620Z",
+  "lastUpdated": "2026-06-10T15:41:02.849Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "AWS",
+      "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
+      "desc": "AWS launches Amazon EC2 M9g and M9gd instances, powered by AWS Graviton5 processors. AWS Graviton5 is most powerful, and most energy eﬃcient processor AWS has...",
+      "date": "Jun 10, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
       "desc": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 makes Mythos-level capabilities available to all...",
       "date": "Jun 9, 2026",
       "tag": "Security",
       "link": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/"
-    },
-    {
-      "id": 2,
-      "provider": "Azure",
-      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-      "desc": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post...",
-      "date": "Jun 9, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
     },
     {
       "id": 3,
