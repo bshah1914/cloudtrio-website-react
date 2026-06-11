@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T04:13:05.752Z",
+  "lastUpdated": "2026-06-11T10:40:41.159Z",
   "count": 30,
   "news": [
     {
@@ -24,7 +24,7 @@
       "id": 3,
       "provider": "AWS",
       "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
-      "desc": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 makes Mythos-level capabilities available to all...",
+      "desc": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 delivers Mythos-level capabilities available to...",
       "date": "Jun 9, 2026",
       "tag": "Security",
       "link": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/"
