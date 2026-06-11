@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T20:33:48.664Z",
+  "lastUpdated": "2026-06-11T04:13:05.752Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "June 10, 2026",
-      "desc": "BigQuery Feature BigQuery continuous queries now support the following aggregation functions: ARRAY_AGG STRING_AGG Support for these functions is in Preview....",
+      "desc": "Agent Assist Change Agent Assist offers Proactive generative knowledge assist V2 in GA. This version supports rich search context, multiple suggested queries,...",
       "date": "Jun 10, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_10_2026"
