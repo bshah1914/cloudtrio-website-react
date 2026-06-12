@@ -1,9 +1,72 @@
 {
-  "lastUpdated": "2026-06-12T04:14:35.872Z",
+  "lastUpdated": "2026-06-12T10:17:46.993Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "AWS",
+      "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
+      "desc": "<p>Amazon CloudWatch Application Signals introduces service health ranking on the application map and new infrastructure, logs, and traces tabs on the service...",
+      "date": "Jun 11, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/"
+    },
+    {
+      "id": 2,
+      "provider": "AWS",
+      "title": "Amazon Aurora now supports PostgreSQL major version 18",
+      "desc": "<p><a href=\"https://aws.amazon.com/rds/aurora/\">Amazon Aurora PostgreSQL-Compatible Edition</a> now supports PostgreSQL major version 18, starting with version...",
+      "date": "Jun 11, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/"
+    },
+    {
+      "id": 3,
+      "provider": "AWS",
+      "title": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
+      "desc": "<p>AWS Elastic Beanstalk now provides a CloudWatch Logs integration directly in the environment Logs tab of the Elastic Beanstalk console. Previously,...",
+      "date": "Jun 11, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/"
+    },
+    {
+      "id": 4,
+      "provider": "AWS",
+      "title": "Amazon MWAA Serverless now supports Amazon EventBridge notifications",
+      "desc": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) Serverless now supports workflow and task state change events to <a...",
+      "date": "Jun 11, 2026",
+      "tag": "Storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/"
+    },
+    {
+      "id": 5,
+      "provider": "AWS",
+      "title": "Amazon Managed Service for Prometheus now supports Native Histograms",
+      "desc": "<p><a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> now supports ingestion, storage, and querying of Prometheus native...",
+      "date": "Jun 11, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/"
+    },
+    {
+      "id": 6,
+      "provider": "AWS",
+      "title": "Amazon Managed Service for Prometheus now supports out of order sample ingestion",
+      "desc": "<p><a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> now supports out-of-order sample ingestion and a workspace-level rule...",
+      "date": "Jun 11, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion/"
+    },
+    {
+      "id": 7,
+      "provider": "AWS",
+      "title": "AWS announces AWS Workload Credentials Provider",
+      "desc": "<p>AWS announces AWS Workload Credentials Provider, a lightweight client-side provider that automates deployment of exported certificates from AWS Certificate...",
+      "date": "Jun 11, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/"
+    },
+    {
+      "id": 8,
       "provider": "GCP",
       "title": "June 11, 2026",
       "desc": "BigQuery Feature You can monitor performance, analyze capacity, and optimize costs with Gemini Cloud Assist in BigQuery. This feature is in Preview. Feature...",
@@ -12,16 +75,79 @@
       "link": "https://docs.cloud.google.com/release-notes#June_11_2026"
     },
     {
-      "id": 2,
+      "id": 9,
       "provider": "AWS",
-      "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
-      "desc": "AWS launches Amazon EC2 M9g and M9gd instances, powered by AWS Graviton5 processors. AWS Graviton5 is most powerful, and most energy eﬃcient processor AWS has...",
-      "date": "Jun 10, 2026",
+      "title": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
+      "desc": "<p>Today, AWS announces the expanded availability of OpenAI's GPT-5.4 and GPT-5.5 models, which are now available in the US East (N. Virginia) Region on Amazon...",
+      "date": "Jun 11, 2026",
       "tag": "Compute",
-      "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/"
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/"
     },
     {
-      "id": 3,
+      "id": 10,
+      "provider": "AWS",
+      "title": "Amazon OpenSearch Service launches MCP Apps for agentic observability",
+      "desc": "<p>Amazon OpenSearch Service now supports MCP Apps, bringing observability workflows directly into compatible agentic IDEs such as Claude Desktop and VS Code....",
+      "date": "Jun 10, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app"
+    },
+    {
+      "id": 11,
+      "provider": "AWS",
+      "title": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
+      "desc": "<p>Amazon ECS Managed Daemons now support inter-task visibility and communication, enabling customers to deploy tracing, profiling, and security agents that...",
+      "date": "Jun 10, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/"
+    },
+    {
+      "id": 12,
+      "provider": "AWS",
+      "title": "Gemma 4 models now available on Amazon Bedrock",
+      "desc": "<p>Today, AWS announces the availability of the Gemma 4 family of open-weight models from Google DeepMind on <a href=\"https://aws.amazon.com/bedrock/\">Amazon...",
+      "date": "Jun 10, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock/"
+    },
+    {
+      "id": 13,
+      "provider": "AWS",
+      "title": "Amazon Virtual Private Cloud (VPC) Flow Logs introduces additional metadata",
+      "desc": "<p>Amazon Virtual Private Cloud (VPC) Flow Logs now supports EC2 resource tags and next-hop interface metadata, simplifying network monitoring and...",
+      "date": "Jun 10, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-flow-logs-metadata"
+    },
+    {
+      "id": 14,
+      "provider": "AWS",
+      "title": "Amazon EC2 M9g and M9gd general purpose instances are now available",
+      "desc": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) <a href=\"https://aws.amazon.com/ec2/instance-types/m9g/\">M9g and M9gd instances</a>, powered by...",
+      "date": "Jun 10, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available"
+    },
+    {
+      "id": 15,
+      "provider": "AWS",
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-East) Region",
+      "desc": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-East)...",
+      "date": "Jun 10, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/"
+    },
+    {
+      "id": 16,
+      "provider": "AWS",
+      "title": "AWS Cost and Usage Report 2.0 now supports table configurations update",
+      "desc": "<p>AWS today announces that AWS Cost and Usage Report 2.0 (CUR 2.0) now supports updates to data table configurations via the AWS Management Console and...",
+      "date": "Jun 10, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-usage-report/"
+    },
+    {
+      "id": 17,
       "provider": "GCP",
       "title": "June 10, 2026",
       "desc": "Agent Assist Change Agent Assist offers Proactive generative knowledge assist V2 in GA. This version supports rich search context, multiple suggested queries,...",
@@ -30,25 +156,88 @@
       "link": "https://docs.cloud.google.com/release-notes#June_10_2026"
     },
     {
-      "id": 4,
+      "id": 18,
       "provider": "AWS",
-      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
-      "desc": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 delivers Mythos-level capabilities available to...",
+      "title": "Amazon FSx for OpenZFS Intelligent-Tiering storage class is now available in 8 additional AWS Regions",
+      "desc": "<p>You can now create Amazon FSx for OpenZFS file systems with the Intelligent-Tiering storage class in 8 additional AWS Regions across the US, Europe, Asia...",
       "date": "Jun 9, 2026",
-      "tag": "Security",
-      "link": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/"
+      "tag": "Storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-openzfs/"
     },
     {
-      "id": 5,
+      "id": 19,
+      "provider": "AWS",
+      "title": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
+      "desc": "<p>Amazon SageMaker Unified Studio Notebooks now support Amazon EMR Serverless with Apache Spark Connect, giving data engineers and analysts more flexibility...",
+      "date": "Jun 9, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/"
+    },
+    {
+      "id": 20,
+      "provider": "AWS",
+      "title": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
+      "desc": "<p>You can now create Amazon S3 Access Grants in the AWS European Sovereign Cloud (Germany) Region.</p> <p>Amazon S3 Access Grants map identities in...",
+      "date": "Jun 9, 2026",
+      "tag": "Storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region"
+    },
+    {
+      "id": 21,
       "provider": "Azure",
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "desc": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post...",
       "date": "Jun 9, 2026",
       "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
     },
     {
-      "id": 6,
+      "id": 22,
+      "provider": "AWS",
+      "title": "AWS FinOps Agent is now available in preview",
+      "desc": "<p>Today, AWS announces the preview of AWS FinOps Agent, a frontier agent for FinOps practitioners and engineering teams that answers cost questions, surfaces...",
+      "date": "Jun 9, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/"
+    },
+    {
+      "id": 23,
+      "provider": "AWS",
+      "title": "Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances",
+      "desc": "<p>AWS is announcing the general availability of metal-48xl and metal-96xl sizes for Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8ib, M8idn, M8idb, R8in,...",
+      "date": "Jun 9, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/"
+    },
+    {
+      "id": 24,
+      "provider": "AWS",
+      "title": "AWS announces Claude Fable 5, the first generally available Mythos-class model",
+      "desc": "<p>Claude Fable 5 is generally available on AWS and makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe...",
+      "date": "Jun 9, 2026",
+      "tag": "Security",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/"
+    },
+    {
+      "id": 25,
+      "provider": "AWS",
+      "title": "AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "desc": "<p>AWS Backup support for Amazon Elastic Kubernetes Service (EKS) is now available in the AWS European Sovereign Cloud (Germany) Region. This expansion brings...",
+      "date": "Jun 9, 2026",
+      "tag": "Compute",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/"
+    },
+    {
+      "id": 26,
+      "provider": "AWS",
+      "title": "Run Interactive Workloads on Amazon EMR Serverless with Spark Connect",
+      "desc": "<p>Amazon EMR Serverless now supports interactive sessions with Spark Connect, enabling you to develop and run Apache Spark applications from managed notebooks...",
+      "date": "Jun 9, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect"
+    },
+    {
+      "id": 27,
       "provider": "GCP",
       "title": "June 09, 2026",
       "desc": "Cloud Domains Feature Organization Policy Service custom constraints are generally available for Cloud Domains. For more information, see Use custom...",
@@ -57,220 +246,31 @@
       "link": "https://docs.cloud.google.com/release-notes#June_09_2026"
     },
     {
-      "id": 7,
-      "provider": "AWS",
-      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
-      "desc": "This week, the AWS IoT Device SDK for Swift reached general availability. As a member of the Swift Server Workgroup (SSWG), this one caught my attention. The...",
-      "date": "Jun 8, 2026",
-      "tag": "AI",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/"
-    },
-    {
-      "id": 8,
-      "provider": "GCP",
-      "title": "June 08, 2026",
-      "desc": "Apigee X Announcement On June 8th, 2026, we released an updated version of Apigee (1-17-0-apigee-9). Note: Rollouts of this release began today and may take...",
-      "date": "Jun 8, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#June_08_2026"
-    },
-    {
-      "id": 9,
-      "provider": "GCP",
-      "title": "June 07, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.88 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
-      "date": "Jun 7, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#June_07_2026"
-    },
-    {
-      "id": 10,
-      "provider": "GCP",
-      "title": "June 06, 2026",
-      "desc": "Cloud Location Finder Announcement Cloud Location Finder is generally available (GA). Google SecOps SOAR Announcement Release 6.3.87 is now available for all...",
-      "date": "Jun 6, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#June_06_2026"
-    },
-    {
-      "id": 11,
-      "provider": "AWS",
-      "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
-      "desc": "You can use the new console experience on Amazon Bedrock to browse and compare the latest AI models side by side, organize work into projects with streamlined...",
-      "date": "Jun 5, 2026",
-      "tag": "AI",
-      "link": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/"
-    },
-    {
-      "id": 12,
-      "provider": "GCP",
-      "title": "June 05, 2026",
-      "desc": "Cloud Data Fusion Feature Cloud Data Fusion version 6.11.1.3 is generally available (GA). Fixed Fixed in Cloud Data Fusion 6.11.1.3: Fixed an issue that caused...",
-      "date": "Jun 5, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#June_05_2026"
-    },
-    {
-      "id": 13,
-      "provider": "GCP",
-      "title": "June 04, 2026",
-      "desc": "Anthos Config Management Change Addressed multiple Common Vulnerabilities and Exposures (CVEs) by updating dependencies. Cloud Trace Feature To view the...",
-      "date": "Jun 4, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#June_04_2026"
-    },
-    {
-      "id": 14,
-      "provider": "AWS",
-      "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
-      "desc": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region,...",
-      "date": "Jun 3, 2026",
-      "tag": "Security",
-      "link": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/"
-    },
-    {
-      "id": 15,
-      "provider": "GCP",
-      "title": "June 03, 2026",
-      "desc": "App Engine standard environment Go Feature App Engine supports Direct VPC egress in Preview. Direct VPC egress lets your workloads access VPC network resources...",
-      "date": "Jun 3, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#June_03_2026"
-    },
-    {
-      "id": 16,
-      "provider": "Azure",
-      "title": "AI alone won’t change your business. The system running it will.",
-      "desc": "We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. The post AI...",
-      "date": "Jun 2, 2026",
-      "tag": "AI",
-      "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/"
-    },
-    {
-      "id": 17,
-      "provider": "Azure",
-      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
-      "desc": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for...",
-      "date": "Jun 2, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"
-    },
-    {
-      "id": 18,
-      "provider": "Azure",
-      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
-      "desc": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for...",
-      "date": "Jun 2, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/"
-    },
-    {
-      "id": 19,
-      "provider": "Azure",
-      "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
-      "desc": "We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. The post New...",
-      "date": "Jun 2, 2026",
-      "tag": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/"
-    },
-    {
-      "id": 20,
-      "provider": "Azure",
-      "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
-      "desc": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality...",
-      "date": "Jun 2, 2026",
-      "tag": "AI",
-      "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/"
-    },
-    {
-      "id": 21,
-      "provider": "Azure",
-      "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
-      "desc": "Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full...",
-      "date": "Jun 2, 2026",
-      "tag": "AI",
-      "link": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/"
-    },
-    {
-      "id": 22,
-      "provider": "GCP",
-      "title": "June 02, 2026",
-      "desc": "AlloyDB for PostgreSQL Feature You can now configure a cooldown period to determine when autoscaling occurs for your read pool instances. For more information,...",
-      "date": "Jun 2, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#June_02_2026"
-    },
-    {
-      "id": 23,
-      "provider": "AWS",
-      "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-      "desc": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are available on Amazon Bedrock. Deploy frontier models on Bedrock's high...",
-      "date": "Jun 1, 2026",
-      "tag": "Security",
-      "link": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/"
-    },
-    {
-      "id": 24,
-      "provider": "AWS",
-      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
-      "desc": "In my last Week in Review post, I shared what I’d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I’ve been delivering....",
-      "date": "Jun 1, 2026",
-      "tag": "AI",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/"
-    },
-    {
-      "id": 25,
-      "provider": "GCP",
-      "title": "June 01, 2026",
-      "desc": "Agent Assist Feature Agent Assist offers summarization with custom sections 6.0 in GA. The 6.0 version is powered by gemini-3.5-flash and available in all...",
-      "date": "Jun 1, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#June_01_2026"
-    },
-    {
-      "id": 26,
-      "provider": "GCP",
-      "title": "May 31, 2026",
-      "desc": "Google SecOps Change Google SecOps has updated the list of supported default parsers. Parsers are updated gradually, so it might take one to four days before...",
-      "date": "May 31, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_31_2026"
-    },
-    {
-      "id": 27,
-      "provider": "GCP",
-      "title": "May 30, 2026",
-      "desc": "Apigee hybrid Announcement v1.15.4 On May 30, 2026 we released an updated version of the Apigee hybrid software, v1.15.4. For information on upgrading, see...",
-      "date": "May 30, 2026",
-      "tag": "Security",
-      "link": "https://docs.cloud.google.com/release-notes#May_30_2026"
-    },
-    {
       "id": 28,
-      "provider": "Azure",
-      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
-      "desc": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic...",
-      "date": "May 29, 2026",
+      "provider": "AWS",
+      "title": "AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q",
+      "desc": "<p>AWS Cost Explorer now supports 'Analyze with Amazon Q', a new capability that delivers comprehensive cost explanations for any report you configure in Cost...",
+      "date": "Jun 9, 2026",
       "tag": "AI",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367"
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations"
     },
     {
       "id": 29,
-      "provider": "GCP",
-      "title": "May 29, 2026",
-      "desc": "Apigee X Announcement On May 29, 2026, we released an updated version of the Apigee UI. Feature Apigee EventFlow now supports the DataCapture policy You can...",
-      "date": "May 29, 2026",
+      "provider": "AWS",
+      "title": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
+      "desc": "<p>AWS Compute Optimizer now identifies idle resources for Amazon DynamoDB provisioned tables, Amazon ElastiCache (Redis and Valkey), Amazon MemoryDB, Amazon...",
+      "date": "Jun 8, 2026",
       "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#May_29_2026"
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle"
     },
     {
       "id": 30,
       "provider": "AWS",
-      "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
-      "desc": "AWS launches the next generation of AWS Resilience Hub with a significantly expanded experience that brings together a new application model, dependency...",
-      "date": "May 28, 2026",
+      "title": "Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams",
+      "desc": "<p>Effective today, Amazon MSK Express Brokers support automatic topic creation with Kafka Streams. Customers can now deploy their Kafka Streams applications...",
+      "date": "Jun 8, 2026",
       "tag": "AI",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/"
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/"
     }
   ]
 }
