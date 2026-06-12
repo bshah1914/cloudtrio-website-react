@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-06-12T15:20:30.811Z",
+  "lastUpdated": "2026-06-12T20:13:48.566Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "June 12, 2026",
-      "desc": "Google SecOps Feature [Spotlight Feature] Search for cases using SIEM Search Google SecOps SIEM Search now provides robust capabilities for analyzing cases and...",
+      "desc": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally...",
       "date": "Jun 12, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_12_2026"
     },
     {
