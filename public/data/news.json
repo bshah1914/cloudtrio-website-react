@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-11T20:25:11.427Z",
+  "lastUpdated": "2026-06-12T04:14:35.872Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "June 11, 2026",
-      "desc": "Compute Engine Feature In an autoscaled managed instance group (MIG), you can configure the stabilization period to manage how quickly the autoscaler deletes...",
+      "desc": "BigQuery Feature You can monitor performance, analyze capacity, and optimize costs with Gemini Cloud Assist in BigQuery. This feature is in Preview. Feature...",
       "date": "Jun 11, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_11_2026"
@@ -45,7 +45,7 @@
       "desc": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post...",
       "date": "Jun 9, 2026",
       "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
     },
     {
       "id": 6,
