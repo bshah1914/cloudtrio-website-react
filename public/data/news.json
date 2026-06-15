@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-15T04:43:55.216Z",
+  "lastUpdated": "2026-06-15T12:20:23.819Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "AWS",
+      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+      "desc": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical...",
+      "date": "Jun 15, 2026",
+      "tag": "AI",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "June 14, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.89 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
@@ -12,7 +21,7 @@
       "link": "https://docs.cloud.google.com/release-notes#June_14_2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "June 13, 2026",
       "desc": "Google SecOps Feature Non-prioritized IoC Matching rules Category Google SecOps has introduced a new detection category, Non-prioritized IoC Matching rules, as...",
@@ -21,22 +30,13 @@
       "link": "https://docs.cloud.google.com/release-notes#June_13_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "June 12, 2026",
       "desc": "BigQuery Feature BigQuery AI functions can use ObjectRef values directly as input, without calling the OBJ.GET_ACCESS_URL function. This feature is generally...",
       "date": "Jun 12, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_12_2026"
-    },
-    {
-      "id": 4,
-      "provider": "Azure",
-      "title": "3 things leaders need to know from Microsoft Build 2026",
-      "desc": "At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations...",
-      "date": "Jun 11, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/"
     },
     {
       "id": 5,
@@ -81,7 +81,7 @@
       "desc": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post...",
       "date": "Jun 9, 2026",
       "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
     },
     {
       "id": 10,
