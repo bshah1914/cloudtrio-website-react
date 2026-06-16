@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:57:38.503Z",
+  "lastUpdated": "2026-06-16T04:28:24.015Z",
   "count": 30,
   "news": [
     {
@@ -24,9 +24,9 @@
       "id": 3,
       "provider": "GCP",
       "title": "June 15, 2026",
-      "desc": "AlloyDB for PostgreSQL Feature The Database Insights remote Model Context Protocol (MCP) server now supports the following advanced query insights tools for...",
+      "desc": "AI Hypercomputer Feature Preview: Before you create Spot VMs, you can view the real-time availability, estimated uptime, historical preemption rate, and...",
       "date": "Jun 15, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_15_2026"
     },
     {
