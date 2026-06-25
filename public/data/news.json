@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-25T03:51:40.713Z",
+  "lastUpdated": "2026-06-25T09:26:44.408Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "June 24, 2026",
-      "desc": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us, eu, and global multi-regional...",
+      "desc": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.1 On June 24, 2026, we released Apigee Emulator version 2.0.1. This is a security-only hotfix...",
       "date": "Jun 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_24_2026"
