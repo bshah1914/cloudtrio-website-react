@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-25T14:37:13.203Z",
+  "lastUpdated": "2026-06-25T20:03:56.608Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "June 25, 2026",
+      "desc": "BigQuery Change An updated version of the Simba ODBC driver for BigQuery is now available. Cloud SQL for MySQL Feature You can now assess the upgrade readiness...",
+      "date": "Jun 25, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#June_25_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "June 24, 2026",
       "desc": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.1 On June 24, 2026, we released Apigee Emulator version 2.0.1. This is a security-only hotfix...",
       "date": "Jun 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_24_2026"
-    },
-    {
-      "id": 2,
-      "provider": "Azure",
-      "title": "From insight to action: The next phase of agentic cloud operations",
-      "desc": "What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions? The...",
-      "date": "Jun 23, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/"
     },
     {
       "id": 3,
@@ -168,7 +168,7 @@
       "id": 19,
       "provider": "GCP",
       "title": "June 17, 2026",
-      "desc": "BigQuery Feature You can enable autonomous embedding generation on new or existing tables that you make with the CREATE TABLE or ALTER TABLE statements. When...",
+      "desc": "Agent Assist Feature Agent Assist offers the following UI module integrations with Agent Assist for Salesforce: Chat Voice with Twilio Flex Voice with Nice...",
       "date": "Jun 17, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_17_2026"
