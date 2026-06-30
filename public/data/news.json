@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-29T20:01:02.741Z",
+  "lastUpdated": "2026-06-30T03:54:07.033Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "AWS",
-      "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
       "desc": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless,...",
       "date": "Jun 29, 2026",
       "tag": "Compute",
@@ -15,9 +15,9 @@
       "id": 2,
       "provider": "GCP",
       "title": "June 29, 2026",
-      "desc": "BigQuery Feature You can now grant data preparations and pipelines access to additional services when running or scheduling them with user credentials for a...",
+      "desc": "BigQuery Change Effective March 9, 2026, new users are required to have a Cloud Billing account to use the BigQuery Migration Service. This change applies to...",
       "date": "Jun 29, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_29_2026"
     },
     {
