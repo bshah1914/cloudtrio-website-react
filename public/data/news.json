@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T09:52:40.585Z",
+  "lastUpdated": "2026-07-01T14:41:55.835Z",
   "count": 30,
   "news": [
     {
@@ -33,7 +33,7 @@
       "id": 4,
       "provider": "GCP",
       "title": "June 30, 2026",
-      "desc": "BigQuery Feature You can specify an optional principal property on BigQuery reservation assignments to route queries to specific reservations based on the...",
+      "desc": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform...",
       "date": "Jun 30, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#June_30_2026"
