@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-09T19:49:23.486Z",
+  "lastUpdated": "2026-07-10T03:34:14.687Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 09, 2026",
-      "desc": "Bigtable Feature You can use the Bigtable client library for Go to execute read jobs and queries using Data Boost. Compute Engine Feature Preview: Advanced...",
+      "desc": "BigQuery Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL...",
       "date": "Jul 9, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_09_2026"
