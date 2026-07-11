@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-07-11T07:59:35.893Z",
+  "lastUpdated": "2026-07-11T13:24:12.671Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "July 11, 2026",
+      "desc": "Google SecOps SOAR Announcement Release 6.3.92 is now available for all regions. ]]>",
+      "date": "Jul 11, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#July_11_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "July 10, 2026",
       "desc": "Apigee Advanced API Security Deprecated Deprecation and shutdown of GenAI Incident Summary (generative AI Insights) The standalone GenAI Incident Summary...",
       "date": "Jul 10, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_10_2026"
-    },
-    {
-      "id": 2,
-      "provider": "Azure",
-      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
-      "desc": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry....",
-      "date": "Jul 9, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/"
     },
     {
       "id": 3,
