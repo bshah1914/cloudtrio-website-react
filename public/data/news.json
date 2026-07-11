@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-10T19:36:03.487Z",
+  "lastUpdated": "2026-07-11T02:49:35.939Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 10, 2026",
-      "desc": "Google Distributed Cloud (software only) for bare metal Announcement Google Distributed Cloud (software only) for bare metal 1.33.1000-gke.59 is now available...",
+      "desc": "Apigee Advanced API Security Deprecated Deprecation and shutdown of GenAI Incident Summary (generative AI Insights) The standalone GenAI Incident Summary...",
       "date": "Jul 10, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_10_2026"
