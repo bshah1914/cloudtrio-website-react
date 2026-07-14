@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-14T13:48:56.613Z",
+  "lastUpdated": "2026-07-14T19:22:53.077Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "July 14, 2026",
+      "desc": "Cloud Tasks Change Cloud Tasks is available in the following locations: me-central1 (Doha, Qatar) me-central2 (Dammam, Saudi Arabia) Google Kubernetes Engine...",
+      "date": "Jul 14, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#July_14_2026"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "desc": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and...",
@@ -12,7 +21,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
       "desc": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community...",
@@ -21,7 +30,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "July 13, 2026",
       "desc": "BigQuery Feature Table partitioning, multi-statement transactions, and advanced runtime are now generally available (GA) for Apache Iceberg managed tables....",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_13_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "July 12, 2026",
       "desc": "Google SecOps Feature Publisher Agent Version 2.7.0 Publisher Agent Version 2.7.0 is now available for all regions. This release includes the following updates...",
@@ -39,7 +48,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_12_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "July 11, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.92 is now available for all regions. ]]>",
@@ -48,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_11_2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "GCP",
       "title": "July 10, 2026",
       "desc": "Apigee Advanced API Security Deprecated Deprecation and shutdown of GenAI Incident Summary (generative AI Insights) The standalone GenAI Incident Summary...",
@@ -57,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_10_2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "Azure",
       "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
       "desc": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry....",
@@ -66,7 +75,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "GCP",
       "title": "July 09, 2026",
       "desc": "BigQuery Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL...",
@@ -75,7 +84,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_09_2026"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "Azure",
       "title": "Built to bounce back: How Azure resiliency evolved",
       "desc": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure...",
@@ -84,7 +93,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "GCP",
       "title": "July 08, 2026",
       "desc": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview. You can use the external_search_fdw extension to connect to a...",
@@ -93,7 +102,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_08_2026"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "Azure",
       "title": "External key management for Azure Managed HSM is now in public preview",
       "desc": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant,...",
@@ -102,7 +111,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "GCP",
       "title": "July 07, 2026",
       "desc": "App Engine standard environment Java Feature To modernize image processing, migrate from the App Engine Images service to Cloud Run by routing calls to a Cloud...",
@@ -111,7 +120,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_07_2026"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
       "desc": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the...",
@@ -120,7 +129,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "GCP",
       "title": "July 06, 2026",
       "desc": "Apigee UI Announcement On July 6, 2026, we released an updated version of the Apigee UI. Feature ParsePayload policy and payload operations matching in the...",
@@ -129,7 +138,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_06_2026"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "GCP",
       "title": "July 05, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.92 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
@@ -138,7 +147,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_05_2026"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "GCP",
       "title": "July 04, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.91 is now available for all regions. ]]>",
@@ -147,7 +156,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_04_2026"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "GCP",
       "title": "July 03, 2026",
       "desc": "Apigee hybrid Announcement v1.15.5 On July 3, 2026 we released an updated version of the Apigee hybrid software, v1.15.5. For information on upgrading, see...",
@@ -156,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_03_2026"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "Azure",
       "title": "Meet Brain: The AI system behind Azure reliability",
       "desc": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind...",
@@ -165,7 +174,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "July 02, 2026",
       "desc": "Audit Manager Feature Audit Manager now supports built-in frameworks and custom frameworks that you define using Compliance Manager or Assured Workloads...",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_02_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "AWS",
       "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
       "desc": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade...",
@@ -183,7 +192,7 @@
       "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "Azure",
       "title": "Proving application resilience on Azure with Chaos Studio",
       "desc": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures...",
@@ -192,7 +201,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "GCP",
       "title": "July 01, 2026",
       "desc": "BigQuery Feature You can now use pre-trained TimesFM models in BigQuery ML directly from Connected Sheets. These models let you create forecasts and detect...",
@@ -201,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_01_2026"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "AWS",
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
       "desc": "AWS CloudFormation speeds up infrastructure deployment with Express mode, enabling AI agents and developers to receive deployment confirmation in seconds and...",
@@ -210,7 +219,7 @@
       "link": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "AWS",
       "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
       "desc": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than...",
@@ -219,7 +228,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "AWS",
       "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
       "desc": "AWS Certificate Manager now supports the ACME protocol for public TLS certificates, enabling automated issuance and renewal through any ACMEv2-compatible...",
@@ -228,7 +237,7 @@
       "link": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "Azure",
       "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
       "desc": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a...",
@@ -237,7 +246,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "GCP",
       "title": "June 30, 2026",
       "desc": "Agent Platform Workbench Feature Python 3.12 base containers for Agent Platform Workbench custom containers You can build custom containers for Agent Platform...",
@@ -246,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#June_30_2026"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "Azure",
       "title": "Claude in Microsoft Foundry is now generally available",
       "desc": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent...",
@@ -255,22 +264,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
       "desc": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless,...",
       "date": "Jun 29, 2026",
       "tag": "Compute",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/"
-    },
-    {
-      "id": 30,
-      "provider": "Azure",
-      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-      "desc": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams...",
-      "date": "Jun 29, 2026",
-      "tag": "AI",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/"
     }
   ]
 }
