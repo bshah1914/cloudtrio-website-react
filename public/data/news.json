@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T02:41:21.778Z",
+  "lastUpdated": "2026-07-14T08:09:59.267Z",
   "count": 30,
   "news": [
     {
@@ -24,9 +24,9 @@
       "id": 3,
       "provider": "GCP",
       "title": "July 13, 2026",
-      "desc": "BigQuery Security A Missing Authorization vulnerability was discovered in repositories in BigQuery, Dataform, and Colab Enterprise. An authenticated attacker...",
+      "desc": "BigQuery Feature Table partitioning, multi-statement transactions, and advanced runtime are now generally available (GA) for Apache Iceberg managed tables....",
       "date": "Jul 13, 2026",
-      "tag": "Storage",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_13_2026"
     },
     {
@@ -152,7 +152,7 @@
       "title": "July 03, 2026",
       "desc": "Apigee hybrid Announcement v1.15.5 On July 3, 2026 we released an updated version of the Apigee hybrid software, v1.15.5. For information on upgrading, see...",
       "date": "Jul 3, 2026",
-      "tag": "Storage",
+      "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#July_03_2026"
     },
     {
