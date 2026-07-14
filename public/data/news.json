@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T08:09:59.267Z",
+  "lastUpdated": "2026-07-14T13:48:56.613Z",
   "count": 30,
   "news": [
     {
@@ -152,7 +152,7 @@
       "title": "July 03, 2026",
       "desc": "Apigee hybrid Announcement v1.15.5 On July 3, 2026 we released an updated version of the Apigee hybrid software, v1.15.5. For information on upgrading, see...",
       "date": "Jul 3, 2026",
-      "tag": "Security",
+      "tag": "Storage",
       "link": "https://docs.cloud.google.com/release-notes#July_03_2026"
     },
     {
