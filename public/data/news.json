@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-15T02:39:29.811Z",
+  "lastUpdated": "2026-07-15T08:16:48.146Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 14, 2026",
-      "desc": "BigQuery Feature Conversational analytics now supports the AI.AGG function. This function is in Preview. Bigtable Feature AI agents can use the...",
+      "desc": "BigQuery Feature Conversational analytics now supports the AI.AGG function. This function is in Preview. Announcement As part of Gemini in BigQuery,...",
       "date": "Jul 14, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_14_2026"
