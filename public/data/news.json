@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-14T19:22:53.077Z",
+  "lastUpdated": "2026-07-15T02:39:29.811Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 14, 2026",
-      "desc": "Cloud Tasks Change Cloud Tasks is available in the following locations: me-central1 (Doha, Qatar) me-central2 (Dammam, Saudi Arabia) Google Kubernetes Engine...",
+      "desc": "BigQuery Feature Conversational analytics now supports the AI.AGG function. This function is in Preview. Bigtable Feature AI agents can use the...",
       "date": "Jul 14, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_14_2026"
