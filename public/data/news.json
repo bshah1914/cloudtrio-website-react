@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-07-16T13:58:05.727Z",
+  "lastUpdated": "2026-07-16T19:14:56.208Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 16, 2026",
-      "desc": "Oracle Database@Google Cloud Feature Oracle Database@Google Cloud supports cloning for Autonomous AI Databases. You can create full, metadata, and refreshable...",
+      "desc": "Apigee X Announcement On July 16th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows. If you set a preferred window...",
       "date": "Jul 16, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_16_2026"
     },
     {
       "id": 2,
       "provider": "GCP",
       "title": "July 15, 2026",
-      "desc": "Apigee X Announcement On July 15th, 2026, we released an updated version of Apigee (1-18-0-apigee-1). Note: Rollouts of this release began today and may take...",
+      "desc": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee...",
       "date": "Jul 15, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_15_2026"
