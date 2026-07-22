@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-22T14:00:51.265Z",
+  "lastUpdated": "2026-07-22T19:23:58.725Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "July 22, 2026",
+      "desc": "Google Distributed Cloud (software only) for VMware Announcement Google Distributed Cloud (software only) for VMware 1.35.300-gke.87 is now available for...",
+      "date": "Jul 22, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#July_22_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "July 21, 2026",
       "desc": "Anthos Attached Clusters Announcement You can now launch clusters with the following Kubernetes versions. Click on the following links to see the release notes...",
@@ -12,7 +21,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_21_2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
       "desc": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup...",
@@ -21,7 +30,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "July 20, 2026",
       "desc": "Batch Breaking Starting on the following dates, you can no longer create a job that locates its Compute Engine resources outside of the job's location. For...",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_20_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "July 19, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.94 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
@@ -39,7 +48,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_19_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "July 18, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.93 is now available for all regions. ]]>",
@@ -48,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_18_2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "GCP",
       "title": "July 17, 2026",
       "desc": "Batch Feature Instance flexibility is available in Preview. Instance flexibility lets you allow a job to run on multiple machine types that you specify and can...",
@@ -57,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_17_2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "GCP",
       "title": "July 16, 2026",
       "desc": "Apigee X Announcement On July 16th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows. If you set a preferred window...",
@@ -66,7 +75,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_16_2026"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "Azure",
       "title": "Azure Databricks delivers proven business value",
       "desc": "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value....",
@@ -75,7 +84,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "GCP",
       "title": "July 15, 2026",
       "desc": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee...",
@@ -84,7 +93,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_15_2026"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "GCP",
       "title": "July 14, 2026",
       "desc": "BigQuery Feature Conversational analytics now supports the AI.AGG function. This function is in Preview. Announcement As part of Gemini in BigQuery,...",
@@ -93,7 +102,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_14_2026"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "AWS",
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "desc": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and...",
@@ -102,7 +111,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
       "desc": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community...",
@@ -111,7 +120,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "GCP",
       "title": "July 13, 2026",
       "desc": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image releases are available:...",
@@ -120,7 +129,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_13_2026"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "GCP",
       "title": "July 12, 2026",
       "desc": "Google SecOps Feature Publisher Agent Version 2.7.0 Publisher Agent Version 2.7.0 is now available for all regions. This release includes the following updates...",
@@ -129,7 +138,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_12_2026"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "GCP",
       "title": "July 11, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.92 is now available for all regions. ]]>",
@@ -138,7 +147,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_11_2026"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "GCP",
       "title": "July 10, 2026",
       "desc": "Apigee Advanced API Security Deprecated Deprecation and shutdown of GenAI Incident Summary (generative AI Insights) The standalone GenAI Incident Summary...",
@@ -147,7 +156,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_10_2026"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "Azure",
       "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
       "desc": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry....",
@@ -156,7 +165,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "GCP",
       "title": "July 09, 2026",
       "desc": "BigQuery Feature You can use the BigQuery Data Transfer Service to transfer metadata from the following data sources into Knowledge Catalog: PostgreSQL...",
@@ -165,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_09_2026"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "Azure",
       "title": "Built to bounce back: How Azure resiliency evolved",
       "desc": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure...",
@@ -174,7 +183,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "GCP",
       "title": "July 08, 2026",
       "desc": "AlloyDB for PostgreSQL Feature External search with AlloyDB now supports Apache Solr in Preview. You can use the external_search_fdw extension to connect to a...",
@@ -183,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_08_2026"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "Azure",
       "title": "External key management for Azure Managed HSM is now in public preview",
       "desc": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant,...",
@@ -192,7 +201,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "GCP",
       "title": "July 07, 2026",
       "desc": "App Engine standard environment Java Feature To modernize image processing, migrate from the App Engine Images service to Cloud Run by routing calls to a Cloud...",
@@ -201,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_07_2026"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
       "desc": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the...",
@@ -210,7 +219,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "GCP",
       "title": "July 06, 2026",
       "desc": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image release is available:...",
@@ -219,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_06_2026"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "GCP",
       "title": "July 05, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.92 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
@@ -228,7 +237,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_05_2026"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "GCP",
       "title": "July 04, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.91 is now available for all regions. ]]>",
@@ -237,7 +246,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_04_2026"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "GCP",
       "title": "July 03, 2026",
       "desc": "Apigee hybrid Announcement v1.15.5 On July 3, 2026 we released an updated version of the Apigee hybrid software, v1.15.5. For information on upgrading, see...",
@@ -246,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_03_2026"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "Azure",
       "title": "Meet Brain: The AI system behind Azure reliability",
       "desc": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind...",
@@ -255,22 +264,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "GCP",
       "title": "July 02, 2026",
       "desc": "Audit Manager Feature Audit Manager now supports built-in frameworks and custom frameworks that you define using Compliance Manager or Assured Workloads...",
       "date": "Jul 2, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_02_2026"
-    },
-    {
-      "id": 30,
-      "provider": "AWS",
-      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
-      "desc": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade...",
-      "date": "Jul 1, 2026",
-      "tag": "Compute",
-      "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/"
     }
   ]
 }
