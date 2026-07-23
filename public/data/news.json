@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-22T19:23:58.725Z",
+  "lastUpdated": "2026-07-23T02:56:03.442Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 22, 2026",
-      "desc": "Google Distributed Cloud (software only) for VMware Announcement Google Distributed Cloud (software only) for VMware 1.35.300-gke.87 is now available for...",
+      "desc": "Gemini Enterprise Feature Gemini Enterprise: Support for unauthenticated Custom MCP Server data stores (Preview) When setting up a Custom MCP Server data...",
       "date": "Jul 22, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_22_2026"
