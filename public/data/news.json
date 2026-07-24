@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-23T19:21:15.696Z",
+  "lastUpdated": "2026-07-24T02:50:17.469Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 23, 2026",
-      "desc": "Apigee hybrid Announcement v1.14.7 On July 23, 2026 we released an updated version of the Apigee hybrid software, v1.14.7. For information on upgrading, see...",
+      "desc": "AlloyDB for PostgreSQL Feature Transparent query forwarding is now available in Preview for clusters compatible with PostgreSQL 17 and 18. With this feature,...",
       "date": "Jul 23, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_23_2026"
     },
     {
