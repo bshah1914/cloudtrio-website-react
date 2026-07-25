@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-25T02:49:44.823Z",
+  "lastUpdated": "2026-07-25T08:09:03.700Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 24, 2026",
-      "desc": "Apigee hybrid Announcement v1.16.8 On July 24, 2026 we released an updated version of the Apigee hybrid software, v1.16.8. For information on upgrading, see...",
+      "desc": "Apigee API hub Feature General availability (GA) launch of Model Context Protocol (MCP) in API hub The API hub MCP server is Generally Available (GA). This...",
       "date": "Jul 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_24_2026"
