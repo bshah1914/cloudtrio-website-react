@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-24T19:27:21.880Z",
+  "lastUpdated": "2026-07-25T02:49:44.823Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 24, 2026",
-      "desc": "Compute Engine Feature You can observe real-time virtual machine (VM) distribution across zones, machine types, and instance states in your managed instance...",
+      "desc": "Apigee hybrid Announcement v1.16.8 On July 24, 2026 we released an updated version of the Apigee hybrid software, v1.16.8. For information on upgrading, see...",
       "date": "Jul 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_24_2026"
