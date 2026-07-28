@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T19:36:59.558Z",
+  "lastUpdated": "2026-07-28T02:41:55.951Z",
   "count": 30,
   "news": [
     {
@@ -15,9 +15,9 @@
       "id": 2,
       "provider": "GCP",
       "title": "July 27, 2026",
-      "desc": "AlloyDB for PostgreSQL Feature AlloyDB now supports cross-region failover in Preview. You can optionally enable cross-region failover to automate the...",
+      "desc": "AlloyDB for PostgreSQL Feature AlloyDB write endpoints are now available in Preview. Write endpoints simplify database connection management by providing a...",
       "date": "Jul 27, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_27_2026"
     },
     {
