@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-07-29T08:44:01.319Z",
+  "lastUpdated": "2026-07-29T14:14:14.208Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "July 29, 2026",
+      "desc": "Google SecOps Feature View prebuilt parser version content You can now view the prebuilt parser preview version content even if you are using a custom parser...",
+      "date": "Jul 29, 2026",
+      "tag": "General",
+      "link": "https://docs.cloud.google.com/release-notes#July_29_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "July 28, 2026",
       "desc": "AlloyDB for PostgreSQL Feature Note: IAM group authentication is available in Preview for new AlloyDB clusters. To enable this feature on an existing cluster,...",
       "date": "Jul 28, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_28_2026"
-    },
-    {
-      "id": 2,
-      "provider": "Azure",
-      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
-      "desc": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What...",
-      "date": "Jul 27, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/"
     },
     {
       "id": 3,
