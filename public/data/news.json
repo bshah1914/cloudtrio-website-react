@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T08:30:00.213Z",
+  "lastUpdated": "2026-07-30T14:07:13.797Z",
   "count": 30,
   "news": [
     {
@@ -8,7 +8,7 @@
       "title": "July 29, 2026",
       "desc": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General...",
       "date": "Jul 29, 2026",
-      "tag": "Storage",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_29_2026"
     },
     {
