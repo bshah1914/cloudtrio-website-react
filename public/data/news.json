@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-30T19:35:00.412Z",
+  "lastUpdated": "2026-07-31T03:14:54.853Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 30, 2026",
-      "desc": "Google SecOps Marketplace Change Google Chronicle: Version 91.0 Updated Wiz Defend alert naming format in the following connector: Google Chronicle - Chronicle...",
+      "desc": "BigQuery Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task....",
       "date": "Jul 30, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_30_2026"
