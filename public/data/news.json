@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T19:36:31.061Z",
+  "lastUpdated": "2026-08-01T03:13:37.365Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "July 31, 2026",
-      "desc": "Datastream Feature You can now replicate change data from Workday with Datastream. For more information, see Stream data from Workday. This feature is in...",
+      "desc": "Apigee hybrid Announcement v1.15.7 On July 31, 2026 we released an updated version of the Apigee hybrid software, v1.15.7. For information on upgrading, see...",
       "date": "Jul 31, 2026",
-      "tag": "Analytics",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_31_2026"
     },
     {
