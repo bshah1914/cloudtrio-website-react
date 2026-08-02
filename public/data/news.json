@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-02T13:25:49.101Z",
+  "lastUpdated": "2026-08-02T19:13:38.765Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "August 02, 2026",
+      "desc": "Google SecOps Announcement Scheduled Maintenance SOAR database and infrastructure maintenance is scheduled to take place during the standard maintenance window...",
+      "date": "Aug 2, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#August_02_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "August 01, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.95 is now available for all regions. ]]>",
@@ -12,7 +21,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_01_2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "July 31, 2026",
       "desc": "Apigee hybrid Announcement v1.15.7 On July 31, 2026 we released an updated version of the Apigee hybrid software, v1.15.7. For information on upgrading, see...",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_31_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "July 30, 2026",
       "desc": "BigQuery Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task....",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_30_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "July 29, 2026",
       "desc": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General...",
@@ -39,7 +48,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_29_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "July 28, 2026",
       "desc": "AlloyDB for PostgreSQL Feature Note: IAM group authentication is available in Preview for new AlloyDB clusters. To enable this feature on an existing cluster,...",
@@ -48,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_28_2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "Azure",
       "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
       "desc": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What...",
@@ -57,7 +66,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
       "desc": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event...",
@@ -66,7 +75,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "GCP",
       "title": "July 27, 2026",
       "desc": "AlloyDB for PostgreSQL Feature AlloyDB write endpoints are now available in Preview. Write endpoints simplify database connection management by providing a...",
@@ -75,7 +84,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_27_2026"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "GCP",
       "title": "July 26, 2026",
       "desc": "Google SecOps Feature Customizable schedules for multi-event rules Customizable schedules for multi-event rules are available in public preview. You can...",
@@ -84,7 +93,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_26_2026"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "GCP",
       "title": "July 25, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.94 is now available for all regions. ]]>",
@@ -93,7 +102,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_25_2026"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "GCP",
       "title": "July 24, 2026",
       "desc": "Apigee API hub Feature General availability (GA) launch of Model Context Protocol (MCP) in API hub The API hub MCP server is Generally Available (GA). This...",
@@ -102,7 +111,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_24_2026"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "Azure",
       "title": "AT&#038;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
       "desc": "AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU...",
@@ -111,7 +120,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "GCP",
       "title": "July 23, 2026",
       "desc": "Agent Registry Feature Agent skill governance is available in Preview. Agent Registry supports standalone skill governance, helping enable secure,...",
@@ -120,7 +129,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_23_2026"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "GCP",
       "title": "July 22, 2026",
       "desc": "Access Approval Feature Privileged Access Manager is available in Preview. Access Transparency Feature Privileged Access Manager is available in Preview....",
@@ -129,7 +138,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_22_2026"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "GCP",
       "title": "July 21, 2026",
       "desc": "Anthos Attached Clusters Announcement You can now launch clusters with the following Kubernetes versions. Click on the following links to see the release notes...",
@@ -138,7 +147,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_21_2026"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
       "desc": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup...",
@@ -147,7 +156,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "GCP",
       "title": "July 20, 2026",
       "desc": "Batch Breaking Starting on the following dates, you can no longer create a job that locates its Compute Engine resources outside of the job's location. For...",
@@ -156,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_20_2026"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "GCP",
       "title": "July 19, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.94 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
@@ -165,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_19_2026"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "July 18, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.93 is now available for all regions. ]]>",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_18_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "GCP",
       "title": "July 17, 2026",
       "desc": "Audit Manager Feature Audit Manager includes the following features in Preview: A new UI and report experience Ability to schedule audits Ability to run audits...",
@@ -183,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_17_2026"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "GCP",
       "title": "July 16, 2026",
       "desc": "Apigee X Announcement On July 16th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows. If you set a preferred window...",
@@ -192,7 +201,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_16_2026"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "Azure",
       "title": "Azure Databricks delivers proven business value",
       "desc": "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value....",
@@ -201,7 +210,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "GCP",
       "title": "July 15, 2026",
       "desc": "Apigee UI Fixed Apigee UI Fixed an issue where editing a legacy API Product with a selected API Proxy could cause the Apigee UI to become unresponsive. Apigee...",
@@ -210,7 +219,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_15_2026"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "GCP",
       "title": "July 14, 2026",
       "desc": "BigQuery Feature Conversational analytics now supports the AI.AGG function. This function is in Preview. Announcement As part of Gemini in BigQuery,...",
@@ -219,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_14_2026"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "AWS",
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "desc": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and...",
@@ -228,7 +237,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
       "desc": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community...",
@@ -237,7 +246,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "GCP",
       "title": "July 13, 2026",
       "desc": "Agent Platform Workbench Feature Agent Platform Workbench image release The following Agent Platform Workbench instances image releases are available:...",
@@ -246,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_13_2026"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "GCP",
       "title": "July 12, 2026",
       "desc": "Google SecOps Feature Publisher Agent Version 2.7.0 Publisher Agent Version 2.7.0 is now available for all regions. This release includes the following updates...",
@@ -255,22 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#July_12_2026"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "GCP",
       "title": "July 11, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.92 is now available for all regions. ]]>",
       "date": "Jul 11, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#July_11_2026"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "July 10, 2026",
-      "desc": "Apigee Advanced API Security Deprecated Deprecation and shutdown of GenAI Incident Summary (generative AI Insights) The standalone GenAI Incident Summary...",
-      "date": "Jul 10, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#July_10_2026"
     }
   ]
 }
