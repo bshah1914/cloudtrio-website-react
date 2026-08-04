@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T14:20:04.451Z",
+  "lastUpdated": "2026-08-04T19:39:48.242Z",
   "count": 30,
   "news": [
     {
@@ -222,7 +222,7 @@
       "id": 25,
       "provider": "GCP",
       "title": "July 16, 2026",
-      "desc": "Apigee X Announcement On July 16th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows. If you set a preferred window...",
+      "desc": "Apigee UI Announcement On July 16, 2026, we released an updated version of the Apigee UI. Fixed Updated PDU and basepath limits display in the Apigee UI...",
       "date": "Jul 16, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_16_2026"
