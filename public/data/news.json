@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-04T19:39:48.242Z",
+  "lastUpdated": "2026-08-05T02:41:58.026Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 04, 2026",
-      "desc": "Cloud CDN Feature Cloud CDN supports native image optimization at the Google network edge for global external Application Load Balancers. This feature offloads...",
+      "desc": "AlloyDB for PostgreSQL Feature AlloyDB now supports Best Matching 25 (BM25) indexes for full-text search in Preview. You can use the pg_textsearch extension to...",
       "date": "Aug 4, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_04_2026"
