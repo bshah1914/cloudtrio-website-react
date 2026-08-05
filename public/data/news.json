@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T08:38:51.876Z",
+  "lastUpdated": "2026-08-05T14:12:52.150Z",
   "count": 30,
   "news": [
     {
@@ -42,7 +42,7 @@
       "id": 5,
       "provider": "GCP",
       "title": "August 01, 2026",
-      "desc": "Google Cloud VMware Engine Feature Preview: Google Cloud VMware Engine capacity allocations are available in preview. A capacity allocation is a global...",
+      "desc": "Gemini Enterprise Feature Gemini Enterprise: Pay for what you consume with the Pay-as-you-go edition The Gemini Enterprise Pay-as-you-go edition is generally...",
       "date": "Aug 1, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_01_2026"
