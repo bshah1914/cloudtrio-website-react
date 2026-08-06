@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T19:37:52.211Z",
+  "lastUpdated": "2026-08-06T02:44:40.005Z",
   "count": 30,
   "news": [
     {
@@ -17,7 +17,7 @@
       "title": "August 05, 2026",
       "desc": "Cloud Monitoring Announcement The Telemetry API for metric ingestion is generally available (GA). You can ingest OTLP metrics into Cloud Monitoring by using an...",
       "date": "Aug 5, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_05_2026"
     },
     {
