@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:39:42.039Z",
+  "lastUpdated": "2026-08-06T14:15:54.722Z",
   "count": 30,
   "news": [
     {
@@ -177,7 +177,7 @@
       "id": 20,
       "provider": "GCP",
       "title": "July 22, 2026",
-      "desc": "Access Approval Feature Privileged Access Manager is available in Preview. Access Transparency Feature Privileged Access Manager is available in Preview....",
+      "desc": "Access Approval Feature Agent Identity is available in Preview for Access Approval. Feature Privileged Access Manager is available in Preview. Access...",
       "date": "Jul 22, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_22_2026"
