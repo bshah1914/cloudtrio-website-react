@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:56:21.273Z",
+  "lastUpdated": "2026-08-08T12:52:01.205Z",
   "count": 30,
   "news": [
     {
@@ -35,7 +35,7 @@
       "title": "August 06, 2026",
       "desc": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods:...",
       "date": "Aug 6, 2026",
-      "tag": "Compute",
+      "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#August_06_2026"
     },
     {
