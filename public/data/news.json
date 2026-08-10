@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T01:58:02.537Z",
+  "lastUpdated": "2026-08-10T07:45:08.388Z",
   "count": 30,
   "news": [
     {
@@ -258,7 +258,7 @@
       "id": 29,
       "provider": "GCP",
       "title": "July 20, 2026",
-      "desc": "Batch Breaking Starting on the following dates, you can no longer create a job that locates its Compute Engine resources outside of the job's location. For...",
+      "desc": "BigQuery Issue Lakehouse for Apache Iceberg: Data Products with special characters, such as \"/\" or \"-\", are not supported and will not be available in BigQuery...",
       "date": "Jul 20, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_20_2026"
