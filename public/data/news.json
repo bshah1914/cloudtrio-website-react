@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-09T18:43:17.418Z",
+  "lastUpdated": "2026-08-10T01:58:02.537Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 09, 2026",
-      "desc": "Google SecOps Feature Self-service Bindplane Enterprise license download This feature is currently in Preview. Google SecOps Enterprise Plus and Google Unified...",
+      "desc": "Google SecOps Feature [Spotlight Feature] Analyze feed activity with Cloud Logging This feature is in public preview. You can now monitor, debug, and...",
       "date": "Aug 9, 2026",
       "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#August_09_2026"
