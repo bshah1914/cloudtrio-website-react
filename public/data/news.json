@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T01:53:38.146Z",
+  "lastUpdated": "2026-08-11T07:10:40.112Z",
   "count": 30,
   "news": [
     {
@@ -123,7 +123,7 @@
       "id": 14,
       "provider": "GCP",
       "title": "August 02, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.96 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "desc": "Agent Platform Workbench Change 20260802-2330-rc0 Release Change 20260802-2330-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
       "date": "Aug 2, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#August_02_2026"
@@ -150,7 +150,7 @@
       "id": 17,
       "provider": "GCP",
       "title": "July 30, 2026",
-      "desc": "BigQuery Feature You can add tables, views, data sources, and data quality tests as tasks to BigQuery pipelines. For more information, see Add a pipeline task....",
+      "desc": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed...",
       "date": "Jul 30, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_30_2026"
