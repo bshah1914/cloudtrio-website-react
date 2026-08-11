@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T18:59:36.079Z",
+  "lastUpdated": "2026-08-11T01:53:38.146Z",
   "count": 30,
   "news": [
     {
@@ -15,9 +15,9 @@
       "id": 2,
       "provider": "GCP",
       "title": "August 10, 2026",
-      "desc": "Security Command Center Feature The integration of Security Command Center with Application Design Center for application lifecycle security assessments is...",
+      "desc": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us, eu, and global multi-regional...",
       "date": "Aug 10, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_10_2026"
     },
     {
