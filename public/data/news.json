@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T13:13:53.196Z",
+  "lastUpdated": "2026-08-12T19:03:39.963Z",
   "count": 30,
   "news": [
     {
@@ -8,7 +8,7 @@
       "title": "August 12, 2026",
       "desc": "Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud apihub locations configure-and-deploy-server command to...",
       "date": "Aug 12, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_12_2026"
     },
     {
