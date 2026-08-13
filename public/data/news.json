@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T19:03:39.963Z",
+  "lastUpdated": "2026-08-13T02:08:26.404Z",
   "count": 30,
   "news": [
     {
@@ -42,7 +42,7 @@
       "id": 5,
       "provider": "GCP",
       "title": "August 09, 2026",
-      "desc": "Google SecOps Feature [Spotlight Feature] Analyze feed activity with Cloud Logging This feature is in public preview. You can now monitor, debug, and...",
+      "desc": "Google SecOps Feature Updated rich-text editor Upgraded the rich-text editor across Google SecOps, including the Cases Wall, Use Case Upload dialog, Report...",
       "date": "Aug 9, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#August_09_2026"
