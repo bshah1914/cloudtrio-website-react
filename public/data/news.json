@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-13T13:15:33.424Z",
+  "lastUpdated": "2026-08-13T19:04:52.192Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 13, 2026",
-      "desc": "Data Studio Feature Fullscreen charts You can view individual charts in fullscreen mode. Click the fullscreen button in the chart header to expand the chart....",
+      "desc": "Apigee X Announcement On August 13th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows. If you set a preferred window...",
       "date": "Aug 13, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_13_2026"
     },
     {
