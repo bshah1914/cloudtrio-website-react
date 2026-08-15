@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-14T18:56:50.940Z",
+  "lastUpdated": "2026-08-15T01:20:31.620Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 14, 2026",
-      "desc": "Carbon Footprint Announcement As detailed in our 2026 Environmental Report (p. 22), Google is now using Granular Certificates purchased from the marketplace to...",
+      "desc": "App Engine flexible environment .NET Feature To improve security, starting in August 2026, App Engine opts your application into TLS version 1.2 and later. You...",
       "date": "Aug 14, 2026",
       "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#August_14_2026"
