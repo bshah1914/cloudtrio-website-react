@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T12:40:36.198Z",
+  "lastUpdated": "2026-08-15T18:32:02.038Z",
   "count": 30,
   "news": [
     {
@@ -17,7 +17,7 @@
       "title": "August 14, 2026",
       "desc": "App Engine flexible environment .NET Feature To improve security, starting in August 2026, App Engine opts your application into TLS version 1.2 and later. You...",
       "date": "Aug 14, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_14_2026"
     },
     {
