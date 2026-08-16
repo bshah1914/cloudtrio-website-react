@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-15T18:32:02.038Z",
+  "lastUpdated": "2026-08-16T01:25:23.842Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 15, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.97 is now available for all regions. ]]>",
+      "desc": "Gemini Enterprise Agent Platform Feature Monitor semantic governance policies with built-in metrics (Preview) Built-in Cloud Monitoring metrics for the...",
       "date": "Aug 15, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#August_15_2026"
