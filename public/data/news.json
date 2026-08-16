@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-16T12:42:03.278Z",
+  "lastUpdated": "2026-08-16T18:31:32.260Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "August 16, 2026",
+      "desc": "Google SecOps SOAR Announcement Release 6.3.98 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "date": "Aug 16, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#August_16_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "August 15, 2026",
       "desc": "Gemini Enterprise Agent Platform Feature Monitor semantic governance policies with built-in metrics (Preview) Built-in Cloud Monitoring metrics for the...",
@@ -12,7 +21,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_15_2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "August 14, 2026",
       "desc": "App Engine flexible environment .NET Feature To improve security, starting in August 2026, App Engine opts your application into TLS version 1.2 and later. You...",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_14_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "August 13, 2026",
       "desc": "Apigee X Announcement On August 13th, 2026, we began maintenance updates of Apigee instances configured for maintenance windows. If you set a preferred window...",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_13_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "Azure",
       "title": "The Economics of Agent Optimization: From pilots to measurable returns",
       "desc": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization. The post The...",
@@ -39,7 +48,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "August 12, 2026",
       "desc": "Apigee API hub Feature Configure and deploy MCP servers with gcloud CLI You can use the gcloud apihub locations configure-and-deploy-server command to...",
@@ -48,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_12_2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "GCP",
       "title": "August 11, 2026",
       "desc": "Apigee hybrid Announcement v1.16.9 On August 11, 2026 we released an updated version of the Apigee hybrid software, v1.16.9. For information on upgrading, see...",
@@ -57,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_11_2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
       "desc": "Last week, we brought together AWS Heroes from around the world to connect, collaborate, and celebrate the builders who go above and beyond for the AWS...",
@@ -66,16 +75,16 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "GCP",
       "title": "August 10, 2026",
-      "desc": "Bigtable Libraries Go1.52.0 (2026-08-03) Features bigtable: Add AFE picker (Simple / LeastInFlight / LeastLatency) (#20204) (bcbf714) bigtable: Add...",
+      "desc": "BigQuery Feature BigQuery now supports the gemini-3.1-flash-lite and gemini-3.5-flash GA models, which are available for the us, eu, and global multi-regional...",
       "date": "Aug 10, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_10_2026"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "GCP",
       "title": "August 09, 2026",
       "desc": "Agent Platform Workbench Change Installed latest packages from upstream dependencies. Change 20260809-2330-rc0 Release Change Installed latest packages from...",
@@ -84,7 +93,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_09_2026"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "GCP",
       "title": "August 08, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.96 is now available for all regions. ]]>",
@@ -93,7 +102,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_08_2026"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "GCP",
       "title": "August 07, 2026",
       "desc": "AlloyDB for PostgreSQL Feature You can now sync tables from BigQuery into your AlloyDB instance, either as a one-time operation or on a periodic schedule. This...",
@@ -102,7 +111,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_07_2026"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "AWS",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "desc": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU...",
@@ -111,7 +120,7 @@
       "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "Azure",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
       "desc": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft...",
@@ -120,7 +129,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "GCP",
       "title": "August 06, 2026",
       "desc": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods:...",
@@ -129,7 +138,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_06_2026"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "AWS",
       "title": "Amazon DynamoDB now supports real-time vector search at any scale",
       "desc": "DynamoDB now supports native vector search with single-digit millisecond latency at 99%+ recall. It is designed for any scale, even trillions of vectors and...",
@@ -138,7 +147,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "GCP",
       "title": "August 05, 2026",
       "desc": "Cloud Database Migration Service Feature You can now manage your Database Migration Service migration jobs directly from the destination Cloud SQL instance or...",
@@ -147,7 +156,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_05_2026"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "GCP",
       "title": "August 04, 2026",
       "desc": "AlloyDB for PostgreSQL Feature AlloyDB now supports Best Matching 25 (BM25) indexes for full-text search in Preview. You can use the pg_textsearch extension to...",
@@ -156,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_04_2026"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
       "desc": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office,...",
@@ -165,7 +174,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "August 03, 2026",
       "desc": "API Gateway Feature Route LLM requests with model routing You can now use model routing in API Gateway as a managed traffic management layer to accept...",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_03_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "GCP",
       "title": "August 02, 2026",
       "desc": "Agent Platform Workbench Change 20260802-2330-rc0 Release Change 20260802-2330-rc0 Release Fixed Fixed issue with JupyterLab UI silently reverting file changes...",
@@ -183,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_02_2026"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "GCP",
       "title": "August 01, 2026",
       "desc": "Gemini Enterprise Feature Gemini Enterprise: Pay for what you consume with the Pay-as-you-go edition The Gemini Enterprise Pay-as-you-go edition is generally...",
@@ -192,7 +201,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_01_2026"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "GCP",
       "title": "July 31, 2026",
       "desc": "Access Approval Feature App Topology (including One Graph) is generally available (GA). Access Transparency Feature App Topology (including One Graph) is...",
@@ -201,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_31_2026"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "GCP",
       "title": "July 30, 2026",
       "desc": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed...",
@@ -210,7 +219,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_30_2026"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "GCP",
       "title": "July 29, 2026",
       "desc": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General...",
@@ -219,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_29_2026"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "GCP",
       "title": "July 28, 2026",
       "desc": "AlloyDB for PostgreSQL Feature Note: IAM group authentication is available in Preview for new AlloyDB clusters. To enable this feature on an existing cluster,...",
@@ -228,7 +237,7 @@
       "link": "https://docs.cloud.google.com/release-notes#July_28_2026"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "Azure",
       "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
       "desc": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What...",
@@ -237,7 +246,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
       "desc": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event...",
@@ -246,7 +255,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "GCP",
       "title": "July 27, 2026",
       "desc": "AlloyDB for PostgreSQL Feature AlloyDB write endpoints are now available in Preview. Write endpoints simplify database connection management by providing a...",
@@ -255,22 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#July_27_2026"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "GCP",
       "title": "July 26, 2026",
       "desc": "Google SecOps Feature Customizable schedules for multi-event rules Customizable schedules for multi-event rules are available in public preview. You can...",
       "date": "Jul 26, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_26_2026"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "July 25, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.94 is now available for all regions. ]]>",
-      "date": "Jul 25, 2026",
-      "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#July_25_2026"
     }
   ]
 }
