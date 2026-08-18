@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T18:41:34.273Z",
+  "lastUpdated": "2026-08-18T01:19:45.178Z",
   "count": 30,
   "news": [
     {
@@ -15,9 +15,9 @@
       "id": 2,
       "provider": "GCP",
       "title": "August 17, 2026",
-      "desc": "Cloud NGFW Feature Support for the Advanced malware sandbox (WildFire) service is now restored. You can now use Advanced malware sandbox to perform deep...",
+      "desc": "Backup and DR Announcement Beginning November 1, 2026, Backup and DR Service will automatically apply a project-level lien to any project containing a backup...",
       "date": "Aug 17, 2026",
-      "tag": "AI",
+      "tag": "Storage",
       "link": "https://docs.cloud.google.com/release-notes#August_17_2026"
     },
     {
