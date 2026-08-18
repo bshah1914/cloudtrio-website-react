@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T06:46:06.328Z",
+  "lastUpdated": "2026-08-18T12:50:10.188Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "August 17, 2026",
-      "desc": "Backup and DR Announcement Beginning November 1, 2026, Backup and DR Service will automatically apply a project-level lien to any project containing a backup...",
+      "desc": "AlloyDB for PostgreSQL Feature You can now use the Model Context Protocol (MCP) Toolbox for Databases to access AlloyDB observability features and advanced...",
       "date": "Aug 17, 2026",
       "tag": "Storage",
       "link": "https://docs.cloud.google.com/release-notes#August_17_2026"
