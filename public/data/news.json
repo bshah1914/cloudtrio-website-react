@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-19T12:50:49.895Z",
+  "lastUpdated": "2026-08-19T18:37:33.655Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 19, 2026",
-      "desc": "Oracle Database@Google Cloud Feature Oracle Database@Google Cloud supports provisioning VM file system storage (VM images) and VM backups on Exascale storage...",
+      "desc": "App Engine standard environment Go Feature You can migrate your App Engine push queues to Cloud Tasks by updating the bundled services SDK. This method lets...",
       "date": "Aug 19, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_19_2026"
