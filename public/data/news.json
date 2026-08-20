@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-19T18:37:33.655Z",
+  "lastUpdated": "2026-08-20T01:20:40.918Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 19, 2026",
-      "desc": "App Engine standard environment Go Feature You can migrate your App Engine push queues to Cloud Tasks by updating the bundled services SDK. This method lets...",
+      "desc": "App Engine flexible environment Go Feature Support for the Go 1.27 runtime is in Preview. Feature Starting from Go runtime version 1.26 and later, the...",
       "date": "Aug 19, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_19_2026"
