@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T06:49:22.995Z",
+  "lastUpdated": "2026-08-20T12:53:03.239Z",
   "count": 30,
   "news": [
     {
@@ -149,6 +149,15 @@
     {
       "id": 17,
       "provider": "GCP",
+      "title": "August 08, 2026",
+      "desc": "Google SecOps SOAR Announcement Release 6.3.96 is now available for all regions. ]]>",
+      "date": "Aug 8, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#August_08_2026"
+    },
+    {
+      "id": 18,
+      "provider": "GCP",
       "title": "August 07, 2026",
       "desc": "AlloyDB for PostgreSQL Feature You can now sync tables from BigQuery into your AlloyDB instance, either as a one-time operation or on a periodic schedule. This...",
       "date": "Aug 7, 2026",
@@ -156,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_07_2026"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "AWS",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "desc": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU...",
@@ -165,7 +174,7 @@
       "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "Azure",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
       "desc": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft...",
@@ -174,7 +183,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "GCP",
       "title": "August 06, 2026",
       "desc": "Cloud Key Management Service Feature Preview: Cloud KMS supports quantum-safe key import. You can use the following quantum-safe import methods:...",
@@ -183,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_06_2026"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "AWS",
       "title": "Amazon DynamoDB now supports real-time vector search at any scale",
       "desc": "DynamoDB now supports native vector search with single-digit millisecond latency at 99%+ recall. It is designed for any scale, even trillions of vectors and...",
@@ -192,7 +201,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "GCP",
       "title": "August 05, 2026",
       "desc": "Cloud Database Migration Service Feature You can now manage your Database Migration Service migration jobs directly from the destination Cloud SQL instance or...",
@@ -201,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_05_2026"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "GCP",
       "title": "August 04, 2026",
       "desc": "AlloyDB for PostgreSQL Feature AlloyDB now supports Best Matching 25 (BM25) indexes for full-text search in Preview. You can use the pg_textsearch extension to...",
@@ -210,7 +219,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_04_2026"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
       "desc": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office,...",
@@ -219,7 +228,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "GCP",
       "title": "August 03, 2026",
       "desc": "API Gateway Feature Route LLM requests with model routing You can now use model routing in API Gateway as a managed traffic management layer to accept...",
@@ -228,16 +237,16 @@
       "link": "https://docs.cloud.google.com/release-notes#August_03_2026"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "GCP",
       "title": "August 02, 2026",
       "desc": "Agent Platform Workbench Change 20260802-2330-rc0 Release Change 20260802-2330-rc0 Release Fixed Fixed issue with JupyterLab UI silently reverting file changes...",
       "date": "Aug 2, 2026",
-      "tag": "Serverless",
+      "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#August_02_2026"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "GCP",
       "title": "August 01, 2026",
       "desc": "Gemini Enterprise Feature Gemini Enterprise: Pay for what you consume with the Pay-as-you-go edition The Gemini Enterprise Pay-as-you-go edition is generally...",
@@ -246,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_01_2026"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "GCP",
       "title": "July 31, 2026",
       "desc": "Access Approval Feature App Topology (including One Graph) is generally available (GA). Access Transparency Feature App Topology (including One Graph) is...",
@@ -255,22 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#July_31_2026"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "GCP",
       "title": "July 30, 2026",
       "desc": "Agent Platform Workbench Change M145 Release Change 20260730-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed...",
       "date": "Jul 30, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#July_30_2026"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "July 29, 2026",
-      "desc": "App Engine standard environment Go Feature Support for enabling only needed legacy bundled services using the app_engine_bundled_services field is in General...",
-      "date": "Jul 29, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#July_29_2026"
     }
   ]
 }
