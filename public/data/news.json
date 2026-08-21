@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-21T01:24:04.418Z",
+  "lastUpdated": "2026-08-21T06:50:31.337Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "August 20, 2026",
-      "desc": "BigQuery Deprecated Starting April 26, 2027, core graph processing for BigQuery Graph will be restricted to the BigQuery Enterprise and Enterprise Plus...",
+      "desc": "App Engine flexible environment Java Feature Starting from August 2026, to provide modern security patches and support for MySQL 8.4 and later, the App Engine...",
       "date": "Aug 20, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_20_2026"
