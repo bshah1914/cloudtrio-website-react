@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T18:32:45.464Z",
+  "lastUpdated": "2026-08-23T01:27:14.541Z",
   "count": 30,
   "news": [
     {
@@ -24,7 +24,7 @@
       "id": 3,
       "provider": "GCP",
       "title": "August 21, 2026",
-      "desc": "AlloyDB for PostgreSQL Fixed AlloyDB now provides more accurate memory usage estimation, and it prevents out-of-memory (OOM) errors when you build a ScaNN...",
+      "desc": "AI Hypercomputer Change AI Hypercomputer has expanded to cover all GPU machine series. Specifically, the documentation for AI Hypercomputer has been...",
       "date": "Aug 21, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_21_2026"
