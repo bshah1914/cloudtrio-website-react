@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T12:42:40.964Z",
+  "lastUpdated": "2026-08-23T18:32:00.624Z",
   "count": 30,
   "news": [
     {
@@ -8,7 +8,7 @@
       "title": "August 22, 2026",
       "desc": "Apigee UI Fixed Bug ID Description 543626585 ServiceCallout policy can now be added in the Apigee UI Adding a ServiceCallout policy in the Apigee UI no longer...",
       "date": "Aug 22, 2026",
-      "tag": "AI",
+      "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#August_22_2026"
     },
     {
