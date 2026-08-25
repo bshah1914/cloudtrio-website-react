@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T01:21:43.539Z",
+  "lastUpdated": "2026-08-25T06:51:35.595Z",
   "count": 30,
   "news": [
     {
@@ -15,9 +15,9 @@
       "id": 2,
       "provider": "GCP",
       "title": "August 24, 2026",
-      "desc": "Cloud Trace Feature You can update the display name, description, and Cloud KMS key applied to a _Trace observability bucket. For more information, see Update...",
+      "desc": "Backup and DR Feature Backup vault support for Filestore instances encrypted with customer-managed encryption keys (CMEK) is now generally available (GA). When...",
       "date": "Aug 24, 2026",
-      "tag": "Storage",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_24_2026"
     },
     {
