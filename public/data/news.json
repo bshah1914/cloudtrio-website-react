@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T06:51:35.595Z",
+  "lastUpdated": "2026-08-25T12:50:48.272Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "August 24, 2026",
-      "desc": "Backup and DR Feature Backup vault support for Filestore instances encrypted with customer-managed encryption keys (CMEK) is now generally available (GA). When...",
+      "desc": "Anthos Config Management Change Addressed multiple Common Vulnerabilities and Exposures (CVEs) by updating dependencies. Feature You can now disable monitoring...",
       "date": "Aug 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_24_2026"
