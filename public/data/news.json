@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T01:25:01.438Z",
+  "lastUpdated": "2026-08-26T06:52:53.772Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "August 25, 2026",
-      "desc": "Cloud SDK Breaking 582.0.0 (2026-08-25) Breaking Changes (Google Cloud CLI) Removed the legacy Cloud SQL Proxy V1 component ('cloud_sql_proxy') from the Google...",
+      "desc": "BigQuery Feature BigQuery data governance tags are supported in Terraform. This feature is in Preview. Cloud SDK Breaking 582.0.0 (2026-08-25) Breaking Changes...",
       "date": "Aug 25, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_25_2026"
