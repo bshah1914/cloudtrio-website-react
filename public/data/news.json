@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:52:53.772Z",
+  "lastUpdated": "2026-08-26T12:55:51.135Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "August 25, 2026",
-      "desc": "BigQuery Feature BigQuery data governance tags are supported in Terraform. This feature is in Preview. Cloud SDK Breaking 582.0.0 (2026-08-25) Breaking Changes...",
+      "desc": "BigQuery Feature BigQuery data governance tags are supported in Terraform. This feature is in Preview. Cloud Run Feature Cloud Run instances are available in...",
       "date": "Aug 25, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_25_2026"
