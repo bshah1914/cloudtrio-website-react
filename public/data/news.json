@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T16:15:22.174Z",
+  "lastUpdated": "2026-09-01T20:44:00.349Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "September 01, 2026",
-      "desc": "Cortex Framework Announcement Release 7.0.5 Fixed Removed obsolete review items checklist from tests. ]]>",
+      "desc": "Cortex Framework Announcement Release 7.0.5 Fixed Removed obsolete review items checklist from tests. Gemini Enterprise Agent Platform Change Pricing updates...",
       "date": "Sep 1, 2026",
-      "tag": "General",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_01_2026"
     },
     {
