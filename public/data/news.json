@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T22:37:03.784Z",
+  "lastUpdated": "2026-09-01T04:09:28.608Z",
   "count": 30,
   "news": [
     {
@@ -24,7 +24,7 @@
       "id": 3,
       "provider": "GCP",
       "title": "August 31, 2026",
-      "desc": "BigQuery Feature You can now create, store, and manage pipelines in Git folders. This feature is in Preview. Feature Using folders to create, store, and manage...",
+      "desc": "BigQuery Feature You can now create, store, and manage pipelines in Git folders. This feature is in Preview. Feature BigQuery now supports TabFM, Google's...",
       "date": "Aug 31, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_31_2026"
