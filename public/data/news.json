@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-01T20:44:00.349Z",
+  "lastUpdated": "2026-09-02T03:31:44.181Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "September 01, 2026",
-      "desc": "Cortex Framework Announcement Release 7.0.5 Fixed Removed obsolete review items checklist from tests. Gemini Enterprise Agent Platform Change Pricing updates...",
+      "desc": "Apigee UI Announcement On September 1, 2026, we released an updated version of the Apigee UI. Fixed Bug ID Description 547582067 Revisions can now be imported...",
       "date": "Sep 1, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_01_2026"
@@ -60,9 +60,9 @@
       "id": 7,
       "provider": "GCP",
       "title": "August 30, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.99 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "desc": "Agent Platform Workbench Change 20260830-2330-rc0 Release Change 20260831.01_p0 Release Change Installed latest packages from upstream dependencies. Change...",
       "date": "Aug 30, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_30_2026"
     },
     {
@@ -168,7 +168,7 @@
       "id": 19,
       "provider": "GCP",
       "title": "August 23, 2026",
-      "desc": "Agent Platform Workbench Change Installed latest packages from upstream dependencies. Change 20260823-2330-rc0 Release Change Installed latest packages from...",
+      "desc": "Agent Platform Workbench Change 20260823-2330-rc0 Release Change 20260823-2330-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
       "date": "Aug 23, 2026",
       "tag": "General",
       "link": "https://docs.cloud.google.com/release-notes#August_23_2026"
@@ -267,7 +267,7 @@
       "id": 30,
       "provider": "GCP",
       "title": "August 16, 2026",
-      "desc": "Agent Platform Workbench Security Updated the bundled Ruby gems rexml and net-imap to patched versions, addressing known vulnerabilities. Change...",
+      "desc": "Agent Platform Workbench Change 20260816-2330-rc0 Release Change 20260816-2330-rc0 Release Security Updated the bundled Ruby gems rexml and net-imap to patched...",
       "date": "Aug 16, 2026",
       "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#August_16_2026"
