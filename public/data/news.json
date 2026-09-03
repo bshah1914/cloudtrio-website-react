@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-03T10:52:16.121Z",
+  "lastUpdated": "2026-09-03T16:00:21.719Z",
   "count": 30,
   "news": [
     {
       "id": 1,
-      "provider": "Azure",
-      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-      "desc": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval,...",
-      "date": "Sep 2, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/"
+      "provider": "GCP",
+      "title": "September 03, 2026",
+      "desc": "VPC Service Controls Feature VPC Service Controls feature (Status: Preview): VPC Service Controls supports retrieving and updating service perimeters that...",
+      "date": "Sep 3, 2026",
+      "tag": "Security",
+      "link": "https://docs.cloud.google.com/release-notes#September_03_2026"
     },
     {
       "id": 2,
