@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-03T20:40:49.145Z",
+  "lastUpdated": "2026-09-04T03:31:18.192Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "September 03, 2026",
-      "desc": "Google Kubernetes Engine Feature GKE support for using the c3-standard-*-lssd machine types as Confidential GKE Nodes with Intel TDX is generally available....",
+      "desc": "API Gateway Change New model routing gateways might use a gateway.dev default hostname If you create a gateway that uses model routing on or after September 3,...",
       "date": "Sep 3, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_03_2026"
