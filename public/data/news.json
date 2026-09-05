@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T10:10:10.955Z",
+  "lastUpdated": "2026-09-05T14:48:00.766Z",
   "count": 30,
   "news": [
     {
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "provider": "Azure",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+      "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
       "desc": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to...",
       "date": "Sep 3, 2026",
       "tag": "AI",
