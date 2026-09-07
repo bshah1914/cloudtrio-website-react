@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-06T20:07:58.666Z",
+  "lastUpdated": "2026-09-07T03:33:15.016Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "September 06, 2026",
-      "desc": "Google SecOps SOAR Feature Case playbooks This feature is in preview. Google SecOps now supports case playbooks. You can run playbooks or execute manual...",
+      "desc": "Google SecOps Feature [Spotlight Feature] Case playbooks This feature is in preview. Google SecOps now supports case playbooks. You can run playbooks or...",
       "date": "Sep 6, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#September_06_2026"
