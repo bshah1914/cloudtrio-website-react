@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-08T10:50:20.610Z",
+  "lastUpdated": "2026-09-08T16:14:24.303Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "September 08, 2026",
+      "desc": "Compute Engine Feature Generally available: You can convert a single-project reservation into a shared reservation, or a shared reservation into a...",
+      "date": "Sep 8, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#September_08_2026"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
       "desc": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding,...",
@@ -12,7 +21,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "September 07, 2026",
       "desc": "AI Hypercomputer Security Google addressed a security vulnerability (CVE-2026-65107) that affects Slurm clusters. Based on the Google Cloud product that you...",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_07_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "September 06, 2026",
       "desc": "Google SecOps Feature [Spotlight Feature] Case playbooks This feature is in preview. Google SecOps now supports case playbooks. You can run playbooks or...",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_06_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "September 05, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.99 is now available for all regions. ]]>",
@@ -39,16 +48,16 @@
       "link": "https://docs.cloud.google.com/release-notes#September_05_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "September 04, 2026",
-      "desc": "Cloud Billing Change Introducing the Incentives page, for tracking spend-based milestone credits, RaMP, and other conditional incentives If you have a custom...",
+      "desc": "Audit Manager Feature The remote Model Context Protocol (MCP) server for Audit Manager is generally available (GA). Cloud Billing Change Introducing the...",
       "date": "Sep 4, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_04_2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "Azure",
       "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
       "desc": "The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working as one system...",
@@ -57,7 +66,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "Azure",
       "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
       "desc": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to...",
@@ -66,7 +75,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "Azure",
       "title": "How Microsoft&#8217;s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop",
       "desc": "Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally. The post How...",
@@ -75,7 +84,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "GCP",
       "title": "September 03, 2026",
       "desc": "API Gateway Change New model routing gateways might use a gateway.dev default hostname If you create a gateway that uses model routing on or after September 3,...",
@@ -84,7 +93,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_03_2026"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "Azure",
       "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
       "desc": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval,...",
@@ -93,7 +102,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "GCP",
       "title": "September 02, 2026",
       "desc": "AlloyDB for PostgreSQL Feature AlloyDB real-time data access to BigQuery (in Preview) now offers limit pushdown and runtime projects: Limit pushdown: when you...",
@@ -102,7 +111,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_02_2026"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "GCP",
       "title": "September 01, 2026",
       "desc": "Apigee UI Announcement On September 1, 2026, we released an updated version of the Apigee UI. Fixed Bug ID Description 547582067 Revisions can now be imported...",
@@ -111,7 +120,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_01_2026"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "AWS",
       "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
       "desc": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for...",
@@ -120,7 +129,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "Azure",
       "title": "Introducing Azure Multicloud Interconnect for AWS",
       "desc": "Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI...",
@@ -129,7 +138,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "Azure",
       "title": "Inside Microsoft&#8217;s marketing team: Scaling expertise with AI",
       "desc": "AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace. The post Inside Microsoft&#8217;s...",
@@ -138,7 +147,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
       "desc": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based...",
@@ -147,7 +156,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "GCP",
       "title": "August 31, 2026",
       "desc": "BigQuery Feature You can now create, store, and manage pipelines in Git folders. This feature is in Preview. Feature BigQuery now supports TabFM, Google's...",
@@ -156,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_31_2026"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "GCP",
       "title": "August 30, 2026",
       "desc": "Agent Platform Workbench Change 20260830-2330-rc0 Release Change 20260831.01_p0 Release Change Installed latest packages from upstream dependencies. Change...",
@@ -165,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_30_2026"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "August 29, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.98 is now available for all regions. ]]>",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_29_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "GCP",
       "title": "August 28, 2026",
       "desc": "Application Integration Announcement Upcoming authorization changes for integration runs Application Integration is updating how identities are handled for...",
@@ -183,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_28_2026"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "Azure",
       "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
       "desc": "Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort. The post Managed...",
@@ -192,7 +201,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "GCP",
       "title": "August 27, 2026",
       "desc": "Apigee X Announcement On August 27th, 2026, we released an updated version of Apigee (1-18-0-apigee-4). Note: Rollouts of this release began today and may take...",
@@ -201,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_27_2026"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "Azure",
       "title": "The Economics of Agent Optimization: Four ways to lower the cost",
       "desc": "Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes. The post The Economics of Agent Optimization:...",
@@ -210,7 +219,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "GCP",
       "title": "August 26, 2026",
       "desc": "Apigee hybrid Announcement v1.14.8 On August 26, 2026 we released an updated version of the Apigee hybrid software, v1.14.8. For information on upgrading, see...",
@@ -219,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_26_2026"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "AWS",
       "title": "Happy 20th Birthday, Amazon EC2",
       "desc": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for...",
@@ -228,7 +237,7 @@
       "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "Azure",
       "title": "The patch window is collapsing: Why security needs a new control plane",
       "desc": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new...",
@@ -237,7 +246,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "GCP",
       "title": "August 25, 2026",
       "desc": "Access Approval Feature Gemini Data Analytics is generally available (GA). Access Transparency Feature Gemini Data Analytics is generally available (GA)....",
@@ -246,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#August_25_2026"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
       "desc": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across the region, and...",
@@ -255,22 +264,13 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "GCP",
       "title": "August 24, 2026",
       "desc": "Anthos Config Management Change Addressed multiple Common Vulnerabilities and Exposures (CVEs) by updating dependencies. Feature You can now disable monitoring...",
       "date": "Aug 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#August_24_2026"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "August 23, 2026",
-      "desc": "Agent Platform Workbench Change 20260823-2330-rc0 Release Change 20260823-2330-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
-      "date": "Aug 23, 2026",
-      "tag": "General",
-      "link": "https://docs.cloud.google.com/release-notes#August_23_2026"
     }
   ]
 }
