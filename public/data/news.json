@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-08T16:14:24.303Z",
+  "lastUpdated": "2026-09-08T20:52:02.400Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "September 08, 2026",
-      "desc": "Compute Engine Feature Generally available: You can convert a single-project reservation into a shared reservation, or a shared reservation into a...",
+      "desc": "Cloud Run Feature To take advantage of reduced pricing for Cloud Run jobs, you can delay job execution to defer non-urgent tasks for up to 12 hours (Preview)....",
       "date": "Sep 8, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_08_2026"
