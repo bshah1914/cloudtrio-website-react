@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T21:15:07.269Z",
+  "lastUpdated": "2026-09-08T03:38:17.454Z",
   "count": 30,
   "news": [
     {
@@ -15,9 +15,9 @@
       "id": 2,
       "provider": "GCP",
       "title": "September 07, 2026",
-      "desc": "Access Approval Feature Privileged Access Manager is generally available (GA). Access Transparency Feature Privileged Access Manager is generally available...",
+      "desc": "AI Hypercomputer Security Google addressed a security vulnerability (CVE-2026-65107) that affects Slurm clusters. Based on the Google Cloud product that you...",
       "date": "Sep 7, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_07_2026"
     },
     {
