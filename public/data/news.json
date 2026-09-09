@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-09T03:43:19.241Z",
+  "lastUpdated": "2026-09-09T10:56:04.800Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "September 08, 2026",
-      "desc": "Cloud Run Feature To take advantage of reduced pricing for Cloud Run jobs, you can delay job execution to defer non-urgent tasks for up to 12 hours (Preview)....",
+      "desc": "BigQuery Feature Conversational analytics now supports predictive modeling questions using the AI.PREDICT function. This feature is in Preview. Cloud Run...",
       "date": "Sep 8, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_08_2026"
@@ -68,11 +68,11 @@
     {
       "id": 8,
       "provider": "Azure",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+      "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
       "desc": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to...",
       "date": "Sep 3, 2026",
       "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/"
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/"
     },
     {
       "id": 9,
