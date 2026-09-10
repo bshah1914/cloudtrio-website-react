@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-10T16:01:06.712Z",
+  "lastUpdated": "2026-09-10T20:33:46.773Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "September 10, 2026",
+      "desc": "BigQuery Feature The Data Engineering Agent now integrates with BigQuery Graph to provide additional context between your data source and destination schema,...",
+      "date": "Sep 10, 2026",
+      "tag": "Storage",
+      "link": "https://docs.cloud.google.com/release-notes#September_10_2026"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
       "desc": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt...",
@@ -12,22 +21,13 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "September 09, 2026",
       "desc": "Apigee X Feature SemanticCacheLookup policy supports non-default Vector Search distance measures Available in Apigee 1-18-0-apigee-4 and later. A new optional...",
       "date": "Sep 9, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_09_2026"
-    },
-    {
-      "id": 3,
-      "provider": "Azure",
-      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-      "desc": "For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific...",
-      "date": "Sep 8, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/"
     },
     {
       "id": 4,
