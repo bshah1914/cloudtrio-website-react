@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T03:58:03.941Z",
+  "lastUpdated": "2026-09-14T12:09:14.491Z",
   "count": 30,
   "news": [
     {
@@ -195,7 +195,7 @@
       "id": 22,
       "provider": "GCP",
       "title": "September 01, 2026",
-      "desc": "Apigee UI Announcement On September 1, 2026, we released an updated version of the Apigee UI. Fixed Bug ID Description 547582067 Revisions can now be imported...",
+      "desc": "App Engine flexible environment Go Feature Support for the Go 1.27 runtime is in General Availability (GA). App Engine standard environment Go Feature Support...",
       "date": "Sep 1, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_01_2026"
