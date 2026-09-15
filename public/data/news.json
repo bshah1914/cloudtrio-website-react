@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T21:37:17.642Z",
+  "lastUpdated": "2026-09-15T03:57:28.460Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "September 14, 2026",
-      "desc": "Backup and DR Feature You can now monitor restore jobs for Filestore instances directly from the Backup and DR Jobs page in the Google Cloud console. When you...",
+      "desc": "Apigee hybrid Announcement hybrid v1.17.0 On September 14, 2026 we released an updated version of the Apigee hybrid software, 1.17.0. For information on...",
       "date": "Sep 14, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_14_2026"
