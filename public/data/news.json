@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T21:00:39.144Z",
+  "lastUpdated": "2026-09-17T04:00:31.138Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "September 16, 2026",
-      "desc": "BigQuery Feature You can use the migration lineage service to visualize the data flow and connections in your source database and help you plan a BigQuery data...",
+      "desc": "Backup and DR Feature You can now use auto-protection policies and resource labels to automatically protect Compute Engine instances and Persistent Disks at...",
       "date": "Sep 16, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_16_2026"
@@ -168,7 +168,7 @@
       "id": 19,
       "provider": "GCP",
       "title": "September 06, 2026",
-      "desc": "Google SecOps Feature [Spotlight Feature] Case playbooks This feature is in preview. Google SecOps now supports case playbooks. You can run playbooks or...",
+      "desc": "Google SecOps SOAR Announcement Release 6.3.100 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
       "date": "Sep 6, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#September_06_2026"
