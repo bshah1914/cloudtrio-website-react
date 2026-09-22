@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T21:48:01.727Z",
+  "lastUpdated": "2026-09-22T03:55:06.993Z",
   "count": 30,
   "news": [
     {
@@ -24,7 +24,7 @@
       "id": 3,
       "provider": "GCP",
       "title": "September 18, 2026",
-      "desc": "Agent Platform Workbench Change 20260918-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change Installed latest packages from...",
+      "desc": "Agent Platform Workbench Change 20260918-2230-rc0 Release Change 20260918-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
       "date": "Sep 18, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_18_2026"
@@ -186,7 +186,7 @@
       "id": 21,
       "provider": "GCP",
       "title": "September 09, 2026",
-      "desc": "Apigee X Feature SemanticCacheLookup policy supports non-default Vector Search distance measures Available in Apigee 1-18-0-apigee-4 and later. A new optional...",
+      "desc": "Agent Platform Workbench Feature New configuration options for scheduled notebook runs When you schedule a notebook run from an Agent Platform Workbench...",
       "date": "Sep 9, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_09_2026"
