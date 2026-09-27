@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-27T16:36:59.760Z",
+  "lastUpdated": "2026-09-27T21:03:06.588Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "September 27, 2026",
+      "desc": "Google SecOps SOAR Announcement Release 6.3.101 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "date": "Sep 27, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#September_27_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "September 26, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.100 is now available for all regions. ]]>",
@@ -12,7 +21,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_26_2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "September 25, 2026",
       "desc": "API Keys API Feature The API Keys remote Model Context Protocol (MCP) server is available in Preview. You can connect to the API Keys remote MCP server from AI...",
@@ -21,22 +30,13 @@
       "link": "https://docs.cloud.google.com/release-notes#September_25_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "AWS",
       "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
       "desc": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event...",
       "date": "Sep 24, 2026",
       "tag": "DevOps",
       "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/"
-    },
-    {
-      "id": 4,
-      "provider": "Azure",
-      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-      "desc": "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around...",
-      "date": "Sep 24, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/"
     },
     {
       "id": 5,
