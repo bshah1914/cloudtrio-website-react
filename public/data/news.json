@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T23:01:39.710Z",
+  "lastUpdated": "2026-09-29T04:51:30.530Z",
   "count": 30,
   "news": [
     {
@@ -13,24 +13,33 @@
     },
     {
       "id": 2,
+      "provider": "Azure",
+      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
+      "desc": "Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance. The post...",
+      "date": "Sep 28, 2026",
+      "tag": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/"
+    },
+    {
+      "id": 3,
       "provider": "GCP",
       "title": "September 28, 2026",
-      "desc": "Application Integration Security A Confused Deputy vulnerability was discovered in the Email Task component in Application Integration versions prior to June...",
+      "desc": "Agent Platform Workbench Change 20260927.00_p0 Release Change Installed latest packages from upstream dependencies. Security Bulk security patch remediating...",
       "date": "Sep 28, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_28_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "September 27, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.101 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "desc": "Agent Platform Workbench Change 20260927-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change M151 Release Change Installed...",
       "date": "Sep 27, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_27_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "September 26, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.100 is now available for all regions. ]]>",
@@ -39,7 +48,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_26_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "September 25, 2026",
       "desc": "API Keys API Feature The API Keys remote Model Context Protocol (MCP) server is available in Preview. You can connect to the API Keys remote MCP server from AI...",
@@ -48,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_25_2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "AWS",
       "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
       "desc": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event...",
@@ -57,7 +66,7 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "Azure",
       "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
       "desc": "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around...",
@@ -66,7 +75,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "GCP",
       "title": "September 24, 2026",
       "desc": "Apigee hybrid Announcement v1.15.8 On September 24, 2026 we released an updated version of the Apigee hybrid software, v1.15.8. For information on upgrading,...",
@@ -75,7 +84,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_24_2026"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "Azure",
       "title": "Your architecture diagram is not your resilience",
       "desc": "For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property...",
@@ -84,7 +93,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "Azure",
       "title": "Designing agent-first platforms: What changes when agents do the work",
       "desc": "The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software. The post Designing...",
@@ -93,7 +102,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "GCP",
       "title": "September 23, 2026",
       "desc": "Apigee API hub Feature Preview launch of AWS API Gateway and Azure API Management plugins API hub now includes two new built-in plugins for ingesting API...",
@@ -102,7 +111,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_23_2026"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "AWS",
       "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
       "desc": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience,...",
@@ -111,7 +120,7 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "AWS",
       "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
       "desc": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with...",
@@ -120,7 +129,7 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "Azure",
       "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
       "desc": "Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks....",
@@ -129,7 +138,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "Azure",
       "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
       "desc": "AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue,...",
@@ -138,7 +147,7 @@
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "GCP",
       "title": "September 22, 2026",
       "desc": "BigQuery Feature You can now publish a BigQuery data agent in Gemini Enterprise by registering the agent with Agent Registry and importing it using default...",
@@ -147,7 +156,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_22_2026"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
       "desc": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now,...",
@@ -156,7 +165,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "GCP",
       "title": "September 21, 2026",
       "desc": "Access Context Manager Feature Access Context Manager supports extended session length for Workforce Identity Federation. This feature is in Preview for Looker...",
@@ -165,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_21_2026"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "September 18, 2026",
       "desc": "Agent Platform Workbench Change 20260918-2230-rc0 Release Change 20260918-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_18_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "AWS",
       "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
       "desc": "AWS introduces new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), available...",
@@ -183,7 +192,7 @@
       "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "AWS",
       "title": "AWS Elastic Beanstalk introduces Cluster Mode",
       "desc": "Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a container image or source...",
@@ -192,7 +201,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "GCP",
       "title": "September 17, 2026",
       "desc": "Anti Money Laundering AI Announcement New minor engine versions released for the retail line of business within the v004.005, v004.009, and v004.010 version...",
@@ -201,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_17_2026"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "AWS",
       "title": "AWS reimagines the getting started experience",
       "desc": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focus on building. New...",
@@ -210,7 +219,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "Azure",
       "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
       "desc": "Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more. The post...",
@@ -219,7 +228,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "GCP",
       "title": "September 16, 2026",
       "desc": "Backup and DR Feature You can now use auto-protection policies and resource labels to automatically protect Compute Engine instances and Persistent Disks at...",
@@ -228,7 +237,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_16_2026"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "GCP",
       "title": "September 15, 2026",
       "desc": "Artifact Registry Feature Artifact Registry support for managing Conda packages with Artifact Registry repositories is in Preview. For more information, see...",
@@ -237,7 +246,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_15_2026"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
       "desc": "There’s a particular energy to mid-September in New York. Pumpkin spice lattes are flowing, temperatures are dropping, and it’s nearly sweater weather. The...",
@@ -246,7 +255,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "GCP",
       "title": "September 14, 2026",
       "desc": "Agent Platform Workbench Change M150 Release Change Installed latest packages from upstream dependencies. Apigee hybrid Announcement hybrid v1.17.0 On...",
@@ -255,22 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#September_14_2026"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "GCP",
       "title": "September 13, 2026",
       "desc": "Agent Platform Workbench Change 20260911.00_p0 Release Change 20260913.00_p0 Release Change Installed latest packages from upstream dependencies. Change...",
       "date": "Sep 13, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#September_13_2026"
-    },
-    {
-      "id": 30,
-      "provider": "GCP",
-      "title": "September 11, 2026",
-      "desc": "API Gateway Feature Enable Model Context Protocol (MCP) You can now configure API Gateway to act as a remote Model Context Protocol (MCP) server. This Public...",
-      "date": "Sep 11, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#September_11_2026"
     }
   ]
 }
