@@ -1,18 +1,27 @@
 {
-  "lastUpdated": "2026-10-05T13:56:56.808Z",
+  "lastUpdated": "2026-10-05T23:51:15.647Z",
   "count": 30,
   "news": [
     {
       "id": 1,
-      "provider": "GCP",
-      "title": "October 05, 2026",
-      "desc": "Google SecOps SIEM Feature [Spotlight Feature] Terraform and client libraries for multiple features using Chronicle API Terraform providers and Google Cloud...",
+      "provider": "AWS",
+      "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+      "desc": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI, built on a customized version of OpenAI’s Agents API engineered to...",
       "date": "Oct 5, 2026",
       "tag": "AI",
-      "link": "https://docs.cloud.google.com/release-notes#October_05_2026"
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/"
     },
     {
       "id": 2,
+      "provider": "GCP",
+      "title": "October 05, 2026",
+      "desc": "BigQuery Feature Iceberg external tables and Iceberg managed tables now support flexible column names by default. This feature is generally available (GA)....",
+      "date": "Oct 5, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#October_05_2026"
+    },
+    {
+      "id": 3,
       "provider": "GCP",
       "title": "October 04, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.102 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_04_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "October 03, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.101 is now available for all regions. Sensitive Data Protection Change A new version with an updated name...",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_03_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "October 02, 2026",
       "desc": "Apigee X Announcement On October 2, 2026, we released an updated version of Apigee (1-18-0-apigee-6). Note: Rollouts of this release began today and can take...",
@@ -39,7 +48,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_02_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "AWS",
       "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
       "desc": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual...",
@@ -48,7 +57,7 @@
       "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "GCP",
       "title": "October 01, 2026",
       "desc": "BigQuery Change An updated version of the Simba JDBC driver for BigQuery is now available. Feature Chatting with graphs in conversational analytics is now...",
@@ -57,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_01_2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "AWS",
       "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
       "desc": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 spec, along with column default values, deletion vectors, and row lineage. Upgrade...",
@@ -66,7 +75,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "AWS",
       "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
       "desc": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so...",
@@ -75,7 +84,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "AWS",
       "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
       "desc": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines...",
@@ -84,7 +93,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "AWS",
       "title": "Celebrating Our Newest AWS Heroes – September 2026",
       "desc": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and...",
@@ -93,7 +102,7 @@
       "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "Azure",
       "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
       "desc": "Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware. The post...",
@@ -102,7 +111,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "GCP",
       "title": "September 30, 2026",
       "desc": "API Gateway Feature Authenticate MCP tool discovery with an API key API key authentication is now supported for the Model Context Protocol (MCP) tools/list...",
@@ -111,7 +120,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_30_2026"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "Azure",
       "title": "SQL Server on Azure Local is now generally available",
       "desc": "With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data...",
@@ -120,7 +129,7 @@
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "GCP",
       "title": "September 29, 2026",
       "desc": "API Gateway Feature Configure streaming for LLM responses and other traffic You can now create API Gateway gateways that stream requests and responses instead...",
@@ -129,7 +138,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_29_2026"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "Azure",
       "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
       "desc": "Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI. The post FabCon...",
@@ -138,7 +147,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
       "desc": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?”...",
@@ -147,7 +156,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "Azure",
       "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
       "desc": "Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance. The post...",
@@ -156,7 +165,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "GCP",
       "title": "September 28, 2026",
       "desc": "Agent Platform Workbench Change 20260927.00_p0 Release Change Installed latest packages from upstream dependencies. Security Bulk security patch remediating...",
@@ -165,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_28_2026"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "September 27, 2026",
       "desc": "Agent Platform Workbench Change 20260927-2130-rc0 Release Change Installed latest packages from upstream dependencies. Change M151 Release Change Installed...",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_27_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "GCP",
       "title": "September 26, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.100 is now available for all regions. ]]>",
@@ -183,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_26_2026"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "GCP",
       "title": "September 25, 2026",
       "desc": "API Keys API Feature The API Keys remote Model Context Protocol (MCP) server is available in Preview. You can connect to the API Keys remote MCP server from AI...",
@@ -192,7 +201,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_25_2026"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "AWS",
       "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
       "desc": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event...",
@@ -201,7 +210,7 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "Azure",
       "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
       "desc": "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around...",
@@ -210,7 +219,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "GCP",
       "title": "September 24, 2026",
       "desc": "Access Approval Feature Fault Injection Testing is generally available (GA). Access Transparency Feature Fault Injection Testing is generally available (GA)....",
@@ -219,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_24_2026"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "Azure",
       "title": "Your architecture diagram is not your resilience",
       "desc": "For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property...",
@@ -228,7 +237,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "Azure",
       "title": "Designing agent-first platforms: What changes when agents do the work",
       "desc": "The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software. The post Designing...",
@@ -237,7 +246,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "GCP",
       "title": "September 23, 2026",
       "desc": "Apigee API hub Feature Preview launch of AWS API Gateway and Azure API Management plugins API hub now includes two new built-in plugins for ingesting API...",
@@ -246,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#September_23_2026"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "AWS",
       "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
       "desc": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience,...",
@@ -255,22 +264,13 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "AWS",
       "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
       "desc": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with...",
       "date": "Sep 22, 2026",
       "tag": "AI",
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/"
-    },
-    {
-      "id": 30,
-      "provider": "Azure",
-      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
-      "desc": "Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks....",
-      "date": "Sep 22, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/"
     }
   ]
 }
