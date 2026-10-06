@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T23:51:15.647Z",
+  "lastUpdated": "2026-10-06T05:27:54.368Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "October 05, 2026",
-      "desc": "BigQuery Feature Iceberg external tables and Iceberg managed tables now support flexible column names by default. This feature is generally available (GA)....",
+      "desc": "Agent Platform Workbench Change 20261004.00_p0 Release Change Installed latest packages from upstream dependencies. Change The BigQuery JupyterLab plugin is...",
       "date": "Oct 5, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_05_2026"
@@ -24,9 +24,9 @@
       "id": 3,
       "provider": "GCP",
       "title": "October 04, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.102 is being rolled out to the first phase of regions as listed here. This release contains internal and customer...",
+      "desc": "Agent Platform Workbench Change 20261004-2230-rc0 Release Change 20261004-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
       "date": "Oct 4, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_04_2026"
     },
     {
