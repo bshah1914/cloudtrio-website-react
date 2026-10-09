@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:47:32.089Z",
+  "lastUpdated": "2026-10-09T22:24:20.910Z",
   "count": 30,
   "news": [
     {
@@ -8,14 +8,14 @@
       "title": "October 09, 2026",
       "desc": "Datastream Feature Datastream now supports replicating SQL Server GEOMETRY and GEOGRAPHY spatial data types. For more information, see the following: Map SQL...",
       "date": "Oct 9, 2026",
-      "tag": "AI",
+      "tag": "Security",
       "link": "https://docs.cloud.google.com/release-notes#October_09_2026"
     },
     {
       "id": 2,
       "provider": "GCP",
       "title": "October 08, 2026",
-      "desc": "BigQuery Feature The following table types now support flexible column names by default: Iceberg external tables and Iceberg managed tables in BigQuery Apache...",
+      "desc": "Cloud SQL for MySQL Feature Cloud SQL for MySQL now supports the innodb_cloudsql_managed_buffer_pool_tuneup_pct database flag. Managed buffer pool...",
       "date": "Oct 8, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_08_2026"
@@ -26,7 +26,7 @@
       "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
       "desc": "The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated....",
       "date": "Oct 7, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/"
     },
     {
