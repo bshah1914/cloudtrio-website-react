@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-10-09T22:24:20.910Z",
+  "lastUpdated": "2026-10-10T04:56:00.240Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "October 09, 2026",
-      "desc": "Datastream Feature Datastream now supports replicating SQL Server GEOMETRY and GEOGRAPHY spatial data types. For more information, see the following: Map SQL...",
+      "desc": "Cloud SQL for MySQL Feature When you enable Knowledge Catalog (formerly Dataplex Universal Catalog) integration on an eligible Cloud SQL for MySQL instance...",
       "date": "Oct 9, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_09_2026"
     },
     {
@@ -249,9 +249,9 @@
       "id": 28,
       "provider": "GCP",
       "title": "September 26, 2026",
-      "desc": "Google SecOps SOAR Announcement Release 6.3.100 is now available for all regions. ]]>",
+      "desc": "Backup and DR Security Note: These fixes and updates are available starting with Backup and DR release 11.0.17.496. These fixes are not rolled out to the...",
       "date": "Sep 26, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#September_26_2026"
     },
     {
