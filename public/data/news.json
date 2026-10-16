@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-10-16T16:17:02.690Z",
+  "lastUpdated": "2026-10-16T20:38:29.498Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "October 16, 2026",
+      "desc": "Dialogflow Feature gemini-3.5-flash-lite has become generally available (GA). See Generative quotas for how to request quota for Gemini 3 and later models....",
+      "date": "Oct 16, 2026",
+      "tag": "AI",
+      "link": "https://docs.cloud.google.com/release-notes#October_16_2026"
+    },
+    {
+      "id": 2,
+      "provider": "Azure",
+      "title": "Evolving the cloud-native foundation for the next generation of AI",
+      "desc": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving...",
+      "date": "Oct 15, 2026",
+      "tag": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
+    },
+    {
+      "id": 3,
       "provider": "GCP",
       "title": "October 15, 2026",
       "desc": "Apigee Edge for Private Cloud Announcement Released Apigee Edge for Private Cloud 4.54.00. Designated Apigee Edge for Private Cloud 4.54.00.00 a long-term...",
@@ -12,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_15_2026"
     },
     {
-      "id": 2,
+      "id": 4,
       "provider": "AWS",
       "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
       "desc": "Amazon Simple Storage Service (Amazon S3), including Amazon S3 Tables and Amazon S3 Vectors, is natively available on the Vercel Marketplace and v0 by Vercel.",
@@ -21,7 +39,7 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/"
     },
     {
-      "id": 3,
+      "id": 5,
       "provider": "Azure",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
       "desc": "We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V. The post Microsoft named a Leader in the...",
@@ -30,7 +48,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
     },
     {
-      "id": 4,
+      "id": 6,
       "provider": "GCP",
       "title": "October 14, 2026",
       "desc": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.011 version line...",
@@ -39,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_14_2026"
     },
     {
-      "id": 5,
+      "id": 7,
       "provider": "Azure",
       "title": "Advancing hardware security with open-source Integrated HSM technology",
       "desc": "Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection. The post...",
@@ -48,7 +66,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/"
     },
     {
-      "id": 6,
+      "id": 8,
       "provider": "Azure",
       "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
       "desc": "AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact. The post...",
@@ -57,7 +75,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/"
     },
     {
-      "id": 7,
+      "id": 9,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
       "desc": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3...",
@@ -66,7 +84,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/"
     },
     {
-      "id": 8,
+      "id": 10,
       "provider": "GCP",
       "title": "October 13, 2026",
       "desc": "BigQuery Feature The AI.AGG function is generally available (GA). You can use this function to semantically aggregate unstructured input data based on natural...",
@@ -75,7 +93,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_13_2026"
     },
     {
-      "id": 9,
+      "id": 11,
       "provider": "AWS",
       "title": "Announcing AWS Lambda Web Functions",
       "desc": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through...",
@@ -84,7 +102,7 @@
       "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
     },
     {
-      "id": 10,
+      "id": 12,
       "provider": "Azure",
       "title": "Deep dive into Azure Maia 300 architecture",
       "desc": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first...",
@@ -93,7 +111,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
     },
     {
-      "id": 11,
+      "id": 13,
       "provider": "GCP",
       "title": "October 12, 2026",
       "desc": "Agent Platform Workbench Change 20261011.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where gcloud and...",
@@ -102,7 +120,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_12_2026"
     },
     {
-      "id": 12,
+      "id": 14,
       "provider": "GCP",
       "title": "October 11, 2026",
       "desc": "Agent Platform Workbench Change 20261011-2230-rc0 Release Change 20261011-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
@@ -111,7 +129,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_11_2026"
     },
     {
-      "id": 13,
+      "id": 15,
       "provider": "GCP",
       "title": "October 10, 2026",
       "desc": "Cloud SQL for MySQL Change MySQL 8.0.46 is now the default minor version for Cloud SQL for MySQL 8.0. For more information about minor version support in Cloud...",
@@ -120,7 +138,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_10_2026"
     },
     {
-      "id": 14,
+      "id": 16,
       "provider": "GCP",
       "title": "October 09, 2026",
       "desc": "Access Approval Feature Database Migration Service is generally available (GA). Access Transparency Feature Database Migration Service is generally available...",
@@ -129,7 +147,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_09_2026"
     },
     {
-      "id": 15,
+      "id": 17,
       "provider": "GCP",
       "title": "October 08, 2026",
       "desc": "Cloud SQL for MySQL Feature Cloud SQL for MySQL now supports the innodb_cloudsql_managed_buffer_pool_tuneup_pct database flag. Managed buffer pool...",
@@ -138,7 +156,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_08_2026"
     },
     {
-      "id": 16,
+      "id": 18,
       "provider": "Azure",
       "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
       "desc": "The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated....",
@@ -147,7 +165,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/"
     },
     {
-      "id": 17,
+      "id": 19,
       "provider": "GCP",
       "title": "October 07, 2026",
       "desc": "Anti Money Laundering AI Announcement New minor engine version released for the commercial line of business within the v004.005 version line...",
@@ -156,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_07_2026"
     },
     {
-      "id": 18,
+      "id": 20,
       "provider": "Azure",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
       "desc": "We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. The post Microsoft named...",
@@ -165,7 +183,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/"
     },
     {
-      "id": 19,
+      "id": 21,
       "provider": "AWS",
       "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
       "desc": "Amazon Prime Day 2026 was exclusively for Prime members and ran June 23–26, 2026 with millions of deals across more than 35 categories. As part of our annual...",
@@ -174,7 +192,7 @@
       "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/"
     },
     {
-      "id": 20,
+      "id": 22,
       "provider": "GCP",
       "title": "October 06, 2026",
       "desc": "AI Hypercomputer Feature Generally available: When you reserve compute resources for creating GPU instances through your account team, you can include a...",
@@ -183,7 +201,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_06_2026"
     },
     {
-      "id": 21,
+      "id": 23,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
       "desc": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI, built on a customized version of OpenAI’s Agents API engineered to...",
@@ -192,7 +210,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/"
     },
     {
-      "id": 22,
+      "id": 24,
       "provider": "GCP",
       "title": "October 05, 2026",
       "desc": "Agent Platform Workbench Change 20261004.00_p0 Release Change Installed latest packages from upstream dependencies. Change The BigQuery JupyterLab plugin is...",
@@ -201,7 +219,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_05_2026"
     },
     {
-      "id": 23,
+      "id": 25,
       "provider": "GCP",
       "title": "October 04, 2026",
       "desc": "Agent Platform Workbench Change 20261004-2230-rc0 Release Change 20261004-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
@@ -210,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_04_2026"
     },
     {
-      "id": 24,
+      "id": 26,
       "provider": "GCP",
       "title": "October 03, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.100.3 is now available for all regions. Sensitive Data Protection Change A new version with an updated name...",
@@ -219,7 +237,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_03_2026"
     },
     {
-      "id": 25,
+      "id": 27,
       "provider": "GCP",
       "title": "October 02, 2026",
       "desc": "Apigee X Announcement On October 2, 2026, we released an updated version of Apigee (1-18-0-apigee-6). Note: Rollouts of this release began today and can take...",
@@ -228,7 +246,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_02_2026"
     },
     {
-      "id": 26,
+      "id": 28,
       "provider": "AWS",
       "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
       "desc": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual...",
@@ -237,7 +255,7 @@
       "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/"
     },
     {
-      "id": 27,
+      "id": 29,
       "provider": "GCP",
       "title": "October 01, 2026",
       "desc": "BigQuery Change An updated version of the Simba JDBC driver for BigQuery is now available. Feature Chatting with graphs in conversational analytics is now...",
@@ -246,31 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#October_01_2026"
     },
     {
-      "id": 28,
+      "id": 30,
       "provider": "AWS",
       "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
       "desc": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 spec, along with column default values, deletion vectors, and row lineage. Upgrade...",
       "date": "Sep 30, 2026",
       "tag": "Storage",
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/"
-    },
-    {
-      "id": 29,
-      "provider": "AWS",
-      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
-      "desc": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so...",
-      "date": "Sep 30, 2026",
-      "tag": "Storage",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/"
-    },
-    {
-      "id": 30,
-      "provider": "AWS",
-      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
-      "desc": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines...",
-      "date": "Sep 30, 2026",
-      "tag": "Storage",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/"
     }
   ]
 }
