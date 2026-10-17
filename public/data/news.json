@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-10-16T20:38:29.498Z",
+  "lastUpdated": "2026-10-17T03:30:28.968Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "October 16, 2026",
-      "desc": "Dialogflow Feature gemini-3.5-flash-lite has become generally available (GA). See Generative quotas for how to request quota for Gemini 3 and later models....",
+      "desc": "BigQuery Feature Conversational analytics in BigQuery is now available in the following locations: northamerica-northeast1 (Montréal) northamerica-northeast2...",
       "date": "Oct 16, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_16_2026"
     },
     {
