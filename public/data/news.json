@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-22T03:47:57.964Z",
+  "lastUpdated": "2026-10-22T11:22:05.933Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "October 21, 2026",
-      "desc": "App Engine standard environment PHP Feature Patch updates to supported PHP runtimes are available with deployments from source: 8.5.12, 8.4.27, 8.3.36, and...",
+      "desc": "App Engine flexible environment PHP Feature Patch updates to supported PHP runtimes are available with deployments from source: 8.5.12, 8.4.27, 8.3.36, and...",
       "date": "Oct 21, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_21_2026"
