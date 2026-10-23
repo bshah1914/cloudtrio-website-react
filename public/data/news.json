@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T03:52:09.788Z",
+  "lastUpdated": "2026-10-23T11:12:02.629Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "October 22, 2026",
-      "desc": "App Engine standard environment PHP Security All supported versions of PHP 8.2 and later are patched. Take immediate protective action by redeploying your...",
+      "desc": "Apigee X Announcement On October 22, 2026, we released an updated version of Apigee (1-18-0-apigee-7). Note: Rollouts of this release began today and can take...",
       "date": "Oct 22, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_22_2026"
