@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T21:18:17.190Z",
+  "lastUpdated": "2026-10-23T03:52:09.788Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "October 22, 2026",
-      "desc": "Compute Engine Feature You can view how a managed instance group (MIG) distributes its instances across zones and machine types, directly from the MIG's...",
+      "desc": "App Engine standard environment PHP Security All supported versions of PHP 8.2 and later are patched. Take immediate protective action by redeploying your...",
       "date": "Oct 22, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_22_2026"
@@ -24,7 +24,7 @@
       "id": 3,
       "provider": "GCP",
       "title": "October 21, 2026",
-      "desc": "App Engine flexible environment PHP Feature Patch updates to supported PHP runtimes are available with deployments from source: 8.5.12, 8.4.27, 8.3.36, and...",
+      "desc": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.2 On October 21, 2026, we released Apigee Emulator version 2.0.2. This release upgrades the Apigee...",
       "date": "Oct 21, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_21_2026"
