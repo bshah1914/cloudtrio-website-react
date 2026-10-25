@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-25T03:45:27.399Z",
+  "lastUpdated": "2026-10-25T10:56:47.343Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "October 24, 2026",
-      "desc": "App Engine flexible environment Go Security The following runtime language contains important security updates: Go 1.24 and later: 1.24.13, 1.25.14, 1.26.10,...",
+      "desc": "App Engine flexible environment .NET Security The following runtime language contains important security updates: .NET 6 and later: 6.0.428, 8.0.415, 10.0.100...",
       "date": "Oct 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_24_2026"
