@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T11:51:55.888Z",
+  "lastUpdated": "2026-10-31T16:58:34.881Z",
   "count": 30,
   "news": [
     {
@@ -123,7 +123,7 @@
       "id": 14,
       "provider": "GCP",
       "title": "October 22, 2026",
-      "desc": "Apigee X Announcement On October 22, 2026, we released an updated version of Apigee (1-18-0-apigee-7). Note: Rollouts of this release began today and can take...",
+      "desc": "App Engine flexible environment PHP Security All supported versions of PHP 8.2 and later are patched. Take immediate protective action by redeploying your...",
       "date": "Oct 22, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_22_2026"
@@ -132,7 +132,7 @@
       "id": 15,
       "provider": "GCP",
       "title": "October 21, 2026",
-      "desc": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.2 On October 21, 2026, we released Apigee Emulator version 2.0.2. This release upgrades the Apigee...",
+      "desc": "Apigee hybrid Announcement v1.15.9 On October 21, 2026 we released an updated version of the Apigee hybrid software, v1.15.9. For information on upgrading, see...",
       "date": "Oct 21, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_21_2026"
@@ -216,7 +216,7 @@
       "desc": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight...",
       "date": "Oct 16, 2026",
       "tag": "AI",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
+      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/"
     },
     {
       "id": 25,
