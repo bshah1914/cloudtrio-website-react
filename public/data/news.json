@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-30T22:00:49.326Z",
+  "lastUpdated": "2026-10-31T04:38:59.009Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "October 30, 2026",
-      "desc": "Backup and DR Feature You can now edit existing backup plans for Cloud SQL instances to update settings such as backup rules and maximum custom on-demand...",
+      "desc": "Agent Registry Feature Agent Registry supports cross-project management boundaries (Preview), letting you centrally discover, search, and govern AI agents,...",
       "date": "Oct 30, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#October_30_2026"
