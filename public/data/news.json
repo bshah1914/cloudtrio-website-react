@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T04:38:59.009Z",
+  "lastUpdated": "2026-10-31T11:51:55.888Z",
   "count": 30,
   "news": [
     {
@@ -216,7 +216,7 @@
       "desc": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight...",
       "date": "Oct 16, 2026",
       "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/"
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
     },
     {
       "id": 25,
