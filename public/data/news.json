@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-03T13:48:52.970Z",
+  "lastUpdated": "2026-11-03T22:59:19.595Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 03, 2026",
-      "desc": "Oracle Database@Google Cloud Feature Oracle Database@Google Cloud introduces Database Connections using which you can connect to your Oracle databases and...",
+      "desc": "Application Design Center Feature Application Design Center is available in the following regions: Osaka, Japan (asia-northeast2) Mumbai, India (asia-south1)...",
       "date": "Nov 3, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#November_03_2026"
