@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-11-03T22:59:19.595Z",
+  "lastUpdated": "2026-11-04T05:23:10.134Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 03, 2026",
-      "desc": "Application Design Center Feature Application Design Center is available in the following regions: Osaka, Japan (asia-northeast2) Mumbai, India (asia-south1)...",
+      "desc": "API Gateway Feature Call Google Cloud APIs from streaming gateways Streaming gateways can now call Google Cloud APIs such as aiplatform.googleapis.com. A...",
       "date": "Nov 3, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_03_2026"
     },
     {
