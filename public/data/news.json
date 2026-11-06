@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-11-06T13:54:16.670Z",
+  "lastUpdated": "2026-11-06T22:49:26.250Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "November 06, 2026",
+      "desc": "BigQuery Announcement You can now use BigQuery Graph and run Graph Query Language (GQL) queries when you use on-demand pricing. Bigtable Feature You can...",
+      "date": "Nov 6, 2026",
+      "tag": "Compute",
+      "link": "https://docs.cloud.google.com/release-notes#November_06_2026"
+    },
+    {
+      "id": 2,
       "provider": "GCP",
       "title": "November 05, 2026",
       "desc": "Apigee Edge for Public Cloud Announcement Scheduled maintenance of Management/Control Plane for the Apigee Edge for Public Cloud on November 6, 2026. Scheduled...",
@@ -12,22 +21,13 @@
       "link": "https://docs.cloud.google.com/release-notes#November_05_2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "AWS",
       "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
       "desc": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or...",
       "date": "Nov 4, 2026",
       "tag": "Compute",
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/"
-    },
-    {
-      "id": 3,
-      "provider": "Azure",
-      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
-      "desc": "Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers...",
-      "date": "Nov 4, 2026",
-      "tag": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/"
     },
     {
       "id": 4,
