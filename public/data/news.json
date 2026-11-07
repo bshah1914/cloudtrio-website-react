@@ -1,18 +1,36 @@
 {
-  "lastUpdated": "2026-11-06T22:49:26.250Z",
+  "lastUpdated": "2026-11-07T05:09:17.351Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 06, 2026",
-      "desc": "BigQuery Announcement You can now use BigQuery Graph and run Graph Query Language (GQL) queries when you use on-demand pricing. Bigtable Feature You can...",
+      "desc": "Agent Registry Feature Skill security scanning and governance in Agent Registry are available. You can automatically scan standalone skill revisions for...",
       "date": "Nov 6, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_06_2026"
     },
     {
       "id": 2,
+      "provider": "Azure",
+      "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+      "desc": "AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects. The post Stop treating agents as one-off...",
+      "date": "Nov 5, 2026",
+      "tag": "AI",
+      "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/"
+    },
+    {
+      "id": 3,
+      "provider": "Azure",
+      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+      "desc": "Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating...",
+      "date": "Nov 5, 2026",
+      "tag": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/"
+    },
+    {
+      "id": 4,
       "provider": "GCP",
       "title": "November 05, 2026",
       "desc": "Apigee Edge for Public Cloud Announcement Scheduled maintenance of Management/Control Plane for the Apigee Edge for Public Cloud on November 6, 2026. Scheduled...",
@@ -21,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_05_2026"
     },
     {
-      "id": 3,
+      "id": 5,
       "provider": "AWS",
       "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
       "desc": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or...",
@@ -30,7 +48,16 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/"
     },
     {
-      "id": 4,
+      "id": 6,
+      "provider": "Azure",
+      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+      "desc": "Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers...",
+      "date": "Nov 4, 2026",
+      "tag": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/"
+    },
+    {
+      "id": 7,
       "provider": "GCP",
       "title": "November 04, 2026",
       "desc": "API Gateway Announcement Negative backend deadlines are no longer deprecated The deprecation of negative backend deadline values announced on October 23, 2026...",
@@ -39,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_04_2026"
     },
     {
-      "id": 5,
+      "id": 8,
       "provider": "GCP",
       "title": "November 03, 2026",
       "desc": "API Gateway Feature Call Google Cloud APIs from streaming gateways Streaming gateways can now call Google Cloud APIs such as aiplatform.googleapis.com. A...",
@@ -48,7 +75,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_03_2026"
     },
     {
-      "id": 6,
+      "id": 9,
       "provider": "Azure",
       "title": "The Platform Behind the Next AI Breakthrough",
       "desc": "The next frontier of AI is coming into focus as agents take on longer, more strategic work. The post The Platform Behind the Next AI Breakthrough appeared...",
@@ -57,7 +84,7 @@
       "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/"
     },
     {
-      "id": 7,
+      "id": 10,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
       "desc": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already...",
@@ -66,7 +93,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/"
     },
     {
-      "id": 8,
+      "id": 11,
       "provider": "GCP",
       "title": "November 02, 2026",
       "desc": "Agent Platform Workbench Change 20261101.00_p0 Release Change Installed latest packages from upstream dependencies. Security Upgraded the container host to the...",
@@ -75,7 +102,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_02_2026"
     },
     {
-      "id": 9,
+      "id": 12,
       "provider": "GCP",
       "title": "November 01, 2026",
       "desc": "Agent Platform Workbench Change 20261101-2230-rc0 Release Change 20261101-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
@@ -84,7 +111,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_01_2026"
     },
     {
-      "id": 10,
+      "id": 13,
       "provider": "GCP",
       "title": "October 31, 2026",
       "desc": "Google SecOps Feature Basic Mode search This feature is in public preview. The SIEM Search page now provides two search-execution modes: Basic Mode and...",
@@ -93,7 +120,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_31_2026"
     },
     {
-      "id": 11,
+      "id": 14,
       "provider": "GCP",
       "title": "October 30, 2026",
       "desc": "Agent Registry Feature Agent Registry supports cross-project management boundaries (Preview), letting you centrally discover, search, and govern AI agents,...",
@@ -102,7 +129,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_30_2026"
     },
     {
-      "id": 12,
+      "id": 15,
       "provider": "Azure",
       "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
       "desc": "Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations. The...",
@@ -111,7 +138,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/"
     },
     {
-      "id": 13,
+      "id": 16,
       "provider": "GCP",
       "title": "October 29, 2026",
       "desc": "AlloyDB for PostgreSQL Feature AlloyDB AI adds pre-registered support for the following Gemini models in version 1.6.5 and later of the google_ml_integration...",
@@ -120,7 +147,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_29_2026"
     },
     {
-      "id": 14,
+      "id": 17,
       "provider": "Azure",
       "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
       "desc": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in...",
@@ -129,7 +156,7 @@
       "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/"
     },
     {
-      "id": 15,
+      "id": 18,
       "provider": "GCP",
       "title": "October 28, 2026",
       "desc": "AlloyDB for PostgreSQL Announcement The following AlloyDB AI and vector search features and improvements are generally available (GA): The alloydb_scann...",
@@ -138,7 +165,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_28_2026"
     },
     {
-      "id": 16,
+      "id": 19,
       "provider": "GCP",
       "title": "October 27, 2026",
       "desc": "AlloyDB for PostgreSQL Announcement The following AlloyDB AI functions and improvements are available in Preview: The ai.extract function lets you extract...",
@@ -147,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_27_2026"
     },
     {
-      "id": 17,
+      "id": 20,
       "provider": "Azure",
       "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
       "desc": "As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions. The post Scale...",
@@ -156,7 +183,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/"
     },
     {
-      "id": 18,
+      "id": 21,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
       "desc": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in São Paulo. My talk ran...",
@@ -165,7 +192,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/"
     },
     {
-      "id": 19,
+      "id": 22,
       "provider": "GCP",
       "title": "October 26, 2026",
       "desc": "Agent Platform Workbench Change 20261025.00_p0 Release Change Installed latest packages from upstream dependencies. Security Updated certifi, pip, and conda...",
@@ -174,7 +201,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_26_2026"
     },
     {
-      "id": 20,
+      "id": 23,
       "provider": "GCP",
       "title": "October 25, 2026",
       "desc": "Agent Platform Workbench Change 20261025-2230-rc0 Release Change 20261025-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
@@ -183,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_25_2026"
     },
     {
-      "id": 21,
+      "id": 24,
       "provider": "GCP",
       "title": "October 24, 2026",
       "desc": "App Engine flexible environment .NET Security The following runtime language contains important security updates: .NET 6 and later: 6.0.428, 8.0.415, 10.0.100...",
@@ -192,7 +219,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_24_2026"
     },
     {
-      "id": 22,
+      "id": 25,
       "provider": "GCP",
       "title": "October 23, 2026",
       "desc": "API Gateway Deprecated Negative backend deadlines are deprecated A negative backend deadline in an OpenAPI 2.0 x-google-backend extension or a gRPC BackendRule...",
@@ -201,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_23_2026"
     },
     {
-      "id": 23,
+      "id": 26,
       "provider": "AWS",
       "title": "AWS Continuum for code vulnerabilities is now generally available",
       "desc": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your...",
@@ -210,7 +237,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/"
     },
     {
-      "id": 24,
+      "id": 27,
       "provider": "GCP",
       "title": "October 22, 2026",
       "desc": "Apigee X Announcement On October 22, 2026, we released an updated version of Apigee (1-18-0-apigee-7). Note: Rollouts of this release began today and can take...",
@@ -219,7 +246,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_22_2026"
     },
     {
-      "id": 25,
+      "id": 28,
       "provider": "GCP",
       "title": "October 21, 2026",
       "desc": "Apigee X Announcement Apigee Emulator Apigee Emulator v2.0.2 On October 21, 2026, we released Apigee Emulator version 2.0.2. This release upgrades the Apigee...",
@@ -228,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#October_21_2026"
     },
     {
-      "id": 26,
+      "id": 29,
       "provider": "Azure",
       "title": "Advancing digital sovereignty with greater control and choice",
       "desc": "Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting...",
@@ -237,40 +264,13 @@
       "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
     },
     {
-      "id": 27,
+      "id": 30,
       "provider": "AWS",
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
       "desc": "Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing...",
       "date": "Oct 20, 2026",
       "tag": "Compute",
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/"
-    },
-    {
-      "id": 28,
-      "provider": "GCP",
-      "title": "October 20, 2026",
-      "desc": "Agent Platform Workbench Change M154 Release Change Installed latest packages from upstream dependencies. Fixed Fixed dataset and table search in the BigQuery...",
-      "date": "Oct 20, 2026",
-      "tag": "Compute",
-      "link": "https://docs.cloud.google.com/release-notes#October_20_2026"
-    },
-    {
-      "id": 29,
-      "provider": "Azure",
-      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-      "desc": "A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain...",
-      "date": "Oct 19, 2026",
-      "tag": "AI",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/"
-    },
-    {
-      "id": 30,
-      "provider": "AWS",
-      "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
-      "desc": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS...",
-      "date": "Oct 19, 2026",
-      "tag": "Compute",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/"
     }
   ]
 }
