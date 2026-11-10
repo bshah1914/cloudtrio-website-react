@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-11-10T14:30:33.499Z",
+  "lastUpdated": "2026-11-10T22:57:04.432Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 10, 2026",
-      "desc": "Model Armor Feature Model Armor image screening is generally available (GA). You can extract and screen images embedded within supported rich text documents...",
+      "desc": "BigQuery Feature You can use graph measures to lock an aggregation to a key in order to perform complex aggregations without overcounting. Measure expressions...",
       "date": "Nov 10, 2026",
-      "tag": "AI",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_10_2026"
     },
     {
