@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-10T22:57:04.432Z",
+  "lastUpdated": "2026-11-11T05:14:52.188Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 10, 2026",
-      "desc": "BigQuery Feature You can use graph measures to lock an aggregation to a key in order to perform complex aggregations without overcounting. Measure expressions...",
+      "desc": "Agent Platform Workbench Feature Antigravity CLI in Agent Platform Workbench instances Preview: The Antigravity CLI is available in Agent Platform Workbench...",
       "date": "Nov 10, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_10_2026"
