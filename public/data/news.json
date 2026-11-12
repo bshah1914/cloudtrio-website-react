@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-11-12T14:48:45.421Z",
+  "lastUpdated": "2026-11-12T23:18:14.357Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 12, 2026",
-      "desc": "Cloud Service Mesh Announcement 1.31.3-asm.9 is now available for in-cluster Cloud Service Mesh. For details on upgrading Cloud Service Mesh, see Upgrade Cloud...",
+      "desc": "API Keys API Feature The API Keys remote Model Context Protocol (MCP) server is generally available (GA). You can use the API Keys remote MCP server in your AI...",
       "date": "Nov 12, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_12_2026"
     },
     {
@@ -33,7 +33,7 @@
       "id": 4,
       "provider": "GCP",
       "title": "November 10, 2026",
-      "desc": "API Gateway Feature TLS 1.3 for connections to backends TLS 1.3 is now enabled on connections from API Gateway gateways to backend services. When a backend...",
+      "desc": "API Gateway Feature TLS 1.3 for connections to backends API Gateway is rolling out support for TLS 1.3 on connections to backend services. Once the rollout...",
       "date": "Nov 10, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_10_2026"
