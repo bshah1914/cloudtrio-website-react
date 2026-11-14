@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-14T05:29:28.901Z",
+  "lastUpdated": "2026-11-14T13:09:11.678Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 13, 2026",
-      "desc": "Access Approval Feature Cloud Quotas is generally available (GA). Access Transparency Feature Cloud Quotas is generally available (GA). BigQuery Feature...",
+      "desc": "Access Approval Feature Cloud Quotas is generally available (GA). Access Transparency Feature Cloud Quotas is generally available (GA). Apigee X Announcement...",
       "date": "Nov 13, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_13_2026"
