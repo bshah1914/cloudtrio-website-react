@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T23:59:48.888Z",
+  "lastUpdated": "2026-11-19T07:11:30.253Z",
   "count": 30,
   "news": [
     {
@@ -15,9 +15,9 @@
       "id": 2,
       "provider": "GCP",
       "title": "November 18, 2026",
-      "desc": "Apigee Edge for Private Cloud Fixed Resolved the following issues in Apigee Edge for Private Cloud 4.53.01.03: Fixed an issue where API proxy deployments that...",
+      "desc": "Apigee Edge for Private Cloud Announcement Released Apigee Edge for Private Cloud 4.53.01.03. For the list of updated RPM packages and the patch update...",
       "date": "Nov 18, 2026",
-      "tag": "Security",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_18_2026"
     },
     {
