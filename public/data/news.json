@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-19T20:09:36.134Z",
+  "lastUpdated": "2026-11-20T06:17:25.541Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 19, 2026",
-      "desc": "BigQuery Feature You can now enable agent observability with the Data Engineering Agent to monitor the agent's token consumption, request volume, and model...",
+      "desc": "Agent Registry Feature Agent Registry supports Model Context Protocol (MCP) tool protocol-level metadata, including Identity-Aware Proxy (IAP) policy hints for...",
       "date": "Nov 19, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_19_2026"
