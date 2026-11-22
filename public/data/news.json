@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-11-22T05:41:55.687Z",
+  "lastUpdated": "2026-11-22T14:15:47.215Z",
   "count": 30,
   "news": [
     {
       "id": 1,
       "provider": "GCP",
       "title": "November 21, 2026",
-      "desc": "Cloud SDK Change 594.0.1 (2026-11-21) Google Cloud CLI General bug fixes. Subscribe to these release notes at...",
+      "desc": "App Engine flexible environment PHP Security The following runtime language contains important security updates: PHP 8.2 and later: 8.2.36, 8.3.37, 8.4.28,...",
       "date": "Nov 21, 2026",
-      "tag": "General",
+      "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_21_2026"
     },
     {
