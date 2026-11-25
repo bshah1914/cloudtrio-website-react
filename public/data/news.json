@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T07:34:31.127Z",
+  "lastUpdated": "2026-11-25T21:17:38.472Z",
   "count": 30,
   "news": [
     {
@@ -15,7 +15,7 @@
       "id": 2,
       "provider": "GCP",
       "title": "November 24, 2026",
-      "desc": "BigQuery Feature The following table-valued functions are now generally available (GA) in the query editor and as part of conversational analytics to help you...",
+      "desc": "Apigee hybrid Announcement v1.15.11 On November 24, 2026, we released an updated version of the Apigee hybrid software, v1.15.11. For information about...",
       "date": "Nov 24, 2026",
       "tag": "Compute",
       "link": "https://docs.cloud.google.com/release-notes#November_24_2026"
