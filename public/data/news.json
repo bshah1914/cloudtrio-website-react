@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-11-25T21:17:38.472Z",
+  "lastUpdated": "2026-11-26T07:23:50.535Z",
   "count": 30,
   "news": [
     {
       "id": 1,
+      "provider": "GCP",
+      "title": "November 25, 2026",
+      "desc": "BigQuery Feature You can use cross-cloud connections to query data in AWS, Azure, and Salesforce Data 360 from all BigQuery regions with more feature...",
+      "date": "Nov 25, 2026",
+      "tag": "Storage",
+      "link": "https://docs.cloud.google.com/release-notes#November_25_2026"
+    },
+    {
+      "id": 2,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
       "desc": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes...",
@@ -12,7 +21,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/"
     },
     {
-      "id": 2,
+      "id": 3,
       "provider": "GCP",
       "title": "November 24, 2026",
       "desc": "Apigee hybrid Announcement v1.15.11 On November 24, 2026, we released an updated version of the Apigee hybrid software, v1.15.11. For information about...",
@@ -21,7 +30,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_24_2026"
     },
     {
-      "id": 3,
+      "id": 4,
       "provider": "GCP",
       "title": "November 23, 2026",
       "desc": "Apigee Edge for Public Cloud Announcement Released Edge Microgateway 3.3.13. Component Version microgateway 3.3.13 plugins 3.3.9 edgeauth 3.2.2 To upgrade,...",
@@ -30,7 +39,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_23_2026"
     },
     {
-      "id": 4,
+      "id": 5,
       "provider": "GCP",
       "title": "November 21, 2026",
       "desc": "App Engine flexible environment PHP Security The following runtime language contains important security updates: PHP 8.2 and later: 8.2.36, 8.3.37, 8.4.28,...",
@@ -39,7 +48,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_21_2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "provider": "GCP",
       "title": "November 20, 2026",
       "desc": "Apigee hybrid Announcement v1.17.5 On November 20, 2026 we released an updated version of the Apigee hybrid software, v1.17.5. For information about upgrading,...",
@@ -48,7 +57,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_20_2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "provider": "GCP",
       "title": "November 19, 2026",
       "desc": "Agent Registry Feature Agent Registry supports Model Context Protocol (MCP) tool protocol-level metadata, including Identity-Aware Proxy (IAP) policy hints for...",
@@ -57,7 +66,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_19_2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "provider": "AWS",
       "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
       "desc": "AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine...",
@@ -66,7 +75,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/"
     },
     {
-      "id": 8,
+      "id": 9,
       "provider": "GCP",
       "title": "November 18, 2026",
       "desc": "API Gateway Feature Model routers can route to Google API endpoints on different hosts A model router can now reference Google API backends on different hosts,...",
@@ -75,7 +84,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_18_2026"
     },
     {
-      "id": 9,
+      "id": 10,
       "provider": "Azure",
       "title": "Microsoft and Oracle bring agentic AI into flow of enterprise work",
       "desc": "Our new integrations let AI agents reason across Oracle’s business-critical data. The post Microsoft and Oracle bring agentic AI into flow of enterprise work...",
@@ -84,7 +93,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/"
     },
     {
-      "id": 10,
+      "id": 11,
       "provider": "Azure",
       "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
       "desc": "At Microsoft Ignite 2026, we’ll showcase what’s possible when models, silicon, and cloud infrastructure converge into a single, co-engineered system. By tuning...",
@@ -93,7 +102,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/"
     },
     {
-      "id": 11,
+      "id": 12,
       "provider": "Azure",
       "title": "Microsoft Ignite 2026: What&#8217;s new in Azure, the platform purpose-built for AI",
       "desc": "At Microsoft Ignite, we're sharing what's new across every layer of the platform. New capabilities spanning compute, storage, and networking let you run AI at...",
@@ -102,7 +111,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/"
     },
     {
-      "id": 12,
+      "id": 13,
       "provider": "Azure",
       "title": "Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era",
       "desc": "Azure Cobalt 200 VMs bring improved performance and efficiency to cloud-native applications, databases, developer tools, and agentic AI workloads. The post...",
@@ -111,7 +120,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/"
     },
     {
-      "id": 13,
+      "id": 14,
       "provider": "Azure",
       "title": "Continuous improvement comes to Microsoft Foundry",
       "desc": "Discover how continuous improvement in Microsoft Foundry helps organizations evaluate, optimize, and improve agents over time while keeping teams in control....",
@@ -120,7 +129,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/"
     },
     {
-      "id": 14,
+      "id": 15,
       "provider": "Azure",
       "title": "Introducing the new Microsoft IQ: Putting your organization&#8217;s intelligence to work in every agent",
       "desc": "Today, we are announcing Microsoft IQ, the enterprise context management platform that helps organizations create their own IQ. What sets an organization apart...",
@@ -129,7 +138,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/"
     },
     {
-      "id": 15,
+      "id": 16,
       "provider": "AWS",
       "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
       "desc": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whether through sharing...",
@@ -138,7 +147,7 @@
       "link": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/"
     },
     {
-      "id": 16,
+      "id": 17,
       "provider": "GCP",
       "title": "November 17, 2026",
       "desc": "Access Context Manager Feature Extended session length for Workforce Identity Federation is generally available (GA) for OAuth apps owned by Google Cloud...",
@@ -147,7 +156,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_17_2026"
     },
     {
-      "id": 17,
+      "id": 18,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
       "desc": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate...",
@@ -156,7 +165,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/"
     },
     {
-      "id": 18,
+      "id": 19,
       "provider": "GCP",
       "title": "November 16, 2026",
       "desc": "Agent Platform Workbench Change 20261115.00_p0 Release Change Installed latest packages from upstream dependencies. Change JupyterLab extension settings are...",
@@ -165,7 +174,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_16_2026"
     },
     {
-      "id": 19,
+      "id": 20,
       "provider": "GCP",
       "title": "November 15, 2026",
       "desc": "Agent Platform Workbench Change 20261115-2230-rc0 Release Change 20261115-2230-rc0 Release Change Installed latest packages from upstream dependencies. Change...",
@@ -174,7 +183,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_15_2026"
     },
     {
-      "id": 20,
+      "id": 21,
       "provider": "GCP",
       "title": "November 14, 2026",
       "desc": "Access Approval Feature Service Usage is generally available (GA). Access Transparency Feature Service Usage is generally available (GA). Agent Platform...",
@@ -183,7 +192,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_14_2026"
     },
     {
-      "id": 21,
+      "id": 22,
       "provider": "GCP",
       "title": "November 13, 2026",
       "desc": "Access Approval Feature Cloud Quotas is generally available (GA). Access Transparency Feature Cloud Quotas is generally available (GA). Apigee X Announcement...",
@@ -192,7 +201,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_13_2026"
     },
     {
-      "id": 22,
+      "id": 23,
       "provider": "GCP",
       "title": "November 12, 2026",
       "desc": "API Keys API Feature The API Keys remote Model Context Protocol (MCP) server is generally available (GA). You can use the API Keys remote MCP server in your AI...",
@@ -201,7 +210,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_12_2026"
     },
     {
-      "id": 23,
+      "id": 24,
       "provider": "AWS",
       "title": "Test your applications against AWS locally with AWS Emulator",
       "desc": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using...",
@@ -210,7 +219,7 @@
       "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/"
     },
     {
-      "id": 24,
+      "id": 25,
       "provider": "GCP",
       "title": "November 11, 2026",
       "desc": "Apigee Edge for Public Cloud Announcement On November 11, 2026, we began releasing Edge UI updates for Apigee Edge for Public Cloud. Fixed Bug ID Component...",
@@ -219,7 +228,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_11_2026"
     },
     {
-      "id": 25,
+      "id": 26,
       "provider": "GCP",
       "title": "November 10, 2026",
       "desc": "API Gateway Feature MCP method and tool name in request logs API Gateway request logs now include the Model Context Protocol (MCP) method of each MCP request,...",
@@ -228,7 +237,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_10_2026"
     },
     {
-      "id": 26,
+      "id": 27,
       "provider": "AWS",
       "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
       "desc": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering...",
@@ -237,7 +246,7 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/"
     },
     {
-      "id": 27,
+      "id": 28,
       "provider": "GCP",
       "title": "November 09, 2026",
       "desc": "AI Hypercomputer Feature Generally available: Pathways on Cloud is now generally available on Google Kubernetes Engine (GKE). Major features include the...",
@@ -246,7 +255,7 @@
       "link": "https://docs.cloud.google.com/release-notes#November_09_2026"
     },
     {
-      "id": 28,
+      "id": 29,
       "provider": "GCP",
       "title": "November 08, 2026",
       "desc": "Cloud Asset Inventory Feature The following resource type is publicly available through the SearchAllResources and SearchAllIamPolicies APIs. Gemini for Google...",
@@ -255,22 +264,13 @@
       "link": "https://docs.cloud.google.com/release-notes#November_08_2026"
     },
     {
-      "id": 29,
+      "id": 30,
       "provider": "GCP",
       "title": "November 07, 2026",
       "desc": "Google SecOps SOAR Announcement Release 6.3.105 is now available for all regions. ]]>",
       "date": "Nov 7, 2026",
       "tag": "AI",
       "link": "https://docs.cloud.google.com/release-notes#November_07_2026"
-    },
-    {
-      "id": 30,
-      "provider": "Azure",
-      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
-      "desc": "Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications. The post...",
-      "date": "Nov 6, 2026",
-      "tag": "AI",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032"
     }
   ]
 }
