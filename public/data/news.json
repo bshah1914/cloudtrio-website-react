@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T20:49:36.897Z",
+  "lastUpdated": "2026-11-28T06:52:23.922Z",
   "count": 30,
   "news": [
     {
@@ -17,7 +17,7 @@
       "title": "November 26, 2026",
       "desc": "Managed Service for Apache Airflow Feature Agentic upgrade check is available in Managed Airflow. Before upgrading your environment, you can run an upgrade...",
       "date": "Nov 26, 2026",
-      "tag": "AI",
+      "tag": "Storage",
       "link": "https://docs.cloud.google.com/release-notes#November_26_2026"
     },
     {
